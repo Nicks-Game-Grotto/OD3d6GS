@@ -1,0 +1,51 @@
+# Logs and temporary system files
+*.log
+*.tmp
+*.temp
+
+# OS-generated files
+.DS_Store
+Thumbs.db
+
+# Adobe file extensions (exclude all except PDF)
+*.psd
+*.ai
+*.indd
+*.xd
+
+# Allow PDF explicitly
+!*.pdf
+
+# Python-related (if using Python scripts for automation)
+__pycache__/
+*.py[cod]
+*.pyo
+.env
+
+# Node.js-related (if using for automation or integrations)
+node_modules/
+npm-debug.log*
+
+# Backup files
+*.bak
+*.swp
+*.swo
+*~
+
+# Editor-specific
+.idea/
+.vscode/
+*.code-workspace
+
+# Sensitive files
+.env
+*.token
+*.secret
+secrets.json
+
+# Generated output files (if any)
+*.html
+
+# Build files (if any scripts compile code)
+dist/
+build/
