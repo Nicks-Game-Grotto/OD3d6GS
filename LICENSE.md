@@ -20,7 +20,8 @@ By using, copying, modifying, or distributing any part of OD3d6GS or Stereotera 
 
 ## Section 2: Grant of License
 
-1. **Free Use**: You are granted the right to use, copy, modify, and distribute OD3d6GS and Stereotera content for personal, commercial, or non-commercial purposes, provided you comply with the terms of this license.
+1. **Free Use**: You are granted the right to use, copy, modify, and distribute OD3d6GS and Stereotera content for personal or non-commercial purposes, provided you comply with the terms of this license.  
+   **Commercial Use Restriction**: Commercial use of OD3d6GS and Stereotera content is prohibited unless prior written permission is obtained from Nicholas R. Grotto. This restriction will expire on **[specified date]**, after which commercial use will be allowed under this license without prior permission.
 2. **Attribution Requirement**: All distributions or derivative works must include clear attribution to Nicholas R. Grotto and Nick's Game Grotto, along with a reference to the original work. Example:  
    *"This work is based on the Open Development 3d6 Game System (OD3d6GS) created by Nicholas R. Grotto and Nick's Game Grotto (www.nickgrotto.com). Used under license."*
 3. **Copyleft Clause**: Any derivative work based on OD3d6GS or Stereotera must be distributed under the same license, ensuring it remains freely available and modifiable under these terms.
@@ -32,7 +33,8 @@ By using, copying, modifying, or distributing any part of OD3d6GS or Stereotera 
 
 1. **No Misrepresentation**: You may not claim authorship of OD3d6GS or Stereotera. Proper attribution is always required.
 2. **No Use of Proprietary Content**: You may not use, adapt, or redistribute *Death Mesa* or any other proprietary works created by Nicholas R. Grotto unless expressly permitted.
-3. **Preservation of License**: This license must accompany all distributions and derivative works. Any modification or removal of this license is prohibited.
+3. **No Unauthorized Commercial Use**: Commercial use of OD3d6GS and Stereotera content is not allowed unless prior written permission is obtained, subject to the expiration clause in Section 2.1.
+4. **Preservation of License**: This license must accompany all distributions and derivative works. Any modification or removal of this license is prohibited.
 
 ---
 
