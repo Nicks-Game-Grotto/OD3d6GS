@@ -215,9 +215,8 @@ The Concord of Wanderers invites players to embrace the spirit of adventure, exp
 
 ---
 ---
-# **Currency System of Stereotera: Infinite Realms**
 
----
+# **Currency System of Stereotera: Infinite Realms**
 
 ## **Historical Overview**  
 The modern currency system of Stereotera emerged after centuries of feudal war, during which factions vied for dominance over resources, trade routes, and influence. The continuous conflicts devastated economies, leaving the world fragmented and inefficient. The formation of the **Corsair Trade Corporation (CTC)** served as a unifying force, introducing a standardized currency to facilitate trade and stabilize regional economies. 
