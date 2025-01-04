@@ -1,11 +1,7 @@
 # **Stereotera: Infinite Realms**
 Welcome to **Stereotera**, a vast and ever-evolving world where diverse cultures, ecosystems, and ideologies clash and coexist in fragile balance. Each of the four continents and surrounding island chains presents unique challenges and opportunities for adventurers seeking fame, fortune, or freedom. The interconnected realms invite exploration, conflict, and collaboration, offering endless possibilities for storytelling.
 
----
----
 ## **The Four Continents**
-
----
 
 ### **1. The Cybrix Technocracy (The Hive-Mind Dominion)**
 - **Name of the Continent:** **Cybrixia**
