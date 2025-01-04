@@ -1,6 +1,9 @@
 # Helper Files
 git-commands.md
 
+# Obsidian Files
+.obsidian
+
 # Logs and temporary system files
 *.log
 *.tmp
