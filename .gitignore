@@ -1,3 +1,6 @@
+# Helper Files
+git-commands.md
+
 # Logs and temporary system files
 *.log
 *.tmp
