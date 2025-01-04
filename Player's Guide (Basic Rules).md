@@ -1,3 +1,127 @@
+- [OD3d6GS | Player’s Guide](#od3d6gs--players-guide)
+    - [**Core Mechanics**](#core-mechanics)
+      - [**Three Domains of Power**](#three-domains-of-power)
+      - [**Skills and Mastery**](#skills-and-mastery)
+      - [**Customizable Abilities**](#customizable-abilities)
+      - [**Effort System**](#effort-system)
+      - [**Character Archetypes**](#character-archetypes)
+      - [**Flexible Problem Solving**](#flexible-problem-solving)
+    - [**Why OD3d6GS?**](#why-od3d6gs)
+- [Dice System](#dice-system)
+  - [Rolling 3d6 for Challenges](#rolling-3d6-for-challenges)
+    - [Saves (Forced Challenges)](#saves-forced-challenges)
+    - [Voluntary Saves (Player-Driven Actions)](#voluntary-saves-player-driven-actions)
+    - [Player Agency and Character Expertise](#player-agency-and-character-expertise)
+    - [Dice Mechanics](#dice-mechanics)
+    - [Rolling with Advantage or Disadvantage: A Dice Pool System](#rolling-with-advantage-or-disadvantage-a-dice-pool-system)
+      - [Rolling with Advantage](#rolling-with-advantage)
+      - [Rolling with Disadvantage](#rolling-with-disadvantage)
+      - [Rolling Doubles, Triples, and Criticals](#rolling-doubles-triples-and-criticals)
+        - [Rolling Doubles](#rolling-doubles)
+        - [Rolling Triples (2-5)](#rolling-triples-2-5)
+        - [Rolling Triple Six](#rolling-triple-six)
+        - [Rolling Triple One](#rolling-triple-one)
+- [Combat Actions](#combat-actions)
+  - [Starting and Ending Combat](#starting-and-ending-combat)
+    - [Draw Round](#draw-round)
+    - [Ending Combat](#ending-combat)
+  - [Health, Damage, and Death Mechanics](#health-damage-and-death-mechanics)
+    - [Vitalix (HP)](#vitalix-hp)
+      - [Damage Thresholds](#damage-thresholds)
+      - [Damage and Conditions](#damage-and-conditions)
+      - [Death Mechanics](#death-mechanics)
+      - [Additional Rules for Damage and Death](#additional-rules-for-damage-and-death)
+- [Domains, Attributes, and Effort](#domains-attributes-and-effort)
+  - [Domains](#domains)
+    - [The Role of Each Domain](#the-role-of-each-domain)
+  - [Attributes](#attributes)
+    - [Body](#body)
+    - [Mind](#mind)
+    - [Spirit](#spirit)
+  - [Effort](#effort)
+    - [Types of Effort](#types-of-effort)
+    - [Using Effort](#using-effort)
+      - [Maintain Effort](#maintain-effort)
+      - [Spend Effort](#spend-effort)
+      - [Burn Effort](#burn-effort)
+- [Skills and Abilities](#skills-and-abilities)
+  - [Skills and Skill Categories](#skills-and-skill-categories)
+    - [Skill Categories vs. Skills](#skill-categories-vs-skills)
+    - [Skill Categories](#skill-categories)
+    - [Skills](#skills)
+    - [Summary](#summary)
+  - [Abilities](#abilities)
+    - [Understanding Abilities](#understanding-abilities)
+    - [Abilities and Effort](#abilities-and-effort)
+    - [How Abilities Work](#how-abilities-work)
+    - [Tying Skills to Abilities](#tying-skills-to-abilities)
+    - [Creating and Using Abilities](#creating-and-using-abilities)
+    - [Summary](#summary-1)
+- [Character Creation](#character-creation)
+  - [Name \& Attributes](#name--attributes)
+    - [Body Attributes (choose two)](#body-attributes-choose-two)
+    - [Mind Attributes (choose two)](#mind-attributes-choose-two)
+    - [Spirit Attributes (choose two)](#spirit-attributes-choose-two)
+    - [Progress: Attributes Example](#progress-attributes-example)
+  - [Heritage](#heritage)
+    - [Heritage Attribute](#heritage-attribute)
+    - [Heritage Skills](#heritage-skills)
+  - [Background](#background)
+    - [Background Attribute](#background-attribute)
+    - [Social and Economic Status](#social-and-economic-status)
+    - [Progress: Background Example](#progress-background-example)
+    - [Progress](#progress)
+  - [Distribute Attribute Points](#distribute-attribute-points)
+    - [Allocate 9 Points](#allocate-9-points)
+    - [Considerations for Archetype and Attribute Selection](#considerations-for-archetype-and-attribute-selection)
+    - [Determine Attribute Domain Bonuses](#determine-attribute-domain-bonuses)
+    - [Progress: Attribute Distribution Example](#progress-attribute-distribution-example)
+  - [Select Skills](#select-skills)
+    - [Skill Categories](#skill-categories-1)
+    - [Archetype Skill](#archetype-skill)
+    - [Supplemental Skill](#supplemental-skill)
+    - [Distribute 9 Skill Mastery Points](#distribute-9-skill-mastery-points)
+    - [Progress: Skill Distribution Example](#progress-skill-distribution-example)
+  - [Create Your Archetype](#create-your-archetype)
+    - [Choose a Name for Your Character Archetype](#choose-a-name-for-your-character-archetype)
+    - [Character Conceit](#character-conceit)
+      - [Innate Abilities](#innate-abilities)
+      - [Prepared Abilities](#prepared-abilities)
+      - [Learned Abilities](#learned-abilities)
+    - [Archetype Base Scores](#archetype-base-scores)
+      - [Archetype Bonus](#archetype-bonus)
+      - [Archetype Save](#archetype-save)
+      - [Archetype Defense](#archetype-defense)
+      - [Hit Points](#hit-points)
+      - [Damage Thresholds](#damage-thresholds-1)
+    - [Abilities](#abilities-1)
+      - [Gaining Abilities](#gaining-abilities)
+      - [Augmenting Abilities](#augmenting-abilities)
+    - [Creating Archetype Abilities](#creating-archetype-abilities)
+      - [Example: Joe’s Free Abilities](#example-joes-free-abilities)
+    - [Advanced Ability Examples](#advanced-ability-examples)
+      - [Ready Stance](#ready-stance)
+      - [Block](#block)
+      - [Riposte](#riposte)
+      - [Berserker](#berserker)
+    - [Passive Abilities Example: Slow Bleeder](#passive-abilities-example-slow-bleeder)
+    - [Heritage and Supplemental Abilities](#heritage-and-supplemental-abilities)
+      - [Light Sleeper](#light-sleeper)
+      - [Tracking](#tracking)
+    - [Summary of Joe’s Archetype](#summary-of-joes-archetype)
+  - [Progress](#progress-1)
+    - [Domains, Attributes, and Skills](#domains-attributes-and-skills)
+    - [Score Card](#score-card)
+    - [Combat Abilities](#combat-abilities)
+    - [Heritage](#heritage-1)
+    - [Background](#background-1)
+    - [Inventory and Journal](#inventory-and-journal)
+      - [Select Your Gear](#select-your-gear)
+      - [Joe’s Inventory](#joes-inventory)
+      - [Journal Description](#journal-description)
+      - [Journal Entry](#journal-entry)
+
+
 # OD3d6GS | Player’s Guide
 
 **Open Development 3d6 Game System (OD3d6GS): A TTRPG Engine of Endless Archetypal Customization**
@@ -76,14 +200,14 @@ Success is determined by meeting the required number, whether rolling for a Save
 
 Saves occur when external forces push a character into a situation beyond their control. These reactive challenges are resolved by rolling 3d6, adding relevant skill and attribute modifiers, and aiming to exceed a Save Score set by the GM.
 
-#### Example:
+**Example:**
 
 A character falls off a cliff and must pull themselves up. They roll 3d6, add their **Strength** and **Heavy Lifting** modifiers, and attempt to exceed a Save Score of 15\.
 
 * **Roll Calculation**: 3d6 \+ Strength \+ Heavy Lifting \= Total  
 * If the total is **15 or greater**, the character succeeds.
 
-#### Summary:
+**Summary:**
 
 * Saves are active or reactive responses to external challenges.  
 * Players must roll **above** a Save Score set by the GM.  
@@ -93,7 +217,7 @@ A character falls off a cliff and must pull themselves up. They roll 3d6, add th
 
 Voluntary Saves are proactive, occurring when characters attempt tasks within their expertise or control. These challenges are resolved by rolling 3d6 and aiming to roll **below** the character’s personal Save Score, which reflects their mastery of the task.
 
-#### Example:
+**Example:**
 
 An alchemist brews a familiar potion. They roll 3d6 and attempt to roll under their Save Score of 14 (calculated as 8 \+ Alchemy 3 \+ Intuition 3).
 
@@ -102,7 +226,7 @@ An alchemist brews a familiar potion. They roll 3d6 and attempt to roll under th
 
 For unfamiliar or challenging tasks (e.g., brewing a complex potion), this would be treated as a regular Save, requiring the player to roll above a specific Save Score determined by the GM.
 
-#### Summary:
+**Summary:**
 
 * Voluntary Saves represent proactive challenges where characters are in control.  
 * Players must roll **at or below** their own Save Score.  
@@ -115,7 +239,7 @@ The system emphasizes player choice and character expertise:
 * **Saves** are for reactive situations where the character faces external challenges.  
 * **Voluntary Saves** empower players by relying on their character’s mastery and skill.
 
-#### Example Comparison:
+**Example Comparison:**
 
 * A **Brute** falls off a cliff and must roll above a **Save Score** of 15 because climbing is not part of their expertise.  
 * An **Athlete** with climbing skills can treat this same challenge as a Voluntary Save, rolling under their own Save Score instead.
@@ -147,7 +271,7 @@ Advantage allows players to add up to **three additional dice** to their roll (u
 * Advantage can stack from multiple sources but is capped at **Triple Advantage (6d6 total)**.  
 * Players choose which 3 dice they take for the roll..
 
-### Rolling with Disadvantage
+#### Rolling with Disadvantage
 
 Disadvantage forces players to roll **additional dice** and choose the **worst three results**. This represents unfavorable circumstances or penalties. For **Double** or **Triple Disadvantage**, rolling Doubles or Triples do not count as hits and do not replenish effort.
 
@@ -155,15 +279,15 @@ Disadvantage forces players to roll **additional dice** and choose the **worst t
 2. **Double Disadvantage**: Roll **2 extra dice** (5d6 total); keep the lowest **3 dice**.  
 3. **Triple Disadvantage**: Roll **3 extra dice** (6d6 total); keep the lowest **3 dice**.
 
-#### Key Rules:
+**Key Rules:**
 
 * Disadvantage can stack from multiple sources but is capped at **Triple Disadvantage (6d6 total)**.  
 * Always choose the **lowest three dice** from the total rolled.  
 * Avoid taking doubles or triples, except for triple ones.
 
-### Rolling Doubles, Triples, and Criticals
+#### Rolling Doubles, Triples, and Criticals
 
-#### Rolling Doubles
+##### Rolling Doubles
 
 * **In Combat**: Gain temporary **Adrenaline Effort** equal to the value of the third die.  
   * **Adrenaline Effort** can be **Spent** as **Stamina**, **Focus**, or **Resolve** and expires at the end of combat.  
@@ -171,7 +295,7 @@ Disadvantage forces players to roll **additional dice** and choose the **worst t
 * **Outside Combat**: Gain temporary **Inspiration Effort** equal to the value of the third die.  
   * **Inspiration Effort** can be **Spent** as **Stamina**, **Focus**, or **Resolve** and expires at the end of the session.
 
-#### Rolling Triples (2-5)
+##### Rolling Triples (2-5)
 
 Players succeed on their save automatically.
 
@@ -182,13 +306,13 @@ Players succeed on their save automatically.
 * **Outside Combat**: Gain temporary **Inspiration Effort** equal to **double the value** of one die.  
   * **Inspiration Effort** can be **Spent** as **Stamina**, **Focus**, or **Resolve** and expires at the end of the session.
 
-#### Rolling Triple Six
+##### Rolling Triple Six
 
 * **In Combat**: Trigger a **Critical Hit**, adding **\+18** to the damage roll.  
 * **Outside Combat**: All party members gain **2 Effort Points** that expire at the end of the session.  
   * Players may expend all their points for an automatic success on the roll.
 
-#### Rolling Triple One
+##### Rolling Triple One
 
 * **Fail to Maintain Effort**: Burn Maintained Effort Point with no effect.  
 * **In Combat**:  
@@ -204,11 +328,6 @@ Players succeed on their save automatically.
 
 In this system, characters use Action Points rather than following a turn-based initiative order. Each player has a number of Action Points equal to their Primary Domain Bonus, which they spend freely for actions and reactions in real-time. Combat rounds flow naturally, allowing characters to respond fluidly to each other’s actions, making battles feel dynamic and immersive.  
 When all players and adversaries have spent their Action Points, the combat round ends, and each character’s Action Points reset for the next round.
-
-## Optional Turn-Based Guidance
-
-For new players or GMs who prefer a structured approach, a clockwise turn order around the table is suggested. The GM may intersperse actions between or after players’ actions.  
-*Note*: This optional setup is experimental and may require additional balancing to maintain fair mechanics.
 
 ## Starting and Ending Combat
 
