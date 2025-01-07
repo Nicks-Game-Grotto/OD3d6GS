@@ -45,9 +45,9 @@
       - [Spend Effort](#spend-effort)
       - [Burn Effort](#burn-effort)
 - [Skills and Abilities](#skills-and-abilities)
-  - [Skills and Skill Categories](#skills-and-skill-categories)
-    - [Skill Categories vs. Skills](#skill-categories-vs-skills)
-    - [Skill Categories](#skill-categories)
+  - [Skills and Skill Groups](#skills-and-skill-groups)
+    - [Skill Groups vs. Skills](#skill-groups-vs-skills)
+    - [Skill Groups](#skill-groups)
     - [Skills](#skills)
     - [Summary](#summary)
   - [Abilities](#abilities)
@@ -64,9 +64,7 @@
     - [Spirit Attributes (choose two)](#spirit-attributes-choose-two)
   - [Progress: Attributes Example](#progress-attributes-example)
   - [Heritage](#heritage)
-    - [Heritage Skills](#heritage-skills)
   - [Background](#background)
-    - [Social and Economic Status](#social-and-economic-status)
   - [Progress: Background and Heritage](#progress-background-and-heritage)
   - [Distribute Attribute Points](#distribute-attribute-points)
     - [Allocate 12 Points](#allocate-12-points)
@@ -74,13 +72,13 @@
     - [Determine Attribute Domain Bonuses](#determine-attribute-domain-bonuses)
     - [Progress: Attribute Distribution Example](#progress-attribute-distribution-example)
   - [Select Skills](#select-skills)
-    - [Skill Categories](#skill-categories-1)
-    - [Skill Groups](#skill-groups)
+    - [Skill Categories](#skill-categories)
+    - [Skill Groups](#skill-groups-1)
     - [Specific Skills](#specific-skills)
     - [Assigning Skills](#assigning-skills)
       - [Archetype Skill](#archetype-skill)
       - [Supplemental Skill](#supplemental-skill)
-      - [Heritage Skills](#heritage-skills-1)
+      - [Heritage Skills](#heritage-skills)
       - [Specific Skills](#specific-skills-1)
     - [Distribute 9 Skill Mastery Points](#distribute-9-skill-mastery-points)
   - [Create Your Archetype](#create-your-archetype)
@@ -491,7 +489,7 @@ Players can spend only one effort as part of their or a teammate’s action. If 
 
 #### Spend Effort
 
-- **Increase Rolls**: Players can spend 1 Effort Point to increase a roll by \+1 in the relevant Attribute Category.  
+- **Increase Rolls**: Players can spend 1 Effort Point to increase a roll by +1 in the relevant Attribute Category.  
 - **Trigger Abilities**: Special abilities or spells may require effort to activate. Players spend the required number of points to perform these exceptional actions.  
 - **Helping Others**: Players can spend effort to assist another player by declaring their support after the roll but before the GM announces the result.  
   - Multiple players can assist by spending 1 point each.  
@@ -516,44 +514,44 @@ Players can spend only one effort as part of their or a teammate’s action. If 
 
 # Skills and Abilities
 
-## Skills and Skill Categories
+## Skills and Skill Groups
 
-### Skill Categories vs. Skills
+### Skill Groups vs. Skills
 
-In this game system, there is an important distinction between **Skill Categories** and **Skills**. While Skill Categories unlock a range of actions, Skills are the specific abilities that must be tied to Abilities or character traits like Heritage or Archetype to be fully utilized.
+In this game system, there is an important distinction between **Skill Groups** and **Skills**. While Skill Groups unlock a range of actions, Skills are the specific abilities that must be tied to Abilities to be fully utilized.
 
-### Skill Categories
+### Skill Groups
 
-Skill Categories are broad groups that represent a range of related skills. When a player chooses a Skill Category, they gain access to all the related skills within that category for challenges. These are written on the character sheet as part of the Character Archetype. You can use any skill from the category as if it were on your sheet during relevant challenges.
+Skill Groups are broad, representing a range of related skills. When a player chooses a Skill Group, they gain access to all the related skills within that group for *out of combat saves* and creating *Abilities*. These are written on the character sheet as part of the Character Archetype or Supplemental Skills. You can use any skill from the group as if it were on your sheet during relevant challenges and ability creation for that Skill Group.
 
 **For example:**
 
-A character with the **Athletics** category can perform **Climbing** or **Sprinting** challenges as if those skills were on their sheet.
+A character with the **Athletics** group can perform **Climbing** or **Sprinting** challenges as if those skills were on their sheet.
 
-Choosing a Skill Category is a powerful choice because it gives you access to many related skills that can be used freely for challenges. However, these skills do not automatically carry over to combat abilities unless they are tied to specific abilities.
+Choosing a Skill Group is a powerful choice because it gives you access to many related skills that can be used freely for challenges. However, these skills do not automatically carry over to combat abilities unless they are tied to specific abilities.
 
 ### Skills
 
-Skills are the specific abilities that appear on the character sheet, tied directly to your character’s Abilities, Archetype, or Heritage. Unlike skill categories, these specific skills need to be selected or unlocked through character creation or progression.
+A Skill is the specific narrowly defined skills that appear on your character sheet. They are tied directly to your character’s Learning, Preparation, or Heritage. Specific skills need to be selected or unlocked through character creation or progression.
 
 **For example:**
 
-If a player wants to imbue their weapon with fire during combat, they need the **Imbue Element (Fire)** skill. This is not a general category but a specific skill. The player must tie this skill to an ability, typically through Archetype, Heritage, or as a Supplemental Skill.
+If a player wants to imbue their weapon with fire during combat, they need the **Imbue Element (Fire)** skill. This is not a general group but a specific skill. The player must tie this skill to an ability, typically through Learning, Preparation, or Innately as a Heritage Skill.
 
-Unlike Skill Categories, specific skills cannot be used as freely. They require direct integration into the character’s abilities. If a skill is not tied to your Archetype, Heritage, or a Supplemental Skill, you cannot use it as part of your Archetype Abilities.
+Unlike Skill Groups, specific skills cannot be used as freely. They require direct integration into the character’s abilities. If a skill is not tied to your Archetype, Heritage, or a Supplemental Skill, you cannot use it as part of your Archetype Abilities. This means that Abilities created from these skills will receive ToHit and DMG bonuses based on the associated Skill and Attribute which might be different from the Archetype Bonus.
 
 **Example:**
 
-Imagine a player selects the **Weapon Master** Skill Category as part of their Archetype. This gives them access to a broad range of related skills, such as **Swordplay** and **Archery**. The player can use these for challenges that involve using these weapons.
+Imagine a player names **Weapon Master** the Skill Group for their Archetype. This gives them access to the **Skirmisher** and **Archery** Skill Groups. The player can use these for challenges that involve using these weapons and will likely use the Archetype Bonus ToHit and Archetype Attribute Bonus added to DMG.
 
-However, if the same player wants to imbue their sword with fire during combat, they need to select the specific skill **Imbue Element (Fire)**. This skill must be tied to an Ability, such as a combat ability in their Archetype. If **Imbue Element (Fire)** comes from their Heritage or Supplemental Skills, they can connect it to their combat abilities, allowing them to use it in combat. If not, the skill cannot be used freely in combat.
+However, if the same player wants to imbue their sword with fire during combat, they need to select the specific skill **Imbue Element (Fire)**. This skill must be tied to an Ability. If **Imbue Element (Fire)** comes from their Heritage or has an appropriately high Skill Mastery Level, they can connect it to their Archetype, allowing them to apply bonuses from their Archetype. If not, the skill cannot be used freely in combat without using effort and does not roll with the Archetype Bonus until the character's Skill Mastery reaches the appropriate Level.
 
 ### Summary
 
-- **Skill Categories** give you broad access to related skills for challenges but do not automatically apply to combat.  
-- **Skills** are specific actions that must be tied to abilities through Archetype, Heritage, or Supplemental Skills to be fully utilized in combat or special circumstances.
+- **Skill Groups** give you broad access to related skills for challenges but do not always automatically apply to Archetype.  
+- **Skills** are specific actions that must be tied to abilities through Archetype, Heritage, or Supplemental Skills to be fully effective.
 
-The flexibility of **Skill Categories** is powerful during challenges, while **Skills** provide focused, powerful abilities during combat.
+The flexibility of **Skill Groups** is powerful and broadly applied, while **Skills** provide focused abilities that require advancement to get more powerful.
 
 ## Abilities
 
@@ -565,43 +563,43 @@ In this game, Abilities represent the unique actions and powers your character c
 
 Every Ability is tied to one or more of your character’s Effort Points: **Stamina (Body)**, **Focus (Mind)**, or **Resolve (Spirit)**. These are limited resources your character uses to perform exceptional feats.
 
-- **Maintaining Effort**: Some abilities require Maintained Effort, meaning the character must continuously focus or exert themselves to keep the ability active. For example, maintaining a defensive stance or holding a magical shield in place requires sustained effort.  
-- **Spending Effort**: Abilities that require Spent Effort are one-time actions, like a powerful attack or casting a spell. These cost effort points in the moment but don’t need to be maintained.  
-- **Burning Effort**: Certain powerful abilities require you to Burn Effort. This represents pushing beyond your limits, performing extraordinary feats like executing a devastating combo attack or using magic to alter the environment. Burning Effort is often reserved for dramatic moments, as it depletes your reserves until you recover.
+- **Maintaining Effort**: Some abilities require Maintained Effort, meaning the character must continuously focus or exert themselves to keep the ability active. For example, maintaining a defensive stance or holding a magical shield in place requires Maintained Effort. Players must define the Ability as Maintained Stamina, Focus, or Resolve, and can not maintain effort on more than one ability at a time.
+- **Spending Effort**: Abilities that require Spent Effort are one-time actions, like a powerful attack or casting a spell. These cost effort points in the moment but don’t need to be maintained. Player's can Spend Adrenaline, Inspiration, or Domain Effort and can Spend Effort while Maintaining Effort.
+- **Burning Effort**: Certain powerful abilities require you to Burn Effort. This represents pushing beyond your limits, performing extraordinary feats like executing a devastating combo attack or using magic to alter the environment. Burning Effort is often reserved for dramatic moments, as it depletes your reserves until you recover. Players must Burn Effort related to an associated Domain (Stamina, Focus, or Resolve)
 
 ### How Abilities Work
 
-Abilities describe how your character uses the Skills tied to their Archetype, Heritage, or Supplemental Skills during gameplay. Each Ability represents a unique way your character can combine their skills with effort to achieve powerful results.
+Abilities describe how your character uses the Skills during gameplay. Each Ability represents a unique way your character can combine their skills with effort to achieve powerful results.
 
 **Example:**
 
-- A **Pyromancer** might have an ability called *Flame Strike*, where they Spend Effort to summon a blast of fire, using their *Imbue Element (Fire)* skill. The player rolls dice and adds their Pyromancy skill to determine how successful the ability is.  
+- A **Pyromancer** might have an ability called *Flame Strike*, where they Spend Effort to summon a blast of fire, using their *Imbue Element (Fire)* skill. The player rolls dice and adds their Pyromancy skill and/or associated Attribute to determine how successful the ability is.  
 - A **Martial Artist** might have an ability called *Defensive Stance*, requiring them to Maintain Effort to increase their defense and react swiftly with skills like *Parry* or *Counterstrike* during combat.  
-- A **Storyteller** could have an ability like *Inspire Allies*, where they Burn Effort to give their teammates bonuses by using their *Persuasion* or *Performance* skills.
+- A **Storyteller** could have an ability like *Inspire Allies*, where they Burn Effort to give their teammates huge bonuses by using their *Persuasion* or *Performance* skills.
 
 ### Tying Skills to Abilities
 
-Each Ability your character uses is tied to a Skill or combination of skills. These skills, drawn from your Skill Categories, define the range of actions your character can perform. When creating or using an ability, the skills you select dictate how you can apply your effort.
+Each Ability your character uses is tied to a Skill or combination of skills. These skills define the range of actions your character can perform. When creating or using an ability, the skills you select dictate how you can apply your effort.
 
 **For example:**
 
-- A character with the **Weapon Master** category might create an ability like *Whirling Blades*, spending effort to attack multiple targets using *Dual Wielding* and *Swords*.  
-- A character with the **Summoner** category might create an ability like *Summon Guardian Spirit*, maintaining effort to keep a summoned ally in the fight, using their *Summoning* and *Vitalimancy* skills.
+- A character with the **Weapon Master** Skill might create an ability like *Whirling Blades*, spending effort to attack multiple targets using *Dual Wielding* and *Swords*.  
+- A character with the **Summoner** Skill might create an ability like *Summon Guardian Spirit*, maintaining effort to keep a summoned ally in the fight, using their *Summoning* and *Necromancy* skills.
 
 Your character’s abilities give you direct control over how you express your skills in combat and challenges. When you create an ability, you decide which skills it uses, what kind of effort it requires, and how it functions during gameplay.
 
 ### Creating and Using Abilities
 
-1. **Choose Your Skills**: Pick the skills that will fuel your ability from your Skill Categories or individual skills on your sheet.  
+1. **Choose Your Skills**: Pick the skills that will fuel your ability from the Skills on your sheet.  
 2. **Decide on Effort**: Determine whether the ability requires Maintained, Spent, or Burnt effort. This will impact how and when you can use it in combat or challenges.  
-3. **Describe Your Action**: When you use the ability, narrate how your character taps into their skills to perform the action. For example, if you’re using *Imbue Element (Fire)*, describe how flames erupt from your weapon to strike an opponent.  
+3. **Describe Your Action**: When you use the ability, narrate how your character taps into their skills to perform the action. For example, if you’re using *Imbue Element (Fire)*, describe how flames erupt from your weapon or hands to strike an opponent.  
 4. **Roll for Success**: Use the relevant skill and attribute bonuses when rolling to see how effective the ability is, whether you’re casting a spell, making an attack, or supporting an ally.
 
 ### Summary
 
 - Abilities are actions tied to Effort, representing how your character uses their skills during gameplay.  
 - Maintained, Spent, and Burnt Effort describe the different ways your character uses their energy to activate abilities.  
-- Abilities are created by combining your skills with effort, allowing you to perform unique and powerful actions in combat and challenges.  
+- Abilities are created by combining your attributes and skills with effort, allowing you to perform unique and powerful actions in combat and challenges.  
 - Abilities give players a flexible and dynamic way to interact with the game world, letting you define how your character uses their skills to overcome challenges and achieve extraordinary feats.
 
 # Character Creation
@@ -642,39 +640,35 @@ The first selection that you make will be your **Archetype Attribute**. This is 
 
 **Name**: Joe Shepard
 
-| Body | Mind | Spirit |
+| **Body** | Mind | Spirit |
 | :---: | :---: | :---: |
-| STR (-1) | PER (-1) | EMP (-1) |
+| **STR** (-1) | PER (-1) | EMP (-1) |
 | CON (-1) | DIS (-1) | WIL (-1) |
 
 ---
 ## Heritage
 
 Your character's **Heritable Traits** reflect their physical form, natural talents, and cultural heritage, which will influence their skills and outlook. Your heritable traits provide a unique starting point for your character, manifesting as **two skills** or **one magic source** based on your heritage.
-Consider what heritable traits best fit your character concept. Feel free to have mixed ancestry from as many or as few people groups as you like, but remember you only get *Two Extra Skills **OR** One Magical Source*.
+Consider what heritable traits best fit your character concept. Feel free to have mixed ancestry from as many or as few people groups as you like, but remember you only get *Two Skills **OR** One Magical Source*.
 
-### Heritage Skills
-
-Choose two skills or one magical source related to your heritage. These skills can be used as part of your Archetype when you create abilities later. You can choose from the specific skills listed in the skill categories or create one. Specific skills are one or two words (e.g., **Tracking**, **Heavy Lifting**, **Rapier**, **Dark Vision**, **Prehensile Tail**) that describe a narrowly defined skill. This might be something most people in your culture learn or an innate ability based on genetic traits.
+After you choose two skills or one magical source related to your heritage they can be used as part of your Archetype when you create abilities later. You can choose from the specific skills listed in the skill groups or create one. Specific skills are short terms (e.g., **Tracking**, **Heavy Lifting**, **Rapier**, **Dark Vision**, **Prehensile Tail**) that describe a narrowly defined skill. This might be something most people in your culture learn or an innate ability based on genetic traits.
 
 ## Background
 
 Your background represents your character's life before they became an adventurer. It shapes their social and economic status.
 Think about your character's history. Were they a soldier, a scholar, or perhaps a merchant? Your background will inform your character's worldview and provide them with **Equipment**, **Money**, and *at least* **Two in Game NPC Connections**. Player Characters in a party might share similar backgrounds or have worked together prior to the start of the adventure, but this is not required.
 
-### Social and Economic Status
+Decide who your character's significant **connections** are, such as an ally, mentor, or organization that can aid them during their adventures. Work with your GM to determine your character's **economic status**, giving your character more resources to equip themselves or purchase valuable items. These choices reflect your character's social ties and financial status before the start of the game.
 
-Decide if your character begins with a significant **connection**, such as an ally, mentor, or organization that can aid them during their adventures. Alternatively, you can opt to start with extra **money**, giving your character more resources to equip themselves or purchase valuable items. This choice reflects your character's social ties and financial status before the start of the game.
-
-- **Connections**: These should be relevant to the game being played. The two connections should have value and be helpful but not someone that the party will become dependent upon.  
-- **Wealth**: Often a character's background might include a combination of Wealth and Social status. Balance these by having characters with contradictory positive and negative starting life circumstances. A character starting as a prince or princess might have great starting gear but limited financial resources because they have been estranged from their family, or a con-artist could have close ties in the criminal community and a large savings, but need to keep low key because they have people who want vengenance for something they've done.
+- **Connections**: These should be relevant to the game being played. The two connections should have value and be helpful but not someone that the party will become dependent upon.
+- **Status**: Often a character's background might include a combination of Wealth and Social status. Balance these by having characters with contradictory positive and negative starting life circumstances. A character starting as a prince or princess might have great starting gear but limited financial resources because they have been estranged from their family, or a con-artist could have close ties in the criminal community and a large savings, but need to keep low key because they have people who want vengeance for something your character has done.
 
 ## Progress: Background and Heritage
 
 **Name**: Joe Shepard
 
 **Heritage**: Joe was a goat herder. He is a **Light Sleeper** (creatures have disadvantage to sneak into Joe and his party's camp) and can **Track** creatures in mountainous terrain.
-**Background**: Joe left home to become a stone worker in the big city.  
+**Background**: Joe left home to become a stone worker in the Artesian Islands then joined a Mercenary Company.  
 **Connections**: Joe has a good rapport with the common folk, and Harry Farmer lets Joe crash at his place whenever he's in town.  
 **Economic Status**: Joe is a saver. He maintains a comfortable lifestyle when not adventuring. He dreams of buying a space in the city to start a martial arts academy.
 
@@ -703,7 +697,7 @@ Consider how the Attributes will combine with Skills and Abilities to have great
 
 ### Considerations for Archetype and Attribute Selection
 
-Later in the character creation process, you will choose a **Primary Archetype** associated with a single Attribute and **two Skill Categories**. This determines the character’s Archetype Bonus, Defense, and Save score. High numbers in these traits will significantly impact your character’s capabilities in challenges and combat.
+Later in the character creation process, you will choose a **Primary Archetype** associated with a single Attribute and **two Skill Groups**. This determines the character’s Archetype Bonus, Defense, and Save score. High numbers in these traits will significantly impact your character’s capabilities in challenges and combat.
 
 ### Determine Attribute Domain Bonuses
 
@@ -732,18 +726,18 @@ Calculate the bonus for each Attribute Domain (**Body**, **Mind**, **Spirit**). 
 
 ## Select Skills
 
-During Character Creation, players make foundational choices about their character's skills, which will shape their abilities throughout the game. This is the only time players can select broad **Skill Categories**, which define how Skills and Skill Groups integrate into a character's Archetype. Choices made during this phase determine access to **Skill Groups** and **Specific Skills**, influencing a character's abilities and long-term progression.
+During Character Creation, players make foundational choices about their character's skills, which will shape their abilities throughout the game. This is the only time players can select Skill Groups associated with their chosen Skill Category, which define how Skills and Skill Groups integrate into a character's Archetype. Choices made during this phase determine access to **Skill Groups** and **Specific Skills**, influencing a character's abilities and long-term progression.
 
 ### Skill Categories
 
 Skill Categories determine the breadth of a character's capabilities and how Skills or Skill Groups interact with their Archetype. Each category has different rules for association with Attributes and the Mastery Level at which they function within the Archetype.
 
-| **Skill Category** | **Content**                         | **Archetype Integration**                                                                                      |
-|--------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| **Heritage**       | Two Specific Skills **or** One Magical Source | Use Archetype Score (Abilities) at Mastery Level (Novice) 0                                                   |
-| **Archetype**      | Two Skill Groups                   | Represents the Archetype Score by default                                                                     |
-| **Supplemental**   | One Skill Group                    | Use Archetype Score at Mastery Level (Skilled) 3                                                              |
-| **Specific**       | One Specific Skill                 | Use Archetype Score at Mastery Level (Expert) 4                                                               |
+| **Skill Category** | **Content**                         | **Archetype Integration**   |
+|--------------------|-------------------------------------|------------------------------------------------------------|
+| **Heritage**  | Two Specific Skills **or** One Magical Source | Use Archetype Score (Abilities) at Mastery Level (Novice) 0 |
+| **Archetype**   | Two Skill Groups     | Represents the Archetype Score by default     |
+| **Supplemental**   | One Skill Group                    | Use Archetype Score at Mastery Level (Skilled) 3    |
+| **Specific**       | One Specific Skill                 | Use Archetype Score at Mastery Level (Expert) 4  |
 
 ### Skill Groups
 
@@ -766,7 +760,7 @@ Specific Skills are individual abilities or proficiencies, such as **Leap**, **D
 Each Skill Category allows players to associate Skills or Skill Groups with an Attribute. While the association does not need to match precisely (e.g., Acrobatics may fit under **Grace**, a Spirit Domain Attribute), it must make narrative sense. For example:
 
 - **Valid Association**: Acrobatics (Physical Group) with Grace (Spirit).
-- **Invalid Association**: Dueling (Weapon Group) with Empathy (Spirit).
+- **Potential Invalid Association**: Dueling (Weapon Group) with Empathy (Spirit).
 
 #### Archetype Skill
 
@@ -933,7 +927,7 @@ During Character Creation, you gain **two free Abilities** that cost no Effort. 
 
 ### Advanced Ability Examples
 
-Joe's Archetype Skill is **Sword & Board**, combining the **Skirmisher/Soldier** and **Shield Arts** Skill Categories. Let’s explore how he uses these skills to create and augment abilities:
+Joe's Archetype Skill is **Sword & Board**, combining the **Skirmisher/Soldier** and **Shield Arts** Skill Groups. Let’s explore how he uses these skills to create and augment abilities:
 
 #### Ready Stance
 
