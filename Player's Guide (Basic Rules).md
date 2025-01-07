@@ -1,3 +1,5 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
 - [OD3d6GS | Player’s Guide](#od3d6gs--players-guide)
     - [**Core Mechanics**](#core-mechanics)
       - [**Three Domains of Power**](#three-domains-of-power)
@@ -108,7 +110,7 @@
       - [Light Sleeper](#light-sleeper)
       - [Tracking](#tracking)
     - [Summary of Joe’s Archetype](#summary-of-joes-archetype)
-  - [Progress](#progress)
+  - [Complete Character Sheet](#complete-character-sheet)
     - [Domains, Attributes, and Skills](#domains-attributes-and-skills)
     - [Score Card](#score-card)
     - [Combat Abilities](#combat-abilities)
@@ -180,11 +182,14 @@ Players create a **Character Archetype** to define their role and unique identit
 
 When characters act outside their Archetype, they can still rely on other Skills, Attributes, or the broader Domain Bonus Score to influence their success. This ensures every situation has a potential solution, though difficulty and risk may vary.
 
----
 
 ### **Why OD3d6GS?**
 
 The **Open Development 3d6 Game System** combines rich customization, strategic depth, and engaging mechanics to deliver a unique TTRPG experience. The cascading archetype system and innovative Effort mechanics encourage players to push the boundaries of creativity and forge unforgettable stories in any genre or setting.
+
+[Back to Top](#table-of-contents)
+
+---
 
 # Dice System
 
@@ -321,6 +326,8 @@ Players succeed on their save automatically.
   * Automatically fail the check, rendering the task impossible for the party using similar means.  
   * **Note for GMs**: When a door closes, open a window. Even failed rolls should lead to new challenges or opportunities.
 
+[Back to Top](#table-of-contents)
+
 ---
 
 # Combat Actions
@@ -402,6 +409,8 @@ When a character is reduced to **0 Vitalix** and becomes **Unconscious**, they m
 
 - **Healing**: Characters can be healed from any condition by regaining Vitalix, provided their total Vitalix does not exceed their starting maximum of 6\. Refer to the rules for specific healing mechanics.  
 - **Deadly Attacks**: Attacks against Unconscious characters automatically have advantage. Melee attacks are treated as **Deadly Damage**, reducing Vitalix by 4\. If the character is already at 0 Vitalix, this confirms their death.
+
+[Back to Top](#table-of-contents)
 
 ---
 
@@ -510,6 +519,8 @@ Players can spend only one effort as part of their or a teammate’s action. If 
 - When effort is burnt involuntarily, it has no effect; the player loses control over their ability and effort is spent. The player must spend an Action and Maintain Effort to regain control of any associated Ability.  
 - When a player chooses to stop maintaining effort with no effect, they return the effort to their pool.
 
+[Back to Top](#table-of-contents)
+
 ---
 
 # Skills and Abilities
@@ -602,6 +613,10 @@ Your character’s abilities give you direct control over how you express your s
 - Abilities are created by combining your attributes and skills with effort, allowing you to perform unique and powerful actions in combat and challenges.  
 - Abilities give players a flexible and dynamic way to interact with the game world, letting you define how your character uses their skills to overcome challenges and achieve extraordinary feats.
 
+  [Back to Top](#table-of-contents)
+
+---
+
 # Character Creation
 
 ## Name & Attributes
@@ -645,6 +660,8 @@ The first selection that you make will be your **Archetype Attribute**. This is 
 | **STR** (-1) | PER (-1) | EMP (-1) |
 | CON (-1) | DIS (-1) | WIL (-1) |
 
+[Back to Top](#table-of-contents)
+
 ---
 ## Heritage
 
@@ -682,14 +699,13 @@ Decide who your character's significant **connections** are, such as an ally, me
 **Connections**: **Harry Farmer** (Close Friend) is a member of the Masons Guild and lets Joe stay with him. **Ciny Cobbler** (Gossip Girl) knows everyone's business and works as a teller at the Company Bank. Joe has family in The Golden Steppe of Kalora and friends on the Artesian Islands.
 **Economic Status**: *Savings* **527g**, *Carry Cash* **5g 50s 82c**, *Gear* **Well Made**
 
----
 ## Distribute Attribute Points
 
 After choosing your Attributes, you'll need to assign values to them, shaping your character’s strengths and weaknesses. You have **12** points to distribute. Realize that this is the only time you will be able to buy higher bonuses for one point. During character growth, increasing Attribute Bonuses becomes cost-prohibitive. ***And remember, if the sum of your attribute bonuses equals 6 you did it correct***.
 
 ### Allocate 12 Points
 
-You have 12 points to distribute among your six chosen attributes. Each point raises an attribute’s score by +1. Attributes start at -1. No attribute can be raised higher than +3 at this stage. This limitation ensures system integrity.
+You have 12 points to distribute among your six chosen attributes. Each point raises an attribute’s score by +1. Attributes start at -1. No attribute can be raised higher than +3 at this stage. This limitation ensures system integrity. If the sum of the attribute bonuses equals six you got it right.
 
 Decide whether to focus on a few strong attributes or spread your points evenly. For example, a character focused on physical combat might max out **Strength (STR)** and **Agility (AGI)**, while a well-rounded character might distribute points more evenly.
 
@@ -697,7 +713,7 @@ Consider how the Attributes will combine with Skills and Abilities to have great
 
 ### Considerations for Archetype and Attribute Selection
 
-Later in the character creation process, you will choose a **Primary Archetype** associated with a single Attribute and **two Skill Groups**. This determines the character’s Archetype Bonus, Defense, and Save score. High numbers in these traits will significantly impact your character’s capabilities in challenges and combat.
+You have chose a **Primary Archetype** associated with a single Attribute and **two Skill Groups**. This determines the character’s Archetype Bonus, Defense, and Save score. High numbers in these traits will significantly impact your character’s capabilities in challenges and combat.
 
 ### Determine Attribute Domain Bonuses
 
@@ -721,8 +737,6 @@ Calculate the bonus for each Attribute Domain (**Body**, **Mind**, **Spirit**). 
 | STR | CON | PER | DIS | EMP | WIL |
 | :---: | :---: | :---: | :---: | :---: | :---: |
 | 3 | 3 | 1 | 1 | -1 | -1 |
-
----
 
 ## Select Skills
 
@@ -816,8 +830,6 @@ Allocate your **9 Skill Mastery Points**:
 | **Specific**       | Slow Bleeder         | 3 (Skilled)   | 3           |
 |                    | Total                |               | **9**       |
 
----
-
 ## Create Your Archetype
 
 By now, we’ve learned a lot about Joe Shepard, but there’s still key information missing:
@@ -834,8 +846,6 @@ This system doesn’t use predefined classes. Instead, you define your character
 The name of your Archetype is functionally inconsequential but helps personalize your character sheet and clarify your role. For Joe, I chose **Frontline Skirmisher**, which reminds me he is skilled with all Skirmisher/Soldier Weapons. Similarly, I named his Archetype Skill **Sword & Board**, representing his proficiency with weapons and shields.
 
 The goal is to simplify and personalize your character sheet, reducing the need to search for information during gameplay.
-
----
 
 ### Character Conceit
 
@@ -859,8 +869,6 @@ Each character must choose one of the following **Character Conceits** as part o
 
 - **Definition**: Skills and powers honed through training and experience.  
 - **Description**: These abilities are reliable and consistent, improving steadily as the character grows.
-
----
 
 ### Archetype Base Scores
 
@@ -891,8 +899,6 @@ Damage in this system is categorized by thresholds:
 
 Thresholds determine HP loss based on the intensity of the attack. Players can raise these scores using Skills and Abilities.
 
----
-
 ### Abilities
 
 Abilities define what your character can do during gameplay. Players create their own Abilities based on their Skills and Attributes, or select from pre-made ones associated with their chosen Skills.
@@ -904,8 +910,6 @@ You gain Abilities at the **Novice (0)** and **Skilled (3)** Skill Mastery Level
 #### Augmenting Abilities
 
 You augment Abilities at the **Apprentice (1)** and **Adept (2)** Skill Mastery Levels.
-
----
 
 ### Creating Archetype Abilities
 
@@ -922,8 +926,6 @@ During Character Creation, you gain **two free Abilities** that cost no Effort. 
    **Trigger**: \-5 On Miss  
    **Effect**: No Effort, Setup Riposte  
    **Description**: When a player attacks Joe and misses by more than 5, it is considered an automatic shield parry. Joe can Spend Effort to Riposte.
-
----
 
 ### Advanced Ability Examples
 
@@ -953,8 +955,6 @@ Joe's Archetype Skill is **Sword & Board**, combining the **Skirmisher/Soldier**
 **Effect**: Extra Attacks  
 **Description**: Joe makes three attacks with his weapon.
 
----
-
 ### Passive Abilities Example: Slow Bleeder
 
 Joe’s **Slow Bleeder** Skill evolves into a powerful passive ability:
@@ -963,8 +963,6 @@ Joe’s **Slow Bleeder** Skill evolves into a powerful passive ability:
   **Trigger**: Passive Effect  
   **Effect**: Min/Mod/Sev DT \+CON, Slow Hemorrhage  
   **Description**: Add Joe’s Constitution to his Minor, Moderate, and Severe Damage Threshold. Bleeding conditions deal damage every 4th round of combat.
-
----
 
 ### Heritage and Supplemental Abilities
 
@@ -980,14 +978,16 @@ Joe’s **Slow Bleeder** Skill evolves into a powerful passive ability:
 **Effect**: Voluntary Save  
 **Description**: Joe can Maintain Effort to track creatures using his Archetype Save. Tracks Medium or larger creatures in Mountainous and Forest Terrain.
 
----
-
 ### Summary of Joe’s Archetype
 
 Joe Shepard is a **Frontline Skirmisher** who excels in close combat, leveraging abilities tied to his **Sword & Board** Archetype Skill. He uses his Supplemental Skills (e.g., Athletics) and Heritage Skills (e.g., Tracking, Light Sleeper) to augment his survivability and versatility in combat.  
 Joe’s abilities are balanced between maintaining effort for strategic advantages and spending effort for offensive capabilities, making him a dynamic and adaptable fighter.
 
-## Progress
+[Back to Top](#table-of-contents)
+
+---
+
+## Complete Character Sheet
 
 **Name**: Joe Shepard  
 **Archetype**: Frontline Skirmisher  
@@ -997,7 +997,7 @@ Joe’s abilities are balanced between maintaining effort for strategic advantag
 
 | Domains | Attributes | Skills |
 | :---- | :---- | :---- |
-| **Body** | **STR**: 3 | (A) Sword & Board (3) Skirmisher & Shields |
+| **Body** | **STR**: 3 | (A) Sword & Board (3) Skirmisher Weapons & Shield Arts |
 |  | **CON**: 3 | Slow Bleeder (3) |
 | **Mind** | **PER**: 1 | (H) Tracking (1) |
 |  | **DIS**: 1 | (S) Athletics (2) |
@@ -1024,7 +1024,7 @@ Joe’s abilities are balanced between maintaining effort for strategic advantag
 | Ability | Trigger | Effect | Description |
 | :---- | :---- | :---- | :---- |
 | **Weapon Strike** | To Hit \+AB | Weapon Damage \+STR | Joe can attack with any weapon on the Skirmisher/Soldier Skill menu using his AB and adds his Strength score to the damage. |
-| **Shield Parry** | \-5 On Miss | No Effort, Setup Riposte | When a player attacks Joe and misses by more than 5, it is considered an automatic shield parry, and Joe can spend Effort to Riposte. |
+| **Shield Parry** | \-5 On Miss | Action Conservation | When a player attacks Joe and misses by more than 5, it is considered an automatic shield parry, and Joe can spend Effort to Riposte. |
 | **Ready Stance** | Maintain Stamina | Action Conservation | While maintaining Stamina in Ready Stance, if an Ability using Sword & Board Skills would normally cost Spent Action and Effort, Joe can just spend Effort, saving the action. |
 | **Block** | Spend Action & Effort | \+AB to Minor DT | In Ready Stance, Joe can spend Effort before a creature makes an attack to raise his shield. Joe adds his AB to his Minor Damage Threshold if the attack hits. If the Moderate DT is less than the Minor DT, the Moderate DT increases to match it. |
 | **Riposte** | Spend Action & Effort | To Hit \+AB, Reduce Damage \+STR | In Ready Stance, Joe can spend Effort after a Parry to immediately make an attack for Reduced Damage \+ Strength. |
