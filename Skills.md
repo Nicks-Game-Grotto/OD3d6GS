@@ -38,7 +38,7 @@ The Duelist is a master of precision and technique, focusing on Grace or Agility
 - **Stick Weapons**: *Coming Soon*
 
 ### Armor and Shields
-Proficient in light armor, duelists strike a balance between agility and protection, allowing them to move swiftly and avoid incoming attacks without being weighed down. Their use of light shields adds a layer of defense, deflecting strikes and providing tactical advantages, while still allowing them the flexibility to maintain a sharp offense.
+Proficient in **Light Armor**, duelists strike a balance between agility and protection, allowing them to move swiftly and avoid incoming attacks without being weighed down. Their use of **Light Shields** adds a layer of defense, deflecting strikes and providing tactical advantages, while still allowing them the flexibility to maintain a sharp offense.
 
 ### Tactical Awareness
 Duelists excel in analyzing their opponents' movements and exploiting weaknesses in combat. They anticipate strikes and adjust their position to gain the upper hand. Whether feinting to create openings or capitalizing on an opponent's hesitation, duelists thrive in the fast-paced rhythm of one-on-one combat.  

@@ -62,26 +62,27 @@
     - [Body Attributes (choose two)](#body-attributes-choose-two)
     - [Mind Attributes (choose two)](#mind-attributes-choose-two)
     - [Spirit Attributes (choose two)](#spirit-attributes-choose-two)
-    - [Progress: Attributes Example](#progress-attributes-example)
+  - [Progress: Attributes Example](#progress-attributes-example)
   - [Heritage](#heritage)
-    - [Heritage Attribute](#heritage-attribute)
     - [Heritage Skills](#heritage-skills)
   - [Background](#background)
-    - [Background Attribute](#background-attribute)
     - [Social and Economic Status](#social-and-economic-status)
-    - [Progress: Background Example](#progress-background-example)
-    - [Progress](#progress)
+  - [Progress: Background and Heritage](#progress-background-and-heritage)
   - [Distribute Attribute Points](#distribute-attribute-points)
-    - [Allocate 9 Points](#allocate-9-points)
+    - [Allocate 12 Points](#allocate-12-points)
     - [Considerations for Archetype and Attribute Selection](#considerations-for-archetype-and-attribute-selection)
     - [Determine Attribute Domain Bonuses](#determine-attribute-domain-bonuses)
     - [Progress: Attribute Distribution Example](#progress-attribute-distribution-example)
   - [Select Skills](#select-skills)
     - [Skill Categories](#skill-categories-1)
-    - [Archetype Skill](#archetype-skill)
-    - [Supplemental Skill](#supplemental-skill)
+    - [Skill Groups](#skill-groups)
+    - [Specific Skills](#specific-skills)
+    - [Assigning Skills](#assigning-skills)
+      - [Archetype Skill](#archetype-skill)
+      - [Supplemental Skill](#supplemental-skill)
+      - [Heritage Skills](#heritage-skills-1)
+      - [Specific Skills](#specific-skills-1)
     - [Distribute 9 Skill Mastery Points](#distribute-9-skill-mastery-points)
-    - [Progress: Skill Distribution Example](#progress-skill-distribution-example)
   - [Create Your Archetype](#create-your-archetype)
     - [Choose a Name for Your Character Archetype](#choose-a-name-for-your-character-archetype)
     - [Character Conceit](#character-conceit)
@@ -109,7 +110,7 @@
       - [Light Sleeper](#light-sleeper)
       - [Tracking](#tracking)
     - [Summary of Joe’s Archetype](#summary-of-joes-archetype)
-  - [Progress](#progress-1)
+  - [Progress](#progress)
     - [Domains, Attributes, and Skills](#domains-attributes-and-skills)
     - [Score Card](#score-card)
     - [Combat Abilities](#combat-abilities)
@@ -637,9 +638,7 @@ The first selection that you make will be your **Archetype Attribute**. This is 
 - **Empathy (EMP)**: Understanding/Connection  
 - **Grace (GRA)**: Composure/Elegance
 
----
-
-### Progress: Attributes Example
+## Progress: Attributes Example
 
 **Name**: Joe Shepard
 
@@ -649,75 +648,54 @@ The first selection that you make will be your **Archetype Attribute**. This is 
 | CON (-1) | DIS (-1) | WIL (-1) |
 
 ---
-
 ## Heritage
 
-Your character's **Heritable Traits** reflect their physical form, natural talents, and cultural heritage, which will influence their abilities and outlook. Your heritable traits provide a unique starting point for your character, manifesting as a **\+1 bonus to a chosen attribute** and **two skills** based on your heritage.
-
-Consider what heritable traits best fit your character concept. Do they possess the Grace of an Elf, the Constitution of a Dwarf, or the Perception of a Goblin? Each set of heritable traits offers different advantages. Feel free to have mixed ancestry from as many or as few people groups as you like, but remember you only increase one Attribute Point.
-
-### Heritage Attribute
-
-Choose one of your six Attributes and raise the bonus by one, increasing it to 0\.
+Your character's **Heritable Traits** reflect their physical form, natural talents, and cultural heritage, which will influence their skills and outlook. Your heritable traits provide a unique starting point for your character, manifesting as **two skills** or **one magic source** based on your heritage.
+Consider what heritable traits best fit your character concept. Feel free to have mixed ancestry from as many or as few people groups as you like, but remember you only get *Two Extra Skills **OR** One Magical Source*.
 
 ### Heritage Skills
 
-Choose two skills related to your heritage. These skills can be used as part of your Archetype when you create abilities later. You can choose from the specific skills listed in the skill categories or create one. Specific skills are one or two words (e.g., **Tracking**, **Heavy Lifting**, **Rapier**, **Dark Vision**, **Prehensile Tail**) that describe a narrowly defined skill. This might be something most people in your culture learn or an innate ability based on genetic traits.
-
----
+Choose two skills or one magical source related to your heritage. These skills can be used as part of your Archetype when you create abilities later. You can choose from the specific skills listed in the skill categories or create one. Specific skills are one or two words (e.g., **Tracking**, **Heavy Lifting**, **Rapier**, **Dark Vision**, **Prehensile Tail**) that describe a narrowly defined skill. This might be something most people in your culture learn or an innate ability based on genetic traits.
 
 ## Background
 
-Your background represents your character’s life before they became an adventurer. It shapes their skills, knowledge, and motivations, offering insight into their past experiences. The GM might require players to choose an Attribute different from the one chosen for Heritable Traits.
-
-Think about your character’s history. Were they a soldier, a scholar, or perhaps a merchant? Your background will inform your character’s worldview and provide them with a **\+2 bonus to one attribute**.
-
-### Background Attribute
-
-Choose any one of your six attributes, excluding the one chosen for the Heritable Trait, to receive a \+2 bonus. This bonus should align with the strengths, knowledge, or spiritual enhancements your character has gained through their background. For instance, a background as a **Monk** might lead you to assign the \+2 bonus to Mindfulness, reflecting their inner knowledge, while a **Butcher** might assign Dexterity, and a **Smith** would assign Strength.
-
----
+Your background represents your character's life before they became an adventurer. It shapes their social and economic status.
+Think about your character's history. Were they a soldier, a scholar, or perhaps a merchant? Your background will inform your character's worldview and provide them with **Equipment**, **Money**, and *at least* **Two in Game NPC Connections**. Player Characters in a party might share similar backgrounds or have worked together prior to the start of the adventure, but this is not required.
 
 ### Social and Economic Status
 
 Decide if your character begins with a significant **connection**, such as an ally, mentor, or organization that can aid them during their adventures. Alternatively, you can opt to start with extra **money**, giving your character more resources to equip themselves or purchase valuable items. This choice reflects your character's social ties and financial status before the start of the game.
 
-- **Connections**: These should be relevant to the game being played. The connection should have value and be helpful but not someone that the party will become dependent upon.  
-- **Wealth**: Often a character's background might include a combination of Wealth and Social status. Balance these by having characters with contradictory positive and negative starting life circumstances.
+- **Connections**: These should be relevant to the game being played. The two connections should have value and be helpful but not someone that the party will become dependent upon.  
+- **Wealth**: Often a character's background might include a combination of Wealth and Social status. Balance these by having characters with contradictory positive and negative starting life circumstances. A character starting as a prince or princess might have great starting gear but limited financial resources because they have been estranged from their family, or a con-artist could have close ties in the criminal community and a large savings, but need to keep low key because they have people who want vengenance for something they've done.
 
----
-
-### Progress: Background Example
+## Progress: Background and Heritage
 
 **Name**: Joe Shepard
 
-**Heritage Attribute**: Perception \+1  
 **Heritage**: Joe was a goat herder. He is a **Light Sleeper** (creatures have disadvantage to sneak into Joe and his party's camp) and can **Track** creatures in mountainous terrain.
-
-**Background Attribute**: Strength \+2  
 **Background**: Joe left home to become a stone worker in the big city.  
 **Connections**: Joe has a good rapport with the common folk, and Harry Farmer lets Joe crash at his place whenever he's in town.  
 **Economic Status**: Joe is a saver. He maintains a comfortable lifestyle when not adventuring. He dreams of buying a space in the city to start a martial arts academy.
 
----
-
-### Progress
-
 | Body | Mind | Spirit |
 | :---: | :---: | :---: |
-| STR (1) | PER (0) | EMP (-1) |
+| STR (-1) | PER (-1) | EMP (-1) |
 | CON (-1) | DIS (-1) | WIL (-1) |
 
 **Heritage Skill**: Tracking (0)  
 **Heritage Skill**: Light Sleeper (0)
+**Connections**: **Harry Farmer** (Close Friend) is a member of the Masons Guild and lets Joe stay with him. **Ciny Cobbler** (Gossip Girl) knows everyone's business and works as a teller at the Company Bank. Joe has family in The Golden Steppe of Kalora and friends on the Artesian Islands.
+**Economic Status**: *Savings* **527g**, *Carry Cash* **5g 50s 82c**, *Gear* **Well Made**
 
+---
 ## Distribute Attribute Points
 
-After choosing your Attributes, you'll need to assign values to them, shaping your character’s strengths and weaknesses. You have already distributed 3 points and now you will get 9 more points. Realize that this is the only time you will be able to buy higher bonuses for one point. During character growth, increasing Attribute Bonuses becomes cost-prohibitive.
+After choosing your Attributes, you'll need to assign values to them, shaping your character’s strengths and weaknesses. You have **12** points to distribute. Realize that this is the only time you will be able to buy higher bonuses for one point. During character growth, increasing Attribute Bonuses becomes cost-prohibitive. ***And remember, if the sum of your attribute bonuses equals 6 you did it correct***.
 
-### Allocate 9 Points
+### Allocate 12 Points
 
-You have 9 points to distribute among your six chosen attributes. Each point raises an attribute’s score by \+1. Attributes start at \-1. No attribute can be raised higher than \+3 at this stage. This limitation ensures system integrity.
+You have 12 points to distribute among your six chosen attributes. Each point raises an attribute’s score by +1. Attributes start at -1. No attribute can be raised higher than +3 at this stage. This limitation ensures system integrity.
 
 Decide whether to focus on a few strong attributes or spread your points evenly. For example, a character focused on physical combat might max out **Strength (STR)** and **Agility (AGI)**, while a well-rounded character might distribute points more evenly.
 
@@ -731,115 +709,120 @@ Later in the character creation process, you will choose a **Primary Archetype**
 
 Calculate the bonus for each Attribute Domain (**Body**, **Mind**, **Spirit**). This bonus equals half the sum of the two chosen attributes in that Domain, rounded up. This Domain bonus will be used for checks and saves that fall under the Domain but aren’t specific to a single attribute and don't combine with skills. This number is also your character's base **Effort Points**.
 
----
-
 ### Progress: Attribute Distribution Example
 
 **Name**: Joe Shepard
-
-**Heritage Attribute**: Perception \+1  
-**Background Attribute**: Strength \+2
-
 **Distribution of Attribute Points**:
-
-- Starting Points: 9  
-- STR: \-2 → 9 \- 2 \= 7  
-- CON: \-4 → 7 \- 4 \= 3  
-- PER: \-1 → 3 \- 1 \= 2  
-- DIS: \-2 → 2 \- 2 \= 0  
+- Starting Points: 12  
+- STR: 3 → 12 - 4 = 8  
+- CON: 3 →  8 - 4 = 4  
+- PER: 1 →  4 - 2 = 2  
+- DIS: 1 →  2 - 2 = 0  
 - Remaining Points: 0
 
 | Body | Mind | Spirit |
-| :---: | :---: | :---: |
-| 3 | 1 | \-1 |
+| :------: | :---: | :---: |
+| 3 | 1 | -1 |
 
 | STR | CON | PER | DIS | EMP | WIL |
 | :---: | :---: | :---: | :---: | :---: | :---: |
-| 3 | 3 | 1 | 1 | \-1 | \-1 |
+| 3 | 3 | 1 | 1 | -1 | -1 |
 
 ---
 
 ## Select Skills
 
-During Character Creation, players make foundational choices about their character's skills, which will shape their abilities throughout the game. This is the only time players can select broad **Skill Categories**, which grant access to groups of related skills rather than individual skills. Choices made during this phase represent the most valuable use of points, as these points have a greater long-term effect than the Character Growth Points earned later.
-
-Skills are the language used to build **Abilities** and serve as the link between **Character Attributes** and **Abilities**. Players will define their Abilities when they define their Archetype.
-
----
+During Character Creation, players make foundational choices about their character's skills, which will shape their abilities throughout the game. This is the only time players can select broad **Skill Categories**, which define how Skills and Skill Groups integrate into a character's Archetype. Choices made during this phase determine access to **Skill Groups** and **Specific Skills**, influencing a character's abilities and long-term progression.
 
 ### Skill Categories
 
-- **Heritage Skills**: These are specific, individual skills. Abilities created with these skills roll with their associated Attribute and Skill Mastery Bonus. If a player wants to use these skills as part of their Archetype, it requires **Spent** or **Maintained Effort** at the Novice Skill Mastery Level.  
-  *You’ve already chosen these skills during Character Creation.*  
-    
-- **Archetype Skill**: This represents **two general skill groups** chosen by the player. Abilities created with these groups roll with and contribute to the character’s Archetype Bonus.  
-    
-- **Supplemental Skill**: This is a single general skill group. Abilities created with these skills roll with their associated Attribute and Skill Mastery Bonus. Using these skills as part of the Archetype requires **Spent** or **Maintained Effort** at the Skilled Skill Mastery Level.  
-    
-- **Specific Skills**: These are individual, specific skills. Abilities created with these skills roll with their associated Attribute and Skill Mastery Bonus. Using these skills as part of the Archetype requires **Spent** or **Maintained Effort** at the Expert Skill Mastery Level.
+Skill Categories determine the breadth of a character's capabilities and how Skills or Skill Groups interact with their Archetype. Each category has different rules for association with Attributes and the Mastery Level at which they function within the Archetype.
 
----
+| **Skill Category** | **Content**                         | **Archetype Integration**                                                                                      |
+|--------------------|-------------------------------------|----------------------------------------------------------------------------------------------------------------|
+| **Heritage**       | Two Specific Skills **or** One Magical Source | Use Archetype Score (Abilities) at Mastery Level (Novice) 0                                                   |
+| **Archetype**      | Two Skill Groups                   | Represents the Archetype Score by default                                                                     |
+| **Supplemental**   | One Skill Group                    | Use Archetype Score at Mastery Level (Skilled) 3                                                              |
+| **Specific**       | One Specific Skill                 | Use Archetype Score at Mastery Level (Expert) 4                                                               |
 
-### Archetype Skill
+### Skill Groups
 
-The **Archetype Skill** represents your character’s most broadly defined and developed skill set. You will select **two Skill Categories** to combine under a single Archetype Skill.
+Skill Groups represent logical collections of related abilities or techniques. These are defined in the **Skills.md** document and include:
 
-**Example**:  
-Consider naming your Archetype Skill “Sword & Board” and choosing the **Skirmisher/Soldier** and **Shield Arts** Skill Categories. These combined skills will provide access to weapons- and armor-related actions, such as using your shield to parry or enhance defense.
+1. **Weapon Groups**: E.g., Skirmisher/Soldier, Shield Arts.
+2. **Physical Groups**: E.g., Acrobatics, Performance.
+3. **Mental Groups**: E.g., Investigation, Linguistics.
+4. **Spiritual Groups**: E.g., Empathy, Connection.
+5. **Magical Schools and Sources**: E.g., Abjuration, Vitalix.
 
-These skills will be associated with your character’s Archetype Attribute, chosen during character creation. This Attribute should complement the concept of your Archetype Skill. For instance, **Strength** or **Agility** would suit most warriors, but you could work with your GM to tie **Empathy** to a unique combat style if it fits your vision.
+Skill Groups are categorized as headings (H2) in **Skills.md**. They provide context for the types of abilities a character can develop within their Archetype or as part of their Supplemental Skills.
 
-Spending Character Creation Points to raise mastery in the Archetype Skill also raises mastery for the two associated Skill Categories, making this a highly cost-effective investment.
+### Specific Skills
 
----
+Specific Skills are individual abilities or proficiencies, such as **Leap**, **Dance**, **Deductive Reasoning**, **Sense Intent**, or **Astral Projection**. These appear as bolded entries under their corresponding Skill Groups in the **Skills.md** document.
 
-### Supplemental Skill
+### Assigning Skills
 
-The **Supplemental Skill** is the third and final broad skill category you select. It complements your Archetype Skill and adds depth to your character.
+Each Skill Category allows players to associate Skills or Skill Groups with an Attribute. While the association does not need to match precisely (e.g., Acrobatics may fit under **Grace**, a Spirit Domain Attribute), it must make narrative sense. For example:
 
-**Example**:  
-For a “Sword & Board” character, you might select **Athletics** as a Supplemental Skill, gaining access to abilities like **Leap**, **Shove**, and **Braced**—all useful for a front-line fighter.
+- **Valid Association**: Acrobatics (Physical Group) with Grace (Spirit).
+- **Invalid Association**: Dueling (Weapon Group) with Empathy (Spirit).
 
-Supplemental skills can contribute to your Archetype Bonus once they reach the **Skilled (3)** Mastery Level.
+#### Archetype Skill
 
----
+The **Archetype Skill** represents your character’s most broadly defined and developed skill set. You select **two Skill Groups** to combine under a single Archetype Skill.
+
+**Example:**
+- An Archetype Skill named "Sword & Board" might include the **Skirmisher/Soldier** and **Shield Arts** Skill Groups. These provide access to abilities like parrying with a shield or striking with a weapon.
+
+Archetype Skills represent the character's default proficiency and directly use the Archetype Score.
+
+#### Supplemental Skill
+
+The **Supplemental Skill** adds depth to a character's capabilities by providing access to **one additional Skill Group**. Supplemental Skills use the Archetype Score but operate at **Mastery Level (Skilled) 3**.
+
+**Example:**
+- A "Sword & Board" character might choose **Athletics** as their Supplemental Skill, unlocking abilities like **Leap**, **Shove**, and **Braced**.
+
+#### Heritage Skills
+
+Heritage Skills represent innate or culturally learned abilities. Players choose either **two Specific Skills** or **one Magical Source**. These abilities use the Archetype Score at **Mastery Level (Novice) 0**.
+
+**Example:**
+- A character with a background as a Shepard might take **Tracking** and **Light Sleeper** as Specific Skills.
+- Alternatively, they could choose **Vitalix** as their Magical Source, allowing for attunement and manipulation of the forms of Vitalix.
+
+#### Specific Skills
+
+Specific Skills are precise proficiencies chosen individually from a Skill Group. They operate at **Mastery Level (Expert) 4** when tied to the Archetype Score. 
+
+**Example:**
+- A duelist might select **Mock/Taunt** from the Performance Group to enhance their trash talking capabilities.
+- A Sorcerer might select **Rapier** from the Dueling Group to fight when they are low on effort.
 
 ### Distribute 9 Skill Mastery Points
 
-At this point, your sheet should show four skills: an **Archetype Skill**, a **Supplemental Skill**, and two **Heritage Skills**. You must spend two of your nine available skill mastery points to raise the Archetype and Supplemental Skills to the Apprentice Level. Refer to the Skill Mastery Table for details. The remaining seven points can be spent freely, either improving existing skills or gaining specific new skills. The highest mastery level for new characters is Skilled (3).
+At this point, your sheet should show the following:
+1. **Archetype Skill**: Two Skill Groups.
+2. **Supplemental Skill**: One Skill Group.
+3. **Heritage Skills**: Two Specific Skills **or** One Magical Source.
+4. **Specific Skills**: Optional single Skills
+
+Allocate your **9 Skill Mastery Points**:
+- Spend points to improve your Archetype and Supplemental Skills.
+- Use remaining points to gain Specific Skills or increase mastery levels in Heritage Skills.
+
+**Example Distribution:**
+| Skill Category     | Skills/Groups         | Mastery Level | Points Used |
+|--------------------|-----------------------|---------------|-------------|
+| **Archetype Skill**| Skirmisher/Soldier, Shield Arts | 3 (Skilled)  | 3           |
+| **Supplemental**   | Athletics            | 2 (Adept)| 2           |
+| **Heritage**       | Light Sleeper | 0 (Novice)    | 0           |
+| **Heritage**       | Tracking | 1 (Apprentice)    | 1           |
+| **Specific**       | Slow Bleeder         | 3 (Skilled)   | 3           |
+|                    | Total                |               | **9**       |
 
 ---
-
-### Progress: Skill Distribution Example
-
-**Name**: Joe Shepard
-
-**Distribution of Skill Points**:
-
-- Starting Points: 9  
-- Sword & Board: \-3 → 9 \- 3 \= 6  
-- Athletics: \-2 → 6 \- 2 \= 4  
-- Slow Bleeder: \-3 → 4 \- 3 \= 1  
-- Tracking: \-1 → 1 \- 1 \= 0  
-- Remaining Points: 0
-
-| Body | Mind | Spirit |
-| :---: | :---: | :---: |
-| 3 | 1 | \-1 |
-
-**Archetype Skill**:
-
-- **Sword & Board (3)**  
-  *Skirmisher/Soldier & Shield Arts*
-
-**Supplemental Skill**:
-
-- **Athletics (2)**
-
-**Heritage Skills**:
-
-- **Tracking (1)**  
-- **Light Sleeper (0)**
 
 ## Create Your Archetype
 
@@ -851,8 +834,6 @@ By now, we’ve learned a lot about Joe Shepard, but there’s still key informa
 - Why are we choosing skills without picking a class?
 
 This system doesn’t use predefined classes. Instead, you define your character’s **Archetype**, a unique concept that integrates their skills, attributes, and abilities. For example, Joe Shepard is a **Frontline Skirmisher**, whose Archetype Skill is **Sword & Board**. Below, we’ll answer these questions and outline how Archetypes work.
-
----
 
 ### Choose a Name for Your Character Archetype
 
