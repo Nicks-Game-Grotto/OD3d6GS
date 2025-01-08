@@ -285,15 +285,13 @@ Here are the heritages for Halflings and Orcs:
     - **Bog Camouflage:** Gain advantage on stealth checks when in swampy environments.
 - **Cultural Heritage:** Swamp Bugbears thrive in boggy territories, living in stilted homes above the waterline. They are skilled trappers and herbalists, crafting powerful poultices and toxins. Their culture emphasizes balance and reverence for the swamp's ecosystems, with spiritual leaders serving as guides and protectors.
 
-# GPT notes for In-Work Heritages
-
-In many tabletop and digital RPGs, you'll find a variety of fantasy races that players can choose from. Here are some commonly featured races:
+# In-Work Heritages
 
 **Dwarves** \- Sturdy and skilled in mining and crafting, dwarves are usually portrayed as short and resilient, with a strong sense of tradition.
 
 **Dragons and Half Dragon** \- While less common as player characters, some RPGs allow players to take on dragon forms or play dragon-like races with inherent magical abilities.
 
-**Tieflings** \- These are humans with infernal heritage, often featuring horns, tails, and a natural affinity for magic.
+**Tieflings** \- These are people with infernal heritage, often featuring horns, tails, and a natural affinity for magic. Any race may make infernal pacts that might result in their children having a Tiefling genetic and/or cultural Heritage. Horns, Vibrantly Colored Skin, Pheromancy,  and Prehensile Tails are the most common ways Tieflings present their heritage.
 
 **Ferals** \- Also known as the lycanthropes, these are humanoids with a bestial nature. Subraces might include different animalistic traits such as wolf, cat, or bear.
 
@@ -301,7 +299,7 @@ In many tabletop and digital RPGs, you'll find a variety of fantasy races that p
 
 **Jinn** \- Humanoids with elemental heritage, each with distinct features and abilities related to their elemental origin (Air, Earth, Fire, Water).
 
-## **Furries** \- General term for anthropomorphic animals, which can include various types of animal traits and characteristics.
+ **Furries** \- General term for anthropomorphic animals, which can include various types of animal traits and characteristics.
 
 **Catfolk** \- Anthro characters with feline traits, often agile and stealthy, with subtypes such as lions, tigers, and domestic cats.  
 **Wolfkin** \- Anthro beings with wolf characteristics, known for their pack instincts and often enhanced senses.  

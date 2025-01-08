@@ -13,12 +13,7 @@ Hollalee Withrethen carries the weight of her family’s prestigious name, using
 
 Hollalee’s bloodline weaves a rich tapestry of Deep Elf, Human, and Moon Elf ancestry, giving her striking features and an innate connection to Vitalix energy. Three generations ago, her great-great-aunt, the infamous pirate queen Sorynne “Stormsong” Withrethen, ruled the seas before the formation of the Corsair Trade Corporation. Hollalee’s family believes she may be Sorynne’s reincarnated soul, a notion Hollalee embraces wholeheartedly. At the age of 65—barely an adult by elven standards—she left home to forge her own path, determined to reclaim her ancestor’s legacy and carve her name into history.
 
-**Campaign Notes:**  
-Use this area for campaign-specific details like alliances, group dynamics, or relevant world lore.
-
----
-
-**Growth and Milestones**
+## Growth
 
 | Milestone | Description |
 |-----------|-------------|
@@ -29,14 +24,11 @@ Use this area for campaign-specific details like alliances, group dynamics, or r
 | 5         |             |
 | 6         |             |
 
-Milestones are collaboratively determined between GM and player.
-
 ---
 
 ## Bio
 
 Name:  **Hollalee Withrethen**
-
 **Archetype:** ***Outcast Scion** Innate Vitalix Abilities*
 
 ## Score Card

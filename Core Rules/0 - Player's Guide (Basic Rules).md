@@ -1,7 +1,7 @@
 # Table of Contents
 - [Table of Contents](#table-of-contents)
 - [OD3d6GS | Player’s Guide](#od3d6gs--players-guide)
-    - [**Core Mechanics**](#core-mechanics)
+    - [**System Overview**](#system-overview)
       - [**Three Domains of Power**](#three-domains-of-power)
       - [**Skills and Mastery**](#skills-and-mastery)
       - [**Customizable Abilities**](#customizable-abilities)
@@ -131,7 +131,7 @@ The **Open Development 3d6 Game System (OD3d6GS)** empowers players to create un
 
 ---
 
-### **Core Mechanics**
+### **System Overview**
 
 #### **Three Domains of Power**
 
@@ -172,7 +172,7 @@ The **Effort system** adds a dynamic resource management layer to gameplay, enab
    - Players may spend any type of Effort to activate Abilities, but **Domain Effort** is more difficult to replenish, encouraging strategic use.  
    - **Adrenaline** resets at the end of each combat round, while **Inspiration** offers creative utility between battles.
 
-This mechanic ensures a balance between power and resource conservation, challenging players to think critically about when and how to spend their Effort.
+This mechanic ensures a balance between power and resource conservation, challenging players to think critically about when and how to spend their Effort. If you are swinging a sword, casting magical spells, or trying to persuade a guard to allow you to pass, you are expending effort.
 
 #### **Character Archetypes**
 
