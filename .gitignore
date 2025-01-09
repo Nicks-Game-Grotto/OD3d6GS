@@ -8,6 +8,7 @@ git-commands.md
 *.log
 *.tmp
 *.temp
+Logs/
 
 # OS-generated files
 .DS_Store

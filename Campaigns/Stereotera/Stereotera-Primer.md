@@ -181,6 +181,7 @@ For adventuring parties, the Concord offers two main organizational structures:
 - **Circle Keeper:** A respected Wanderer who mediates disputes and coordinates local Hearthpost activities.  
 - **Seekers:** Wanderers who pursue specific quests or mysteries on behalf of the Circle.  
 - **Roamers:** Independent agents who explore freely but remain loosely connected to the Circle.
+- **Pathfinders:** 
 
 #### **Key Hearthposts** 
 

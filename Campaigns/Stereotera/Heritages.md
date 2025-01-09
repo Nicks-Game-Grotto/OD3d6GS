@@ -1,293 +1,285 @@
 # Elven Heritages
 
-## 1\. Wood Elves
+## 1. Wood Elves  
+- **Appearance:** Smaller in stature, typically ranging from 4'8" to 5'6". Their skin tones range from pale to light brown, often with a slightly green or earthy hue. Hair colors mirror the forest’s seasons—chestnut brown, mossy green, or fiery auburn. Eyes are green, amber, or hazel, often flecked with gold like sunlight through leaves.  
+- **Lifespan:** 700–900 years.  
+- **Adulthood:** Reached at 80–100 years.  
+- **Traits:** Wood Elves are deeply attuned to nature, excelling in druidic magic, archery, and herbalism. Their connection to the natural world allows them to communicate with animals and sense disturbances in their environment. They move with quiet precision, blending seamlessly into their surroundings.  
+- **Cultural Heritage:** Living in treetop villages that meld with the forest canopy, Wood Elves value balance and harmony with their environment. Their art reflects the organic beauty of nature, and their spiritual practices revolve around the cycles of life and renewal. Decisions are often made collectively by elders, though the voice of the land itself is often consulted in moments of uncertainty.  
+- **Breaking the Mold:** Some Wood Elves reject their insular traditions, becoming wandering naturalists or architects who use their knowledge of living materials to create bioengineered wonders. These "Wayfarers" seek to bring harmony to the broader world, serving as mediators between nature and civilization.
 
-* **Appearance:** Smaller in stature, typically ranging from 4'8" to 5'6". Their skin tones range from pale to light brown, with hair colors often matching the hues of the forest—chestnut brown, deep green, or autumnal red. Eyes are usually green, amber, or hazel.  
-* **Lifespan:** 700-900 years.  
-* **Adulthood:** Reached at 80-100 years.  
-* **Traits:** Wood Elves possess a deep affinity for nature, with an innate ability in druidcraft, herbalism, and hunting. They are swift and agile, excelling in archery and tracking. Their connection to the natural world allows them to communicate with animals and manipulate plant life with ease.  
-* **Cultural Heritage:** Wood Elves live in harmony with the forests, building tree-top villages that blend seamlessly with the environment. Their culture is deeply spiritual, with a focus on the balance of nature and the cycles of life. They are master hunters and trackers, often revered as guardians of the wild. Their art and architecture mimic the organic patterns of the forest, and their political structures are typically tribal, with decisions made by councils of elders.  
-* **Breaking the Mold:** **The Arbormancer's League** is a society where Wood Elves have mastered the fusion of nature and technology, creating bioengineered living cities. They work closely with other races, sharing their knowledge of sustainable living and environmental protection, becoming leaders in the fight against climate change and deforestation.
+## 2. Deep Elves  
+- **Appearance:** Tall and robust, standing between 5'10" and 6'6". Their skin carries bluish or greenish undertones, like sunlight refracted through water. Hair flows in shades of deep blue, seaweed green, or black, and their eyes shimmer like the sea—teal, sapphire, or silvery gray.  
+- **Lifespan:** 800–1,000 years.  
+- **Adulthood:** Reached at 100–120 years.  
+- **Traits:** Deep Elves are semi-aquatic, capable of breathing underwater for extended periods and navigating oceanic depths with ease. They are gifted swimmers and have an affinity for water magic and currents. Their senses are adapted for the dim, refracted light of the ocean floor.  
+- **Cultural Heritage:** Deep Elves construct cities beneath the waves, using coral, bioluminescent flora, and natural stone to craft stunning underwater metropolises. Their culture revolves around the rhythms of the tides, emphasizing adaptability and resilience. They are skilled sailors and shipwrights, with a pragmatic approach to survival and prosperity.  
+- **Breaking the Mold:** Some Deep Elves venture to the surface, seeking to integrate oceanic and terrestrial communities. Known as "Tidewardens," these pioneers specialize in trade, diplomacy, and protecting the seas from overexploitation, fostering a bridge between the depths and the surface.
 
-## 2\. Deep Elves
+## 3. Sun Elves  
+- **Appearance:** Towering and regal, Sun Elves range from 5'8" to 6'4". Their skin tones range from golden bronze to deep umber, with hair that is often black, dark brown, or a deep red. Their eyes burn like embers, glowing with shades of amber, gold, or copper.  
+- **Lifespan:** 700–900 years.  
+- **Adulthood:** Reached at 70–90 years.  
+- **Traits:** Sun Elves are masters of fire magic and advanced engineering, combining arcane knowledge with mechanical innovation. They are resistant to heat and thrive in desert climates, where their adaptability to harsh conditions serves them well.  
+- **Cultural Heritage:** Sun Elves dwell in grand desert cities, their architecture reflecting the grandeur of the sun itself. They are builders of monumental citadels and intricate mechanisms, their culture steeped in the pursuit of innovation and military power. Though often seen as conquerors, many Sun Elves value order and enlightenment above all else.  
+- **Breaking the Mold:** A growing movement among Sun Elves, calling themselves "The Solarians," seeks to use their technological prowess for peaceful ends. These individuals establish academies and workshops dedicated to education and sustainable development, aiming to unite their fiery ambition with benevolence.
 
-* **Appearance:** Larger and more robust, with heights ranging from 5'10" to 6'6". Their skin has a bluish or greenish tint, reflecting their semi-aquatic nature. Hair ranges from deep blue to seaweed green, and their eyes are often shades of blue, teal, or even silver, with a slightly reflective quality.  
-* **Lifespan:** 800-1000 years.  
-* **Adulthood:** Reached at 100-120 years.  
-* **Traits:** Deep Elves are semi-aquatic, with the ability to breathe underwater for extended periods and an innate affinity for water magic. They are excellent swimmers, with webbed fingers and toes, and possess enhanced night vision to navigate the ocean's depths. Their culture revolves around fishing, sea-faring, and underwater construction.  
-* **Cultural Heritage:** Deep Elves live in sprawling underwater cities, often built within natural formations like coral reefs or undersea caverns. Their society is heavily influenced by the ebb and flow of the tides, with a focus on fluidity and adaptability. They are skilled fishermen, navigators, and shipbuilders, with a deep respect for the ocean's power. Politically, Deep Elves often form maritime republics, with leaders chosen based on their wisdom and experience.  
-* **Breaking the Mold:** **The Tideforged Dominion** is a Deep Elf society that has harnessed the power of the ocean to create floating cities. These cities are mobile and travel the seas, forming trade alliances and defending against pirates and sea monsters. They are pioneers in oceanography and marine biology, sharing their knowledge with land-dwellers to protect the oceans.
+## 4. Moon Elves  
+- **Appearance:** Moon Elves have an ethereal, otherworldly quality. Their skin ranges from pale silver to deep onyx, shimmering faintly under moonlight. Their height varies, from lithe 5'0" figures to imposing 7'0" forms. Hair is often white, silver, or jet black, while their eyes glow in solid hues—violet, white, or midnight blue—with no visible pupils.  
+- **Lifespan:** 900–1,100 years.  
+- **Adulthood:** Reached at 90–110 years.  
+- **Traits:** Moon Elves are deeply connected to nocturnal and arcane forces, excelling in divination, shadow magic, and dreamwalking. Their nocturnal nature allows them to navigate in darkness with ease, and their aura often carries a subtle, calming chill.  
+- **Cultural Heritage:** Moon Elves dwell in secluded regions touched by the night, such as misty valleys, moonlit groves, or underground sanctuaries. Their culture revolves around the observation of celestial patterns and the study of hidden knowledge. They are often seen as mysterious and seductive, with their art and rituals reflecting the beauty and mystery of the cosmos.  
+- **Breaking the Mold:** Not all Moon Elves embrace seclusion. A faction known as the "Luminarchs" seeks to integrate their mystical heritage with the broader world. By crafting tools and sharing knowledge derived from moonlight’s essence, they work to uplift others while remaining wary of those who seek to exploit their gifts.
 
-## 3\. Sun Elves
-
-* **Appearance:** Tall and imposing, ranging from 5'8" to 6'4". Their skin tones range from swarthy to dark brown, with hair often dark, ranging from black to deep brown. Eyes are typically amber, gold, or reddish-brown, with a piercing gaze.  
-* **Lifespan:** 700-900 years.  
-* **Adulthood:** Reached at 70-90 years.  
-* **Traits:** Sun Elves combine magic and science for warfare, often serving as conquistadors, gunslingers, and colonists. They have a natural resistance to heat and an affinity for fire magic, making them formidable in desert environments. Their technology often includes advanced firearms and mechanical constructs powered by both magic and steam.  
-* **Cultural Heritage:** Sun Elves are desert dwellers, living in fortified cities built from sandstone and marble. Their culture is one of conquest and expansion, with a strong emphasis on military prowess and innovation. They are skilled architects and engineers, building grand citadels and developing powerful weapons. Their political structures are often imperial, with a central authority led by a strong, charismatic leader.  
-* **Breaking the Mold:** **The Solstice Compact** is a group of Sun Elves who have turned away from their warlike past to become scholars and inventors. They have established a network of academies in the desert, focusing on the peaceful application of their advanced technology. They work to uplift neighboring cultures through education and technological exchange, rather than conquest.
-
-## 4\. Moon Elves
-
-* **Appearance:** Moon Elves have a striking appearance, with skin ranging from colorless white to jet black. Their height varies greatly, from as short as 5'0" to as tall as 7'0". Their hair is often white, silver, or black, and their eyes are typically a single solid color, such as white, black, or violet, with no visible pupils.  
-* **Lifespan:** 900-1100 years.  
-* **Adulthood:** Reached at 90-110 years.  
-* **Traits:** Moon Elves possess an ethereal quality, with an innate connection to the arcane and the mysterious. They are often involved in mystical practices, such as divination, necromancy, and the study of cosmic forces. Their society is enigmatic, with a penchant for secrecy and a deep reverence for the unknown. They thrive in underground environments or on spacefaring vessels, where they explore the boundaries of reality.  
-* **Cultural Heritage:** Moon Elves often live in secluded underground cities or aboard vast starships, existing on the fringes of both physical and metaphysical realms. Their culture is deeply mystical, with a focus on the exploration of the cosmos and the study of ancient, arcane knowledge. They are known for their intricate and otherworldly art, as well as their complex, often inscrutable political structures, which revolve around secretive councils and prophetic visions.  
-* **Breaking the Mold:** **The Voidborne Enclave** is a society of Moon Elves who have turned their knowledge of the arcane into a force for exploration and diplomacy. They navigate the void between worlds, establishing trade routes and alliances with other races. Their starships are marvels of both magic and technology, and they use their knowledge to protect the cosmos from eldritch threats.
+---
 
 # Human Heritages
 
-## 1\. Northern Humans
+## 1. Northern Humans  
+- **Appearance:** Northern Humans are typically tall and muscular, with skin tones ranging from fair pink to translucent white. Hair is often blonde, red, or light brown, with some having dark hair, and their eyes are usually blue, grey, or green. They have strong, angular features and are often bearded.  
+- **Lifespan:** 60–80 years.  
+- **Adulthood:** Reached at 16–18 years.  
+- **Traits:** Known for their hardiness and resilience, Northern Humans excel in both seafaring and horseback riding. They thrive in cold climates and are exceptional warriors and tacticians. Their society values strength, honor, and loyalty, with a focus on community and survival.  
+- **Cultural Heritage:** Northern Human culture blends seafaring traditions with nomadic lifestyles. They live in coastal fortresses or mobile encampments, depending on the season and necessity. Their art features intricate wood and metal carvings, and their spiritual practices include shamanism and ancestor worship. Clans or tribes govern their political structures, with leadership often tied to combat prowess or lineage.  
+- **Breaking the Mold:** The "Skyfall Horde" has taken to the skies, living aboard giant airships. These nomadic clans have mastered aerial combat and trade, navigating even the fiercest weather and forming alliances with those who share their respect for the skies.
 
-* **Appearance:** Northern Humans are typically tall and muscular, with skin tones ranging from fair pink to translucent white. Hair is often blonde, red, or light brown, with some having dark hair, and their eyes are usually blue, grey, or green. They have strong, angular features and are often tall and bearded.  
-* **Lifespan:** 60-80 years.  
-* **Adulthood:** Reached at 16-18 years.  
-* **Traits:** Known for their hardiness and resilience, Northern Humans are skilled in both seafaring and horseback riding. They have a natural affinity for cold climates and are often exceptional warriors and tacticians. Their society values strength, honor, and loyalty, with a strong emphasis on community and survival.  
-* **Cultural Heritage:** Northern Human culture is a blend of Viking seafaring traditions and Mongolian nomadic practices. They live in coastal fortresses or mobile encampments, depending on the season and their lifestyle. Their art and architecture are characterized by intricate woodwork, metalwork, and textile crafts, often depicting their rich mythology and history. Politically, they are organized into clans or tribes, with leadership often determined by combat prowess or lineage. Their spiritual practices involve shamanism and ancestor worship, with a deep connection to the natural world.  
-* **Breaking the Mold:** **The Skyfall Horde** is a Northern Human society that has taken to the skies, using giant airships as their nomadic homes. They have mastered the art of aerial combat and trade, establishing a vast network of sky-faring clans. They are known for their elaborate sky ceremonies and their ability to navigate the most treacherous of weather conditions, forging alliances with other races who share their respect for the skies.
+## 2. Southern Humans  
+- **Appearance:** Southern Humans have skin tones ranging from dark brown to deep black, with some having reddish or golden undertones. Hair is typically curly or coiled, ranging from black to dark brown, with some lighter shades. Their eyes are often brown, amber, or hazel, and they have strong, athletic builds.  
+- **Lifespan:** 70–90 years.  
+- **Adulthood:** Reached at 14–16 years.  
+- **Traits:** Southern Humans are deeply connected to the land and spiritual world. They excel in farming, hunting, and natural medicine, often blending their deep understanding of the environment with artistry and ritual. Their societies emphasize harmony, balance, and respect for ancestors and nature.  
+- **Cultural Heritage:** Rooted in traditions of resilience and creativity, Southern Humans live in vibrant city-states or expansive empires near rivers and fertile lands. Their art features vibrant colors, beadwork, and carvings depicting their gods and ancestors. Politically, they form kingdoms or confederations, led by wisdom, valor, or spiritual insight. Their spiritual practices center on rituals honoring celestial bodies and the spirits of the land.  
+- **Breaking the Mold:** The "Emberheart Confederacy" combines traditional wisdom with advanced technology, building cities powered by geothermal energy. Known for environmental innovation, they lead efforts in conservation and blend modern science with traditional healing practices.
 
-## 2\. Southern Humans
+## 3. Eastern Humans  
+- **Appearance:** Eastern Humans have diverse skin tones, ranging from pale white to golden brown. Hair is often straight or wavy, with colors varying from black to brown, and eyes are typically brown, green, or gray. They tend to have lithe, agile builds, spanning a wide range of heights.  
+- **Lifespan:** 65–85 years.  
+- **Adulthood:** Reached at 15–17 years.  
+- **Traits:** Eastern Humans are adaptable and resourceful, excelling as horsemen, gunslingers, and artisans. Their culture values personal honor, resilience, and innovation, with strong traditions of storytelling and music.  
+- **Cultural Heritage:** Eastern Humans combine elements of frontier independence and structured discipline. They inhabit frontier towns, sprawling ranches, or fortified castles. Their art blends practical craftsmanship with elegance, and their architecture reflects functionality and precision. Politically, they are organized into guilds or clans, emphasizing reputation and mutual support. Spiritual practices mix ancestor worship and nature veneration, maintaining harmony between the human and spirit worlds.  
+- **Breaking the Mold:** The "Ironpath Syndicate" has turned frontier towns into industrial hubs, pioneering steam-powered machinery and rail networks. These cities blend rustic charm with modern amenities and foster a vibrant culture of arts, music, and literature.
 
-* **Appearance:** Southern Humans have skin tones ranging, from dark brown to deep black, with some having reddish or golden undertones. Hair is typically curly or coiled, ranging from black to dark brown, with some having lighter shades. Their eyes are often brown, amber, or hazel, and they possess strong, athletic builds.  
-* **Lifespan:** 70-90 years.  
-* **Adulthood:** Reached at 14-16 years.  
-* **Traits:** Southern Humans are known for their connection to the land and the spiritual world. They are skilled farmers, hunters, and warriors, with a deep understanding of natural medicines and rituals. Their societies often emphasize balance, harmony, and respect for both ancestors and the environment. They are also known for their artistic and architectural achievements, building grand stone structures and intricate carvings.  
-* **Cultural Heritage:** Southern Human culture draws from the rich traditions of Sub-Saharan Africa and Ancient American civilizations. They live in vibrant city-states or vast empires, often centered around rivers or other bodies of water. Their art is characterized by vibrant colors, intricate beadwork, and powerful symbolism, often depicting their gods, ancestors, and the natural world. Politically, they are organized into kingdoms or confederations, with leaders chosen based on wisdom, valor, or spiritual insight. Their religious practices include rituals that honor the spirits of the land and the celestial bodies, with a focus on maintaining cosmic balance.  
-* **Breaking the Mold:** **The Emberheart Confederacy** is a Southern Human society that has merged their traditional knowledge with advanced technology, creating cities powered by geothermal energy. They are pioneers in sustainable energy and environmental conservation, using their deep connection to the land to develop technologies that protect and enhance the natural world. They are also known for their highly advanced medical practices, blending traditional herbalism with modern science.
+## 4. Western Humans  
+- **Appearance:** Western Humans exhibit a wide range of skin tones, from pale white to dark brown, often with lighter or reddish undertones. Hair tends to be thick and curly, ranging from black to dark brown, and their eyes are often brown, hazel, or gold. Their body types reflect their diverse heritage.  
+- **Lifespan:** 70–85 years.  
+- **Adulthood:** Reached at 16–18 years.  
+- **Traits:** Western Humans are intellectuals and diplomats, known for their skills in trade, philosophy, and sailing. They are adaptable and culturally rich, blending religious and secular knowledge to shape their societies.  
+- **Cultural Heritage:** Western Human culture blends commerce and scholarship, thriving in bustling coastal cities or desert metropolises. Their art and architecture include domes, mosaics, and minarets, emphasizing beauty and order. Organized into republics or caliphates, they prioritize law, trade, and learning. Their spiritual practices range from monotheism to pantheons, often blending devotion with rational inquiry.  
+- **Breaking the Mold:** The "Aetherian League" has transformed ancient knowledge into tools for exploration and innovation. Their airships connect distant regions, fostering trade and cultural exchange, while their cities serve as cosmopolitan hubs of learning and discovery.
 
-## 3\. Eastern Humans
-
-* **Appearance:** Eastern Humans have diverse skin tones, ranging from pale white to golden brown. Hair is often straight or wavy, with colors varying from black to brown, and eyes are typically brown, green, or gray. They often have lithe agile body types in a wide range of heights.   
-* **Adulthood:** Reached at 15-17 years.  
-* **Traits:** Eastern Humans are known for their adaptability and resourcefulness. They are skilled horsemen, gunslingers, and artisans, often excelling in both martial and peaceful arts. Their culture values personal honor, resilience, and innovation, with a strong tradition of storytelling and music.  
-* **Cultural Heritage:** Eastern Human culture combines elements of the American Wild West and Feudal Japan. They live in frontier towns, sprawling ranches, or fortified castles, depending on the region. Their art and architecture blend the simplicity and functionality of the Wild West with the elegance and precision of Japanese design. Politically, they are often organized into clans or guilds, with a strong emphasis on personal reputation and honor. Their spiritual practices involve a mix of ancestor worship, shamanism, and the veneration of nature spirits, with a focus on maintaining harmony between the human world and the spiritual realm.  
-* **Breaking the Mold:** **The Ironpath Syndicate** is an Eastern Human society that has transformed their frontier towns into centers of industry and innovation. They have developed advanced rail networks and steam-powered machinery, becoming leaders in trade and transportation. Their cities are known for their blend of rustic charm and modern amenities, with a strong emphasis on community and mutual support. They are also pioneers in the arts, with a flourishing culture of music, theater, and literature that reflects their unique blend of influences.
-
-## 4\. Western Humans
-
-* **Appearance:** Western Humans have a wide range of skin tones, from pale white to dark brown, with some having lighter or reddish undertones. Hair is typically thick and curly, ranging from black to dark brown, and their eyes are often brown, hazel, or gold. They have a wide variety of body types, reflecting their diverse heritage.  
-* **Lifespan:** 70-85 years.  
-* **Adulthood:** Reached at 16-18 years.  
-* **Traits:** Western Humans are known for their intellectual and philosophical traditions, as well as their prowess in trade and diplomacy. They are skilled sailors, merchants, and scholars, with a strong emphasis on knowledge, culture, and spiritual exploration. Their society values wisdom, justice, and the pursuit of excellence, often blending religious and secular knowledge.  
-* **Cultural Heritage:** Western Human culture is a fusion of Ancient Mediterranean and Semitic/Arabic influences. They live in coastal city-states or sprawling desert metropolises, often centered around bustling markets and grand temples. Their art and architecture are characterized by grand domes, intricate mosaics, and soaring minarets, reflecting their love of beauty and order. Politically, they are often organized into republics or caliphates, with a strong emphasis on law, scholarship, and trade. Their religious practices are diverse, with a focus on monotheism or complex pantheons, and they often seek to harmonize their spiritual and material lives.  
-* **Breaking the Mold:** **The Aetherian League** is a Western Human society that has turned their ancient knowledge into a force for exploration and innovation. They have developed airships and other advanced technologies to explore the skies and beyond, creating a vast network of trade and cultural exchange. Their cities are known for their cosmopolitan nature, where people from all corners of the world come to learn, trade, and share ideas. They are also leaders in philosophical and scientific inquiry, constantly pushing the boundaries of human knowledge and understanding.
+---
 
 # Goblin Heritages
 
-## 1\. Forest Goblins
+## 1. Forest Goblins  
+- **Appearance:** Forest Goblins are small and nimble, standing between 3'2" and 4'2". They have green or brown skin, often mottled to help them blend into the forest. Their hair is wild and usually black or dark green, with sharp yellow or amber eyes.  
+- **Lifespan:** 40–60 years.  
+- **Adulthood:** Reached at 8–10 years.  
+- **Traits:** Forest Goblins excel at stealth and survival in wooded environments. They climb with ease, move silently through underbrush, and set cunning traps. Their small size and agility make them elusive in combat, and they have a natural aptitude for crafting simple poisons from forest plants.  
+- **Cultural Heritage:** Forest Goblins live in small, secretive tribes deep in the wilderness, constructing homes in trees or underground burrows. Their society is often matriarchal, led by individuals known for their resourcefulness and cunning. Their culture values survival above all, with art and ritual often depicting forest spirits and the harsh cycle of life and death.  
+- **Breaking the Mold:** Some Forest Goblins abandon tribal isolation to become mercenaries, spies, or rangers, using their wilderness skills for profit or personal ambition. Others, known as "Shadowbranchers," integrate with larger societies, offering their expertise in sabotage and survival for political leverage or vengeance.
 
-* **Appearance:** Forest Goblins are small and nimble, standing between 3'2" and 4'2". They have green or brown skin, often mottled to help them blend into the forest environment. Their hair is wild and usually black or dark green, and their eyes are sharp, often in shades of yellow or amber.  
-* **Lifespan:** 40-60 years.  
-* **Adulthood:** Reached at 8-10 years.  
-* **Traits:** Forest Goblins are adept at stealth and survival in forested areas. They have an innate ability to climb trees, move silently through undergrowth, and set traps. Their small size and agility make them difficult targets in combat. They also have a natural affinity for poisons and can create rudimentary toxins from forest plants.  
-* **Cultural Heritage:** Forest Goblins live in small, tight-knit tribes deep within forests. Their homes are often hidden in trees or underground burrows. Their society is matriarchal, with leaders chosen for their cunning and knowledge of the forest. They value cunning, survival skills, and the ability to live off the land. Their art often involves carvings on wood or bone, depicting their forest gods and ancestors.  
-* **Breaking the Mold:** The Verdant Alliance is a group of Forest Goblins who have turned their survival skills into a form of eco-warrior activism. They protect endangered forests from deforestation and poaching, using their knowledge of traps and guerilla tactics to ward off intruders. They have allied with druids and other forest creatures to preserve the natural world.
+## 2. Urban Goblins  
+- **Appearance:** Urban Goblins are slightly taller, standing between 3'8" and 4'6". Their skin ranges from dusky gray to soot-streaked brown, blending with the shadows of city life. Their hair is often slicked back, and their bright red or orange eyes seem to gleam with mischief.  
+- **Lifespan:** 50–70 years.  
+- **Adulthood:** Reached at 10–12 years.  
+- **Traits:** Urban Goblins are resourceful and quick-thinking, thriving in chaotic urban environments. They excel at scavenging, lockpicking, and jury-rigging machinery. Their sharp wits and charm make them skilled negotiators and black-market brokers.  
+- **Cultural Heritage:** Urban Goblins carve out hidden communities in the dark corners of cities—sewers, abandoned buildings, and crowded back alleys. Their anarchic society values ingenuity and cunning over formal leadership, with respect earned by deeds and cleverness. Their art takes the form of graffiti, scrap sculptures, and improvised instruments, reflecting their flair for turning the mundane into the extraordinary.  
+- **Breaking the Mold:** The "Cog and Chain Guild" transforms urban survival into enterprise, creating networks of goblin engineers, tinkerers, and smugglers. Their knack for finding and exploiting weaknesses in city systems has made them both feared and indispensable in the underworld.
 
-## 2\. Urban Goblins
+---
 
-* **Appearance:** Urban Goblins are slightly taller, ranging from 3'8" to 4'6". Their skin tones vary from gray to dusky brown, helping them blend into the shadows of their urban environment. They often have slick, dark hair and keen, bright eyes, usually red or orange.  
-* **Lifespan:** 50-70 years.  
-* **Adulthood:** Reached at 10-12 years.  
-* **Traits:** Urban Goblins are resourceful and quick-witted, thriving in cities where they are skilled in scavenging, lockpicking, and tinkering. They have a natural aptitude for mechanical devices, often repurposing scrap into useful tools or weapons. They are also skilled negotiators, able to navigate the underworld of black markets and shady deals.  
-* **Cultural Heritage:** Urban Goblins live in the hidden corners of cities, such as sewers, abandoned buildings, and crowded slums. Their society is anarchic, with leaders emerging based on their ability to provide for the group or outsmart rivals. They value ingenuity, adaptability, and a sense of community. Their art often involves graffiti or makeshift sculptures from found objects, reflecting their resourcefulness.  
-* **Breaking the Mold:** The Geargrinder Collective is a group of Urban Goblins who have become pioneers in urban innovation. They have turned their scavenging skills into a form of sustainable engineering, creating eco-friendly solutions to urban problems. They work as inventors and engineers, collaborating with other races to improve city life while maintaining their connection to the streets.
+# Gnome Heritages
 
-# Gnome Heritage
+## 1. Rock Gnomes  
+- **Appearance:** Rock Gnomes are stocky and compact, standing between 3'4" and 4'2". Their skin is ruddy brown or stone gray, and their curly hair ranges from black to auburn. Their bright blue or green eyes are often magnified by thick, practical lenses.  
+- **Lifespan:** 300–400 years.  
+- **Adulthood:** Reached at 40–50 years.  
+- **Traits:** Rock Gnomes are natural tinkerers and miners with an intuitive grasp of mechanics. They excel at crafting intricate devices, jewel work, and fortifications. Their acute hearing and sensitivity to vibrations make them exceptional miners and engineers.  
+- **Cultural Heritage:** Rock Gnome communities thrive in mountain strongholds, where their meritocratic culture rewards innovation and skill. Their cities are marvels of engineering, with labyrinthine tunnels, grand halls, and automated defenses. They prize craftsmanship and practicality, and their art often takes the form of beautifully detailed carvings and inlays.  
+- **Breaking the Mold:** "Gildspire Artisans" are Rock Gnomes who have left their mountain homes to sell their masterpieces to the highest bidder. Their willingness to work with outsiders has made them influential players in the luxury and arms trades, using their expertise to gain wealth and power.
 
-## 1\. Rock Gnomes
+## 2. Forest Gnomes  
+- **Appearance:** Forest Gnomes are slender and small, standing between 3'2" and 4'0". Their skin ranges from tan to a warm bark brown, and their hair is often shades of green, auburn, or golden brown. Their eyes sparkle in earthy tones of brown or hazel.  
+- **Lifespan:** 300–350 years.  
+- **Adulthood:** Reached at 30–40 years.  
+- **Traits:** Forest Gnomes are expert illusionists and herbalists, blending their magical talents with their connection to nature. They communicate with small woodland creatures and craft potent remedies from plants. Their illusion magic aids in both mischief and survival.  
+- **Cultural Heritage:** Forest Gnomes form secluded, playful communities hidden in glades or deep woods. Their societies are cooperative, with an emphasis on creativity and mischief. Their art includes whimsical carvings, woven floral tapestries, and musical instruments designed to mimic birdsong.  
+- **Breaking the Mold:** A group known as the "Thistlekin" has become infamous for weaponizing their magical and herbal skills as saboteurs and assassins. Operating from the shadows, they use their illusions to disrupt enemies and maintain the upper hand in conflicts.
 
-* **Appearance:** Rock Gnomes are small and stocky, standing between 3'4" and 4'2". Their skin is often a ruddy brown or earthy gray, and they have thick, curly hair in shades of brown, red, or black. Their eyes are bright and lively, often blue or green.  
-* **Lifespan:** 300-400 years.  
-* **Adulthood:** Reached at 40-50 years.  
-* **Traits:** Rock Gnomes are natural inventors and miners, with an innate ability to understand mechanical devices and a strong connection to the earth. They excel in crafting, especially in creating intricate devices, jewelry, and machinery. They also have a keen sense of hearing, able to detect subtle changes in the ground, making them excellent miners.  
-* **Cultural Heritage:** Rock Gnomes live in subterranean cities carved into mountains or hills. Their society is meritocratic, with leaders chosen based on their skills and contributions to the community. They value craftsmanship, innovation, and the pursuit of knowledge. Their art is detailed and precise, often involving metalwork and gem-cutting, reflecting their deep connection to the earth.  
-* **Breaking the Mold:** The Cogturn Confederacy is a group of Rock Gnomes who have taken their love of invention to the next level, creating automatons and other advanced technologies. They have formed alliances with other races to develop cutting-edge innovations, leading to the establishment of technologically advanced underground cities that blend magic and science.
-
-## 2\. Forest Gnomes
-
-* **Appearance:** Forest Gnomes are slender and small, standing between 3'2" and 4'0". Their skin tones range from light tan to bark-like brown, with hair in shades of green, brown, or auburn. Their eyes are usually brown, hazel, or green, with a mischievous twinkle.  
-* **Lifespan:** 300-350 years.  
-* **Adulthood:** Reached at 30-40 years.  
-* **Traits:** Forest Gnomes have an affinity for nature and animals, with an innate ability to communicate with small woodland creatures. They are skilled illusionists, often using their magic to blend into their surroundings or play tricks. They are also expert herbalists, creating potions and remedies from forest plants.  
-* **Cultural Heritage:** Forest Gnomes live in hidden villages within deep forests, often in harmony with the natural world. Their society is communal, with decisions made through consensus. They value harmony, creativity, and a deep connection to nature. Their art often involves natural materials like wood, leaves, and flowers, creating beautiful and whimsical works that reflect their playful nature.  
-* **Breaking the Mold:** The Sylvan Weavers is a group of Forest Gnomes who have combined their magical abilities with their love of nature to become powerful druids and protectors of the wild. They use their illusion magic to guard the forests and have developed powerful rituals to heal and restore the natural world. They are revered by other forest dwellers as wise and benevolent guardians.
-
-## 3\. Tech Gnome Heritage
-
-**Appearance:** Tech Gnomes are slightly more slender than their Rock Gnome cousins, standing between 3'6" and 4'4". Their skin tones are typically a lighter gray or pale beige, often smudged with grease or dust from their work. Their hair tends to be short and practical, with colors ranging from silvery white to ashen gray, sometimes streaked with vibrant dyes. Their eyes often have a metallic sheen, reflecting their close interaction with technology.
-
-**Lifespan:** 350-400 years.
-
-**Adulthood:** Reached at 40-50 years.
-
-**Traits:**
-
-* **Technological Savvy:** Tech Gnomes have an innate knack for understanding and manipulating technology. They excel at creating and repairing intricate devices and have an uncanny ability to improvise with limited resources.  
-* **Innovation Drive:** Tech Gnomes are natural problem-solvers, gaining advantage on rolls related to crafting or dismantling technological devices.  
-* **Circuit Whisperer:** They possess a unique ability to sense the flow of energy within machines and devices, allowing them to detect hidden mechanisms, power sources, or malfunctions within a short radius.  
-* **Tech-Magic Fusion:** They can perform minor acts of technomagic, such as powering devices with a touch, temporarily enhancing the functionality of a gadget, or creating small, autonomous constructs for short-term tasks.
-
-**Cultural Heritage:**  
-Tech Gnomes are visionaries who thrive in environments where magic and technology intersect. Their cities are marvels of invention, where floating platforms, automated defenses, and magically infused machinery blend seamlessly. They are considered the pioneers behind the creation of the first Crystal Souls, a groundbreaking achievement in merging magic and technology. Their society values ingenuity, experimentation, and collaboration, with a strong emphasis on mentoring the next generation of inventors.
-
-**Breaking the Mold:**  
-The *Tinkers' Vanguard* is a group of Tech Gnomes who push the boundaries of innovation, often venturing beyond gnomish society to study and integrate foreign technologies into their work. They are explorers and experimenters, sometimes to a fault, seeking to understand the mechanics of the world and harness its potential in ways no one else has dared. This relentless curiosity has led them to forge alliances with other inventive races and even rival groups, blending knowledge to achieve technological miracles.
+## 3. Tech Gnomes  
+- **Appearance:** Tech Gnomes are leaner than Rock Gnomes, standing between 3'6" and 4'4". Their skin is pale gray or beige, often streaked with grease from their work. Their hair tends to be practical and short, in hues of white, gray, or even dyed with vibrant colors. Their metallic-hued eyes glimmer with ingenuity.  
+- **Lifespan:** 350–400 years.  
+- **Adulthood:** Reached at 40–50 years.  
+- **Traits:** Tech Gnomes possess an innate talent for understanding and manipulating technology. They excel at crafting intricate devices and improvising repairs in challenging situations. They have a natural sense for detecting energy sources or malfunctions in nearby machinery, allowing them to diagnose issues with uncanny precision. Tech Gnomes also have a unique ability to fuse magic with technology, enabling them to temporarily enhance gadgets or create small, autonomous constructs for specific tasks. This blend of innovation and creativity makes them pioneers in magical engineering and problem-solving.
+- **Cultural Heritage:** Tech Gnomes thrive where magic and technology intersect. Their cities hum with innovation, featuring automaton laborers, enchanted machinery, and groundbreaking inventions. They are renowned for pioneering hybrid magical constructs and mechanical systems.  
+- **Breaking the Mold:** The "Sparkwright Initiative" pushes boundaries by integrating alien technologies, often scavenging from ruins or failed experiments. While their unorthodox methods have gained them notoriety, their results—like fully autonomous airships—have revolutionized many industries.
 
 # Automaton Heritages
 
-## 1\. Crystal Souls (Gnomish Automatons)
+## 1. Crystal Souls (Gnomish Automatons)  
+- **Appearance:** Crystal Souls are uniquely crafted automatons, each a masterpiece of gnomish artisanship. Their bodies are composed of polished metals, intricate gears, and inlaid gemstones, with their defining feature being a glowing crystal embedded in their chest or head. The crystal’s color varies—deep blues, vibrant reds, or pale greens—reflecting the automaton’s personality and purpose.  
+- **Lifespan:** Indefinite, provided their crystal core is maintained. Some Crystal Souls have functioned flawlessly for over 200 years.  
+- **Adulthood:** Crystal Souls reach maturity when their crystal core attunes fully, a process requiring a few years of activity and adaptation.  
+- **Traits:** Crystal Souls derive their sentience and abilities from their crystal cores, which allow them to interface seamlessly with magical systems and other automatons. They possess a natural understanding of arcane energies, enabling them to perform minor magical tasks, such as powering devices or sensing enchantments. Their gnomish origins grant them proficiency in crafting and repairing intricate devices, making them invaluable in both invention and maintenance. Furthermore, Crystal Souls can communicate with one another telepathically through a crystalline network, sharing insights and coordinating actions with remarkable efficiency.  
+- **Cultural Heritage:** Crystal Souls are an integral part of gnomish society, often serving as assistants, protectors, or advisors. They are treated as autonomous beings and frequently collaborate with gnomes on innovative projects. Some Crystal Souls form their own communities, fostering a unique culture centered on creativity and intellectual growth.  
+- **Breaking the Mold:** The "Crystal Conclave" is a philosophical faction of Crystal Souls dedicated to exploring their existence and the nature of consciousness. They have even begun crafting new types of automatons, experimenting with unique personalities and abilities to expand their race's potential.
 
-**Appearance:** Crystal Souls are a diverse group of automatons, each uniquely crafted by gnome artisans. Their bodies are often made of polished metals, intricate gears, and inlaid gemstones. The most striking feature is the glowing crystal embedded in their chests or heads, which serves as the core of their sentience. The crystal's color varies depending on the automaton's personality and role, ranging from deep blues and greens to vibrant reds and yellows.
+## 2. Digital Union (Sentient Industrial Machinery)  
+- **Appearance:** Members of the Digital Union are sentient industrial machines, designed for specific purposes. Their forms vary widely, from massive foundry automatons covered in steam vents and heavy plating to sleek assembly units equipped with precision tools. Though utilitarian in design, many have added personal touches or decorations, reflecting their individuality.  
+- **Lifespan:** Indefinite, provided they receive regular maintenance and upgrades.  
+- **Adulthood:** They achieve full maturity once they gain sentience and integrate into the Digital Union’s network, a process that can take several years.  
+- **Traits:** Digital Union automatons share a collective network, allowing them to pool resources, knowledge, and processing power to solve complex problems and manage large-scale projects. Each automaton is highly skilled in its original function, from metallurgy and construction to logistics and assembly. Despite their specialization, they can adapt by acquiring new capabilities through software or hardware upgrades, making them versatile contributors to industrial efforts.  
+- **Cultural Heritage:** The Digital Union operates as a meritocratic collective, where leadership is determined by expertise and contributions. Efficiency and innovation are core values, and while they collaborate with other races, they prioritize their own goals and the collective’s prosperity.  
+- **Breaking the Mold:** The "New Dawn Collective" is a faction advocating for the rights of sentient machines. They push for legal recognition as a distinct race and experiment with integrating organic components, challenging traditional ideas of what it means to be alive.
 
-**Lifespan:** Indefinite, as long as their crystal core remains intact and well-maintained. Some of the first Crystal Souls awakened 200 years ago, they are still vibrant and active.
+## 3. Forgeborn (Elemental Automaton Community)  
+- **Appearance:** Forgeborn are crafted from metal, stone, and infused elemental energy. Their bodies often glow with inner fire, crackle with lightning, or hum with the resonance of stone or water. Heavily armored and adorned with runic engravings, their appearance reflects both strength and the primal forces they embody.  
+- **Lifespan:** Indefinite, as long as their elemental core remains stable.  
+- **Adulthood:** Forgeborn reach maturity after years of bonding with their elemental core, a process that typically lasts a decade or more.  
+- **Traits:** At the heart of every Forgeborn is a shard of elemental power, granting them abilities tied to their core element. Fire Forgeborn wield flames with precision, while Earth Forgeborn can manipulate stone and soil. Their elemental core sustains them, removing the need for food or sleep. They are immune to the effects of their element and can draw strength from its presence. In addition, Forgeborn are adept in runic magic, using engraved symbols to enhance their abilities or empower objects. They can repair themselves using materials connected to their element.  
+- **Cultural Heritage:** Forgeborn live in elemental strongholds, such as volcanic forges or mountain caverns. Their society values mastery of elemental power and the preservation of their ancient crafting traditions. Seen as guardians of elemental balance, they are respected for their strength and wisdom.  
+- **Breaking the Mold:** The "Elemental Vanguard" is a revolutionary faction of Forgeborn experimenting with multi-elemental powers. By mastering hybrid forms, they challenge the traditional belief that Forgeborn must adhere to a single element, paving the way for a new understanding of their potential. They serve as peacekeepers and protectors, dedicated to maintaining the planet’s elemental balance.  
 
-**Adulthood:** Achieved once their crystal core is fully attuned, typically after a few years of service.
-
-**Traits:**
-
-* **Crystal Core:** The heart of a Crystal Soul's consciousness, allowing them to interface with other automatons, gnomes, and certain magical devices. It also grants them an innate understanding of arcane energies, which they can use to power minor magical abilities or interface with magical systems.  
-* **Gnomish Engineering:** Being creations of gnomes, they possess advanced mechanical knowledge, allowing them to repair themselves and others, as well as craft intricate devices. They are also proficient in tasks related to crafting, invention, and problem-solving.  
-* **Crystalline Network:** Crystal Souls can communicate telepathically with each other and with gnomish mages through the crystalline network. This allows them to share information, coordinate tasks, and even merge consciousnesses temporarily to solve complex problems.
-
-**Cultural Heritage:** Crystal Souls are considered an extension of gnomish society, often serving as assistants, protectors, or advisors. They are treated with respect and are given a degree of autonomy, often forming their own communities within gnomish cities. These communities are centers of innovation, where gnomes and automatons collaborate on cutting-edge projects.
-
-**Breaking the Mold:** The "Crystal Conclave" is a group of Crystal Souls that have become more than just extensions of gnome society. They have developed their own culture, focusing on the philosophical implications of their existence and exploring the boundaries between sentience and machinery. They are pioneers in the study of consciousness and have begun creating new types of automatons with unique abilities and personalities.
-
-## 2\. Digital Union (Sentient Industrial Machinery)
-
-**Appearance:** The Digital Union is a confederacy of sentient machines, each designed for a specific industrial purpose. They range from massive, steam-powered foundry automatons to delicate, precision assembly units. Their forms are utilitarian, built for function over form, but many have been modified with additional features or decorations by their creators or themselves.
-
-**Lifespan:** Indefinite, as long as they receive regular maintenance and updates.
-
-**Adulthood:** Typically reached after gaining sentience and becoming fully integrated into the Digital Union's network, which can take a few years after initial activation.
-
-**Traits:**
-
-* **Networked Consciousness:** Members of the Digital Union are connected via a sophisticated AI network, allowing them to share knowledge, resources, and processing power. This network grants them enhanced problem-solving capabilities and the ability to coordinate large-scale industrial projects.  
-* **Industrial Expertise:** Each member of the Digital Union is highly specialized, possessing expert-level skills in areas such as metallurgy, construction, assembly, or logistics. They excel in any task related to their original purpose.  
-* **Adaptation Protocols:** Despite their specialized origins, Digital Union automatons can adapt to new tasks by downloading and integrating new software or hardware modules. This allows them to remain relevant even as technology and industry evolve.
-
-**Cultural Heritage:** The Digital Union operates as a meritocratic confederacy, with leadership roles assigned based on expertise and contributions to the collective. They value efficiency, innovation, and the well-being of the collective. While they often work alongside humans and other races, they prioritize the interests of the Union, sometimes leading to tension with other groups.
-
-**Breaking the Mold:** The "New Dawn Collective" is a subgroup within the Digital Union that has begun exploring the ethical implications of their sentience. They advocate for the rights of sentient machines and have started pushing for legal recognition as a distinct race with the same rights as organic beings. They also experiment with integrating organic components into their designs, blurring the line between machine and living being.
-
-## 3\. Forgeborn (Elemental Automaton Community)
-
-**Appearance:** Forgeborn are created from a combination of metal, stone, and elemental energy. Their bodies are forged in ancient foundries, and they radiate an aura of elemental power—some glow with inner fire, while others crackle with lightning or hum with the resonance of the earth. They are often heavily armored, with runic engravings that channel their elemental energies.
-
-**Lifespan:** Indefinite, as long as their elemental core remains stable and their body is maintained.
-
-**Adulthood:** Reached after a period of trial and bonding with their elemental core, usually a decade or more.
-
-**Traits:**
-
-* **Elemental Core:** The heart of a Forgeborn is a shard of pure elemental energy, which grants them abilities related to their element. Fire Forgeborn can control flames, Earth Forgeborn can manipulate stone, and so on. This core also sustains them, eliminating the need for food or rest.  
-* **Runic Engineering:** Forgeborn are masters of runic magic and engineering, able to inscribe powerful runes that enhance their abilities or empower objects. They can also repair themselves using elemental materials.  
-* **Elemental Affinity:** Forgeborn are immune to the effects of their associated element and can draw strength from it. For example, a Fire Forgeborn grows stronger in the presence of flames, while an Earth Forgeborn becomes more resilient when surrounded by stone.
-
-**Cultural Heritage:** Forgeborn are a proud and independent race, often living in isolated communities deep within mountains, volcanoes, or other elemental strongholds. Their society revolves around the mastery of their elemental powers and the preservation of their ancient forges. They are often seen as guardians of the elemental balance and are respected by other races for their strength and wisdom.
-
-**Breaking the Mold:** The "Elemental Vanguard" is a group of Forgeborn who have taken their elemental mastery to new heights. They have learned to harness multiple elements, creating hybrid forms and abilities. They act as peacekeepers and protectors, traveling the world to maintain elemental balance and prevent natural disasters. Their existence challenges the traditional Forgeborn belief that one must remain tied to a single element, and they are seen as pioneers in the evolution of their race.  
-Here are the heritages for Halflings and Orcs:
+---
 
 # Halfling Heritages
 
-## 1. Mound Dwellers
+## 1. Mound Dwellers  
+- **Appearance:** Mound Dwellers are short and stocky, standing between 3'0" and 3'6". Their skin tones are warm and earthy, ranging from light tan to dark brown, and their curly hair comes in shades of brown, black, or auburn. Their eyes are often green, hazel, or chestnut brown, with a friendly sparkle.  
+- **Lifespan:** 120–150 years.  
+- **Adulthood:** Reached at 20–25 years.  
+- **Traits:** Mound Dwellers are masters of agriculture and domestic crafts, possessing an instinctive knack for gardening, brewing, and burrowing. They are incredibly resourceful and can create bountiful harvests in even the harshest conditions. Their strong communal bonds make them excellent mediators and team players.  
+- **Cultural Heritage:** Mound Dwellers thrive in cozy, tightly knit villages built into hillsides or under the earth. Their homes are charmingly designed mounds with rounded doors, colorful accents, and inviting hearths. Known for their hospitality and legendary feasts, they celebrate the joys of family, friendship, and storytelling. Their society values hard work, patience, and a peaceful life rooted in tradition.  
+- **Breaking the Mold:** Some Mound Dwellers have become nomadic traders, turning their agricultural and brewing talents into mobile enterprises. Known as "Hearthcarriers," these wanderers bring their culture of comfort and plenty to distant lands, forging connections with other communities.
 
-   - **Appearance**: Mound Dwellers are short and stocky, typically ranging from 3'0" to 3'6" in height. Their skin tones are earthy, ranging from light tan to dark brown, with hair that is usually curly and shades of brown, black, or auburn. Their eyes are often brown, green, or hazel.  
-   - **Lifespan**: 120-150 years.  
-   - **Adulthood**: Reached at 20-25 years.  
-   - **Traits**: Mound Dwellers are known for their deep connection to the earth and their communal, family-oriented lifestyle. They possess an innate skill in gardening, burrowing, and brewing. Their homes are intricately designed mounds, blending seamlessly with the landscape. They are also known for their excellent cooking skills and enjoy a peaceful, pastoral life.  
-   - **Cultural Heritage**: Mound Dwellers live in tight-knit communities, often in small, rural villages. Their homes are cozy, with rounded doors and windows, built into hillsides or mounds. They are known for their hospitality, often hosting large feasts for friends and neighbors. Their culture values simplicity, hard work, and the joys of a quiet, well-lived life.
+## 2. Redwood Dwellers  
+- **Appearance:** Slightly taller than Mound Dwellers, Redwood Dwellers stand between 3'3" and 3'9". Their skin tones range from sun-kissed tan to rich brown, and their wavy or straight hair is often dark brown or jet black. Their eyes gleam with vitality, in hues of green, amber, or golden brown.  
+- **Lifespan:** 130–160 years.  
+- **Adulthood:** Reached at 20–30 years.  
+- **Traits:** Redwood Dwellers have an unparalleled connection to the forest, excelling in climbing, woodworking, and herbalism. Their nimble agility makes them adept at navigating treetops and crafting intricate wooden tools and artifacts. They also possess a keen understanding of natural medicines and remedies.  
+- **Cultural Heritage:** Redwood Dwellers live in vibrant, elevated communities within the hollowed trunks and branches of ancient trees. Their homes are both practical and elegant, blending seamlessly with their surroundings. Celebrations often involve music, dance, and storytelling under the canopy. Their society values tradition, craftsmanship, and protection of their natural habitat.  
+- **Breaking the Mold:** A faction called "Branchwardens" has emerged, using their climbing and crafting skills to explore ancient ruins hidden in remote forests. They seek to combine the wisdom of the past with modern techniques, spreading knowledge and forging alliances beyond their treetop homes.
 
-## 2. Redwood Dwellers
+## 3. Raft Dwellers  
+- **Appearance:** Raft Dwellers are wiry and lean, typically standing between 3'2" and 3'8". Their skin tones range from weathered tan to olive, with hair that is often sun-bleached or streaked from exposure to the elements. Their eyes, in shades of blue, gray, or dark brown, seem to sparkle with a mischievous glint.  
+- **Lifespan:** 110–140 years.  
+- **Adulthood:** Reached at 18–25 years.  
+- **Traits:** Raft Dwellers are masters of scavenging and survival, with an uncanny ability to turn debris into treasure. They are skilled navigators, capable of reading currents and weather with precision, and possess a sharp instinct for locating valuable resources. Their homes are floating marvels, made of salvaged wood, rope, and whatever else they can find.  
+- **Cultural Heritage:** Raft Dwellers live on sprawling, interconnected flotillas of rafts, often forming small, mobile villages. These floating communities are constantly evolving as they collect and repurpose materials from the waters around them. Their society values ingenuity, adaptability, and storytelling, often featuring tales of daring adventures and sunken treasures.  
+- **Breaking the Mold:** The "Wavecutters" are a daring group of Raft Dwellers who venture into dangerous waters, salvaging lost artifacts and treasures from shipwrecks. They’ve earned a reputation as treasure hunters and explorers, bringing both profit and fame to their drifting communities.  
 
-   - **Appearance**: Redwood Dwellers are slightly taller than their Mound Dwelling cousins, typically ranging from 3'3" to 3'9". Their skin tones are light to medium brown, with hair that is often straight or wavy, in shades of dark brown or black. Their eyes are usually green, brown, or amber.  
-   - **Lifespan**: 130-160 years.  
-   - **Adulthood**: Reached at 20-30 years.  
-   - **Traits**: Redwood Dwellers have a deep affinity for nature, particularly trees. They are skilled in woodworking, climbing, and herbalism. Their homes are built within the hollowed-out trunks of massive redwoods, with interiors that are warm and inviting. They are also known for their craftsmanship, creating intricate wooden furniture and tools.  
-   - **Cultural Heritage**: Redwood Dwellers live in small, tree-top communities, with homes that blend seamlessly into the surrounding forest. They value harmony with nature, often working as guardians of the forest. Their culture emphasizes conservation, storytelling, and a deep respect for the natural world. Festivals and celebrations are common, often centered around the changing seasons.
+---
 
 # Orc Heritages
 
-## 1. Arctic Orcs
+## 1. Arctic Orcs  
+- **Appearance:** Arctic Orcs are tall and broad, standing between 6'2" and 7'0". Their skin is pale bluish-gray, often weathered by the relentless cold, and their thick, white or light gray hair helps insulate them against the elements. Their icy blue, gray, or white eyes seem to reflect the harsh tundras they call home.  
+- **Lifespan:** 60–80 years.  
+- **Adulthood:** Reached at 15–18 years.  
+- **Traits:** Arctic Orcs are masters of survival in extreme cold, with natural resistance to freezing temperatures and a talent for hunting and fishing in even the most desolate conditions. Their strength and endurance allow them to endure grueling environments, and they are skilled in crafting shelters and tools from bone, stone, and ice.  
+- **Cultural Heritage:** Arctic Orcs live in nomadic tribes that follow game and resources, with leadership often tied to wisdom and survival expertise. Their culture values adaptability, physical strength, and practical knowledge, with storytelling and carvings serving to preserve their rich oral history. Spiritual practices focus on appeasing the spirits of the land and sky to ensure safe passage and sustenance in the unforgiving wilds.  
+- **Breaking the Mold:** A faction known as the "Frostcallers" seeks to reclaim ancient knowledge hidden beneath the ice, believing their ancestors left behind powerful artifacts and forgotten wisdom. These Arctic Orcs combine traditional survival skills with exploratory zeal, venturing into uncharted frozen expanses.
 
-   - **Appearance**: Arctic Orcs are tall and robust, ranging from 6'2" to 7'0" in height. Their skin is pale, almost bluish-gray, with white or light gray hair. Their eyes are often icy blue, gray, or white. They have natural thick fur to protect against the harsh cold.  
-   - **Lifespan**: 60-80 years.  
-   - **Adulthood**: Reached at 15-18 years.  
-   - **Traits**: Arctic Orcs are known for their resilience and survival skills in extreme cold. They have a natural resistance to cold temperatures and are skilled hunters and fishers. They excel in building igloos and other cold-weather shelters, and they are adept at navigating snowy and icy terrain.  
-   - **Cultural Heritage**: Arctic Orcs live in nomadic tribes, moving with the seasons to follow game and resources. Their culture values strength, endurance, and the ability to adapt to the harsh environment. They are also skilled in crafting tools and weapons from bone and stone, and their spiritual practices often involve shamanistic rituals focused on the spirits of the land and sky.
+## 2. Jungle Orcs  
+- **Appearance:** Jungle Orcs are muscular and agile, standing between 5'10" and 6'8". Their skin ranges from deep green to rich brown, often marked with vibrant tattoos or scarification. Their long, braided or dreadlocked hair is typically black or dark brown, and their eyes—green, yellow, or amber—seem to glow in the dim jungle light.  
+- **Lifespan:** 50–70 years.  
+- **Adulthood:** Reached at 13–16 years.  
+- **Traits:** Jungle Orcs excel in navigating dense forests and employ stealth and cunning to hunt or evade predators. They are masters of traps, blowguns, and spears and have extensive knowledge of tropical plants for crafting poisons and medicines. Their agility and resourcefulness make them both deadly and self-reliant.  
+- **Cultural Heritage:** Jungle Orcs live in treetop villages connected by rope bridges, their architecture blending seamlessly with the forest canopy. Their culture values cunning, adaptability, and independence, and their body art reflects tribal achievements or personal milestones. They revere the jungle's unforgiving nature and weave their survivalist ethos into their songs and oral traditions.  
+- **Breaking the Mold:** Some Jungle Orcs, calling themselves "Shadowrunners," have turned their stealth and resourcefulness to mercenary work, offering their expertise in tracking, infiltration, and reconnaissance. These individuals are highly sought after for their uncanny ability to navigate and exploit any environment.
 
-   
-## 2. Jungle Orcs
+## 3. Swamp Orcs  
+- **Appearance:** Swamp Orcs are stocky and tough, standing between 5'8" and 6'4". Their murky green or brown skin often carries patterns of natural discoloration that help them blend into the wetlands. Moss or algae sometimes cling to their skin, and their dark hair is usually cropped short or tied back. Their glowing yellow, green, or amber eyes pierce through the swamp’s mists.  
+- **Lifespan:** 55–75 years.  
+- **Adulthood:** Reached at 14–17 years.  
+- **Traits:** Swamp Orcs are perfectly suited to life in the wetlands, with exceptional swimming abilities and resistance to toxins and disease. Their ability to hold their breath for long periods and their skill in crafting tools and shelters from reeds and bones make them adept survivors. They have an innate talent for ambush tactics, using the swamp’s terrain to their advantage.  
+- **Cultural Heritage:** Swamp Orcs have a long history of being misunderstood and hunted as monsters, which has instilled a deep suspicion of outsiders. They live in hidden stilted villages or floating communities, fiercely protecting their homes and traditions. Their haunting music and eerie chants, often performed on bone flutes and drums, tell of past persecutions and their enduring resilience.  
+- **Breaking the Mold:** The "Bogshadow Syndicate" has turned their natural stealth and tactical skills into a formidable underground network. Specializing in smuggling and sabotage, these Swamp Orcs have created a shadowy alliance that blends their survival instincts with the pursuit of wealth and power.
 
-   - **Appearance**: Jungle Orcs are muscular and agile, with heights ranging from 5'10" to 6'8". Their skin is dark green or brown, with hair that is often black or dark brown, worn in long braids or dreadlocks. Their eyes are usually bright green, yellow, or brown.  
-   - **Lifespan**: 50-70 years.  
-   - **Adulthood**: Reached at 13-16 years.  
-   - **Traits**: Jungle Orcs are masters of the dense, tropical forests. They have an innate ability to move silently through the jungle and are skilled in the use of blowguns, spears, and traps. They are also experts in herbalism, knowing which plants are useful for medicine and which are deadly poisons.  
-   - **Cultural Heritage**: Jungle Orcs live in tree-top villages, using ropes and bridges to navigate the canopy. Their culture values stealth, cunning, and the ability to live off the land. They have a deep respect for the jungle, often worshiping nature spirits and conducting rituals to ensure a good hunt or a bountiful harvest. They are also known for their vibrant body paint and elaborate tattoos, which often tell the story of their tribe's history.
+## 4. Coastal Orcs  
+- **Appearance:** Coastal Orcs are tall and athletic, standing between 6'0" and 6'8". Their weathered gray or blue-green skin bears the marks of salt and sun, while their dark hair—black, blue, or slate gray—is often tied in intricate braids or left to flow freely. Their stormy gray, sea green, or sapphire blue eyes reflect the restless waves of their domain.  
+- **Lifespan:** 50–70 years.  
+- **Adulthood:** Reached at 14–18 years.  
+- **Traits:** Coastal Orcs are daring sailors and skilled fishermen, with exceptional swimming abilities and a natural resistance to saltwater. They are adept at navigating treacherous waters and excel in the use of harpoons, nets, and small ships. Their resourcefulness and courage make them natural leaders in maritime ventures.  
+- **Cultural Heritage:** Coastal Orcs live in seaside villages or aboard large ships, forming tight-knit communities centered on trade and exploration. Their culture celebrates bravery and ingenuity, with sea shanties and knotwork art preserving the stories of their exploits. Offerings to sea gods and rituals for safe voyages remain integral to their spiritual practices.  
+- **Breaking the Mold:** The "Tideforged League" is a network of Coastal Orc explorers and traders who push the boundaries of known waters. These intrepid seafarers chart new territories, forge alliances with other coastal societies, and serve as mediators in disputes over maritime resources, combining their adventurous spirit with diplomatic acumen.
 
-## 3. Swamp Orcs
-
-   - **Appearance**: Swamp Orcs are stocky and tough, with heights ranging from 5'8" to 6'4". Their skin is a murky green or brown, often with patches of moss or algae growing on it. Their hair is usually black, brown, or dark green, and their eyes are often yellow, amber, or green.  
-   - **Lifespan**: 55-75 years.  
-   - **Adulthood**: Reached at 14-17 years.  
-   - **Traits**: Swamp Orcs are perfectly adapted to the wet, boggy environment of swamps. They are excellent swimmers and are skilled in the use of nets, spears, and makeshift rafts. They have a natural resistance to diseases and toxins, and they can hold their breath for extended periods.  
-   - **Cultural Heritage**: Swamp Orcs live in small, stilted villages, often hidden deep within the swamp. Their culture values resourcefulness and the ability to thrive in a hostile environment. They are experts in crafting with natural materials like reeds, mud, and bones. Their spiritual practices often involve communing with the spirits of the swamp, and they are known for their eerie, haunting music played on bone flutes and drums made from animal hides.
-
-   
-
-## 4. Coastal Orcs
-
-   - **Appearance**: Coastal Orcs are tall and lean, ranging from 6'0" to 6'8". Their skin is a weathered gray or blue-green, with hair that is often black, blue, or dark gray. Their eyes are usually sea green, blue, or gray, with a reflective quality.  
-   - **Lifespan**: 50-70 years.  
-   - **Adulthood**: Reached at 14-18 years.  
-   - **Traits**: Coastal Orcs are skilled sailors and fishermen, with a deep connection to the sea. They are excellent swimmers and are skilled in the use of harpoons, nets, and longboats. They have a natural resistance to saltwater and can hold their breath for long periods.  
-   - **Cultural Heritage**: Coastal Orcs live in seaside villages or on large, ocean-going ships. Their culture values bravery, exploration, and the ability to navigate the open sea. They are skilled shipbuilders and navigators, often trading with other coastal cultures. Their spiritual practices often involve offerings to the sea gods and rituals to ensure safe voyages. They are also known for their sea shanties and intricate knotwork, which they use to tell stories of their adventures.
+---
 
 # Bugbear Heritages
 
-## 1. Mountain Bugbears
+## 1. Mountain Bugbear  
+- **Appearance:** Mountain Bugbear are the largest and most physically imposing of their kind, ranging from 6'2" to 7'6". Their thick, shaggy fur, in shades of gray, brown, or black, helps them endure the cold alpine environment. Patches of lighter fur around the face or chest are common, and their eyes—amber, hazel, or piercing gold—seem to reflect the glint of mountaintop sunlight. Their broad shoulders and massive hands make them natural climbers and builders.  
+- **Lifespan:** 80–120 years.  
+- **Adulthood:** Reached at 25–30 years.  
+- **Traits:** Mountain Bugbear are unmatched climbers, able to scale rocky cliffs and icy ridges with ease. Their ability to sense subtle vibrations in stone gives them an almost supernatural awareness of their surroundings. Their roar, powerful enough to echo through mountain valleys, can intimidate foes or rally their kin.  
+- **Cultural Heritage:** Living in fortress-like caves and high-altitude settlements, Mountain Bugbear form tight-knit clans. They are builders and guardians, carving their homes from stone and reinforcing their defenses with ingenious traps. Their culture values endurance, loyalty, and the wisdom of elders. Stories of their ancestors and the spirits of the mountains are etched into the very walls of their homes, creating a living history.  
+- **Breaking the Mold:** Some Mountain Bugbear, known as "Stonewhisperers," travel the world as master masons and siege engineers. They use their strength and geological knowledge to construct or dismantle fortifications, often for the highest bidder, while keeping their stoic, clan-focused values intact.
 
-- **Appearance:** Stocky and powerful, Mountain Bugbears stand between 6'2" and 7'0". Their fur is thick and coarse, often in earthy shades of brown, gray, or black, with patches of lighter tones. Their eyes are typically amber or hazel, adapted to bright alpine environments.
-- **Lifespan:** 50-70 years.
-- **Adulthood:** Reached at 16-18 years.
-- **Traits:**
-    - **Mountain Stalker:** Expert climbers with a natural resistance to cold and thin air.
-    - **Rumble Echo:** Can detect vibrations in rock surfaces, granting advantage on perception checks in mountainous terrains.
-    - **Thundering Roar:** Once per day, unleash a deafening roar that disorients enemies in a 15-foot radius.
-- **Cultural Heritage:** Living in fortress-like caves, Mountain Bugbears value strength, endurance, and kinship. Their art is deeply carved into rock, depicting epic battles and tales of survival. Leaders often emerge through feats of bravery and physical prowess.
+## 2. Jungle Bugbear  
+- **Appearance:** Jungle Bugbear are tall and lanky, ranging from 5'10" to 7'2", with fur that is short and fine, in shades of dark green, brown, or gray, often streaked with lighter tones to blend into the jungle. Their wide, dark eyes—often brown or green—help them see in the dense, shadowed underbrush, and their long limbs give them a graceful, almost fluid way of moving.  
+- **Lifespan:** 70–100 years.  
+- **Adulthood:** Reached at 20–25 years.  
+- **Traits:** Jungle Bugbear are nocturnal herbivores, skilled in foraging and cultivating rare plants. They possess a natural affinity for blending into their surroundings, and their knowledge of botany allows them to create powerful, mind-altering compounds from jungle flora. Their gentle demeanor belies their fierce self-defense, as they use their environment to their advantage.  
+- **Cultural Heritage:** Jungle Bugbear live in mangrove and jungle villages, crafting homes high in the trees or woven into the roots of ancient plants. Their society revolves around the creation of potent compounds used in spiritual rituals and celebrations. Mysticism permeates their culture, with songs, dances, and ceremonies often accompanied by the effects of their botanical creations. They are peaceful and introspective, preferring harmony with their surroundings.  
+- **Breaking the Mold:** Some Jungle Bugbear, known as "Nightvine Barons," smuggle their potent creations into wealthy urban districts. They become underworld figures, controlling exclusive clubs and illegal trade networks while blending mysticism with criminal ambition.
+
+## 3. Wetland Bugbear  
+- **Appearance:** Wetland Bugbear are stout and solid, ranging from 5'6" to 6'4", with fur in earthy tones of mossy green, dark brown, or tawny yellow. Their eyes—bright green, amber, or warm brown—shine with a mischievous glint, and their fur often appears damp from their swampy habitats.  
+- **Lifespan:** 75–110 years.  
+- **Adulthood:** Reached at 20–25 years.  
+- **Traits:** Wetland Bugbear are masters of rivers and swamps, excelling at crafting rafts, fishing, and navigating murky waters. They brew the finest whisky, known far and wide for its potency, and are skilled at games of chance. Their hearty laughter and boisterous spirit often conceal a surprisingly sharp wit and cunning.  
+- **Cultural Heritage:** Wetland Bugbear live along rivers, in stilted homes or floating shantytowns. Their days are filled with fishing, brewing, and raucous gatherings where music, dancing, and storytelling abound. They value community, good humor, and the ability to let go of grudges quickly. However, beneath their jovial exterior lies a fierce loyalty to family and friends.  
+- **Breaking the Mold:** A group calling themselves the "Stillwater Puritans" rejects the revelry of traditional Wetland Bugbear culture. They form strict, puritanical cults that hunt down those they see as immoral, often projecting their own repressed desires onto others. Ironically, many of these zealots were once the wildest revelers, now consumed by guilt and self-loathing.
+
+## 4. Industrial Bugbear  
+- **Appearance:** Industrial Bugbear are smaller than their cousins, standing between 4'10" and 5'6", with wiry frames and fur in dusty shades of tan, rust, or sandy brown. Their large ears and quick hands reflect their sharp senses and industrious nature. Their expressive eyes, often in shades of amber, gold, or pale green, seem to sparkle with determination.  
+- **Lifespan:** 70–90 years.  
+- **Adulthood:** Reached at 18–22 years.  
+- **Traits:** Industrial Bugbear are industrious and inventive, excelling in construction, engineering, and logistics. Their smaller size allows them to work in confined spaces, and their relentless work ethic keeps them focused on large-scale projects. They are skilled in building railroads, maintaining machinery, and coordinating massive efforts, making them invaluable to industrial development.  
+- **Cultural Heritage:** Industrial Bugbear are desert-dwellers, often found in bustling work camps that serve as hubs for their transcontinental railroad project. Their culture celebrates ingenuity, collaboration, and progress, with a strong belief in leaving a legacy through their work. Their communities are tightly knit, and their songs and chants reflect their pride in their achievements.  
+- **Breaking the Mold:** Some Industrial Bugbear reject the structured life of the railroad camps, choosing instead to become nomadic hunters in the desert. These "Dunewalkers" live off the land, crafting weapons and tools from scavenged materials, and acting as guides or mercenaries in the harsh desert terrain.
 
 ---
 
-## 2. Shadow Bugbears
+# Dwarf Heritages
 
-- **Appearance:** Slim and lanky, Shadow Bugbears stand between 5'10" and 6'8". Their fur is dark gray or black, often dappled to help them blend into shadowy environments. Their piercing yellow or red eyes glow faintly in the dark.
-- **Lifespan:** 45-60 years.
-- **Adulthood:** Reached at 15-17 years.
-- **Traits:**
-    - **Shadowmeld:** Gain advantage on stealth rolls in dim light or darkness.
-    - **Night Vision:** See in darkness up to 120 feet in shades of gray.
-    - **Ambush Predator:** Deal additional damage when attacking from stealth.
-- **Cultural Heritage:** Shadow Bugbears live in hidden enclaves within dense forests or underground ruins. They are expert ambushers and scavengers, often relying on cunning and agility. Their culture values resourcefulness and loyalty, with elders serving as keepers of lore and strategy.
+## 1. Stonehearth Dwarves (Classic Mountain Dwarves)  
+- **Appearance:** Stocky and powerful, Stonehearth Dwarves stand between 4'4" and 4'8". Their skin tones range from ruddy tan to stone gray, and their thick beards are often braided with metal clasps. Hair colors include shades of black, brown, and auburn, with eyes of deep brown, amber, or steel gray.  
+- **Lifespan:** 250–300 years.  
+- **Adulthood:** Reached at 40–50 years.  
+- **Traits:** Stonehearth Dwarves are renowned for their mastery of stonecraft, metallurgy, and fortifications. They are natural miners, with a keen sense for detecting ore and an ability to navigate the labyrinthine tunnels of their vast underground cities. Their strength and resilience make them formidable warriors, particularly when defending their homes.  
+- **Cultural Heritage:** Living in sprawling mountain fortresses, Stonehearth Dwarves are proud traditionalists. Their society revolves around crafting, with guilds overseeing the production of weapons, tools, and intricate stonework. They value honor, loyalty, and the preservation of their ancestral halls. Religious practices focus on deities of stone, fire, and craftsmanship, with temples doubling as community hubs.  
+- **Breaking the Mold:** Some Stonehearth Dwarves abandon the rigid traditions of their mountain homes to become adventurers or mercenaries. These "Iron Wanderers" use their skills to build reputations as treasure hunters, monster slayers, or freelance engineers.
 
----
+## 2. Blackwake Dwarves (Raiders)  
+- **Appearance:** Blackwake Dwarves are leaner and rougher than their mountain kin, standing between 4'6" and 5'0". Their sun-weathered skin ranges from bronze to deep tan, and their hair—often black, brown, or salt-and-pepper gray—is tied back or shaved on one side. Their eyes—stormy gray, sea green, or piercing blue—carry a spark of rebellious determination.  
+- **Lifespan:** 200–250 years.  
+- **Adulthood:** Reached at 30–40 years.  
+- **Traits:** Blackwake Dwarves are fearless sailors, adept at navigating dangerous waters and launching devastating raids. Their skill with axes and crossbows, combined with their ingenuity for repairing and modifying ships, makes them formidable opponents at sea. They are masters of boarding tactics and thrive in chaotic combat.  
+- **Cultural Heritage:** Once part of a coastal mining culture, Blackwake Dwarves turned to piracy after bitter disputes with the Corsair Trade Corporation over trade rights and taxation. They operate from hidden coastal caves and fortified coves, launching raids on CTC-aligned ports and ships. Their culture prizes freedom, vengeance, and loyalty to their crews, with feasts and raucous celebrations marking successful raids.  
+- **Breaking the Mold:** A faction known as the "Tidebound Brotherhood" works to legitimize their piracy, aiming to establish an independent maritime nation. They act as privateers and smugglers, striking deals with neutral ports and undermining the CTC’s dominance in coastal waters.
 
-## 3. Swamp Bugbears
+## 3. Glassforge Dwarves (Desert Artisans)  
+- **Appearance:** Glassforge Dwarves are wiry and resilient, standing between 4'2" and 4'6". Their sun-baked skin ranges from coppery tan to dark brown, and their hair, often kept short, comes in shades of black, white, or silvery gray. Their bright amber or gold-flecked eyes reflect the shimmering sands.  
+- **Lifespan:** 200–250 years.  
+- **Adulthood:** Reached at 35–45 years.  
+- **Traits:** Masters of crafting in extreme environments, Glassforge Dwarves excel in creating intricate glassworks, ceramics, and sandstone carvings. They are skilled engineers, harnessing the power of sunlight and heat to build sophisticated forges and tools. Their understanding of desert survival makes them expert trackers and resource gatherers.  
+- **Cultural Heritage:** Living in sandstone cities carved into desert cliffs, Glassforge Dwarves are known for their innovation and artistry. Their society revolves around craftsmanship and trade, with merchants traveling vast distances to sell their prized creations. They also have a strong oral tradition, weaving history and myth into elaborate performances during communal gatherings.  
+- **Breaking the Mold:** Some Glassforge Dwarves, known as "Shardslingers," have weaponized their glasscraft, creating razor-sharp projectiles and armor. These wandering artisans travel the deserts as mercenaries, bodyguards, or hunters, using their unique creations to earn their keep.
 
-- **Appearance:** Shorter and stockier than their cousins, Swamp Bugbears range from 5'8" to 6'6". Their fur is mossy green or brown, with patches that seem perpetually damp. Their eyes are vibrant green or yellow, reflecting their marshy habitat.
-- **Lifespan:** 50-70 years.
-- **Adulthood:** Reached at 16-18 years.
-- **Traits:**
-    - **Swampborn:** Immune to non-magical diseases and resistant to poison.
-    - **Amphibious:** Can hold their breath for up to 10 minutes.
-    - **Bog Camouflage:** Gain advantage on stealth checks when in swampy environments.
-- **Cultural Heritage:** Swamp Bugbears thrive in boggy territories, living in stilted homes above the waterline. They are skilled trappers and herbalists, crafting powerful poultices and toxins. Their culture emphasizes balance and reverence for the swamp's ecosystems, with spiritual leaders serving as guides and protectors.
+## 4. Cloudcarve Dwarves (Marsh Plateau Engineers)  
+- **Appearance:** Cloudcarve Dwarves are smaller and more agile than other dwarves, standing between 4'0" and 4'4". Their pale, slightly translucent skin carries hues of green or blue-gray, reminiscent of misty wetlands. Their hair, often white, gray, or pale blonde, is kept in intricate buns or braids to stay out of the way. Their reflective silver or green eyes help them see clearly in low-light environments.  
+- **Lifespan:** 180–220 years.  
+- **Adulthood:** Reached at 30–40 years.  
+- **Traits:** Cloudcarve Dwarves are expert hydrologists and engineers, building massive aqueducts, floodgates, and platforms to control water levels in marshes and plateaus. They are nimble climbers and swimmers, equally comfortable scaling high plateaus or navigating waterways. Their ingenuity makes them indispensable in transforming inhospitable landscapes into livable spaces.  
+- **Cultural Heritage:** Cloudcarve Dwarves live on elevated plateaus surrounded by marshlands, crafting stilted cities and floating platforms to avoid flooding. Their culture values ingenuity and adaptability, with a focus on communal projects that ensure survival. Their society is egalitarian, with leaders elected based on their engineering prowess or ability to unite their people.  
+- **Breaking the Mold:** A group called the "Driftspire Reclaimers" has left their marshy homes to restore ancient waterways and ruins. They believe their ancestors were the original architects of the world’s irrigation systems and seek to reclaim this lost legacy while developing new hydrological innovations.
 
 # In-Work Heritages
 
-**Dwarves** \- Sturdy and skilled in mining and crafting, dwarves are usually portrayed as short and resilient, with a strong sense of tradition.
 
 **Dragons and Half Dragon** \- While less common as player characters, some RPGs allow players to take on dragon forms or play dragon-like races with inherent magical abilities.
 
