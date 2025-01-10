@@ -215,7 +215,7 @@ As adventurers, you are united not by where you come from but by your shared dri
 ### **The Corsair Trade Corporation**
 
 - **Name of the Faction:** **The Corsair Trade Corporation**  
-- **Motto:** **"Freedom has it's costs, adventure is the business."**  
+- **Motto:** **"Freedom has its costs, adventure is the business."**  
 
 #### **Cultural Overview**  
 The Corsair Trade Corporation (CTC) is a loose confederation of pirate clans, freebooters, and mercantile opportunists who rule the island chains with cunning, charisma, and cutthroat pragmatism. Less anarchic than it appears, the CTC operates on an intricate web of deals, alliances, and personal oaths forged in the smoke-filled taverns of **Port Reckless** or atop the wind-swept **Corsair Peaks.**
