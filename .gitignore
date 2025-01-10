@@ -43,6 +43,7 @@ npm-debug.log*
 .idea/
 .vscode/
 *.code-workspace
+.cspell
 
 # Sensitive files
 .env
