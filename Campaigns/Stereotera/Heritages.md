@@ -88,6 +88,22 @@
 - **Cultural Heritage:** Urban Goblins carve out hidden communities in the dark corners of cities—sewers, abandoned buildings, and crowded back alleys. Their anarchic society values ingenuity and cunning over formal leadership, with respect earned by deeds and cleverness. Their art takes the form of graffiti, scrap sculptures, and improvised instruments, reflecting their flair for turning the mundane into the extraordinary.  
 - **Breaking the Mold:** The "Cog and Chain Guild" transforms urban survival into enterprise, creating networks of goblin engineers, tinkerers, and smugglers. Their knack for finding and exploiting weaknesses in city systems has made them both feared and indispensable in the underworld.
 
+## 3. Frostbite Goblins (Tundra Goblins)  
+- **Appearance:** Frostbite Goblins are small and wiry, standing between 2'8" and 3'8", but few ever see their true appearance. They bundle themselves in thick seal-skin cloaks, arctic bird feathers, and intricately woven furs, leaving only their sharp eyes—usually shades of pale blue, green, or gray—visible. Beneath their layers, their skin is mottled pale gray or blue, adapted to blend with the icy landscape.  
+- **Lifespan:** 40–60 years.  
+- **Adulthood:** Reached at 10–12 years.  
+- **Traits:** Frostbite Goblins are masters of survival on isolated ice drifts, relying on fishing, hunting, and scavenging to sustain themselves. Their agility allows them to traverse slick ice with ease, and their ability to endure frigid temperatures is unmatched. They construct temporary shelters from snow and ice with remarkable efficiency and can mimic animal calls to hunt or mislead predators.  
+- **Cultural Heritage:** Frostbite Goblins live in small, tight-knit clans spread across the frozen tundra. They value self-reliance and discretion, rarely engaging with outsiders unless absolutely necessary. Their spiritual practices focus on the spirits of the ice and the creatures they depend upon, with rituals involving intricate feather and bone ornaments. They are skilled crafters of tools and clothing, using every part of their hunted prey.  
+- **Breaking the Mold:** A few Frostbite Goblins, known as "Drift Phantoms," have ventured south, becoming enigmatic guides and scouts. Their knowledge of stealth and cold-weather survival makes them invaluable allies—or dangerous adversaries—wherever snow and ice dominate.
+
+## 4. Sunscar Goblins (Desert Goblins)  
+- **Appearance:** Sunscar Goblins are tall for their kind, standing up to 5'5". Their skin is tough and weathered, ranging from ochre to deep rust red, with striking patterns of lighter tones around their joints and faces. Their hair is often short and wiry, in shades of black or dark brown, and their golden or orange eyes gleam with intelligence and determination.  
+- **Lifespan:** 50–70 years.  
+- **Adulthood:** Reached at 15–18 years.  
+- **Traits:** Sunscar Goblins are ingenious builders and engineers, creating sprawling cliffside cities and vast underground complexes that shield them from the desert heat. They are resourceful scavengers, adept at harvesting water from the air and creating tools from minimal resources. Their nimbleness allows them to navigate narrow canyons and vertical surfaces with ease.  
+- **Cultural Heritage:** Drawing inspiration from ancient mudbrick cultures, Sunscar Goblins thrive in multilevel cliff dwellings and fortified adobe structures. Their society revolves around trade and craft, with artisans producing intricate pottery, mosaics, and textiles. They value collaboration and ingenuity, with community councils resolving disputes and guiding collective projects. Their spiritual practices center on the sun and wind, with elaborate festivals celebrating seasonal changes and the desert’s harsh beauty.  
+- **Breaking the Mold:** A group known as the "Dunebrush Designers" has turned their architectural expertise into a trade empire, designing cutting-edge cityscapes for other races. They combine traditional desert construction methods with new engineering techniques, earning fame and fortune as master architects and innovators.  
+
 ---
 
 # Gnome Heritages

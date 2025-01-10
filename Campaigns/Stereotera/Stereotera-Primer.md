@@ -2,6 +2,131 @@
 Welcome to **Stereotera**, a vast and ever-evolving world where diverse cultures, ecosystems, and ideologies clash and coexist in fragile balance. Each of the four continents and surrounding island chains presents unique challenges and opportunities for adventurers seeking fame, fortune, or freedom. The interconnected realms invite exploration, conflict, and collaboration, offering endless possibilities for storytelling.
 
 ---
+
+# The Primordial History of Stereotera
+
+### **The Triad of Creation: Kab, Mat, and Nun**
+
+In the beginning, the universe was not forged but existed as three inseparable beings: **Umashiashikabi (Kab), Tiamat (Mat), and Ginnungagap (Nun)**. These primordial dragons **are** the universe, their essence woven into all things. Each governs an essential aspect of existence, yet their relationships are fraught with love, conflict, and imbalance.
+
+- **Umashiashikabi (Kab): Spirit Energy**  
+   - **Form:** A serpentine, Asian-canine dragon, its essence is animation and purpose.  
+   - **Role:** Kab governs the shape of the universe, giving structure to Mat’s matter and life to Nun’s dreams. Kab’s love for sentience drives their benevolence, yet their power wanes as they pour their essence into creation.  
+   - **Current Status:** The Shepherd, increasingly weakened but determined to preserve balance.  
+
+- **Tiamat (Mat): Body Matter**  
+   - **Form:** A massive, European reptilian dragon, coiled around the universe as its prison.  
+   - **Role:** Mat is the material of existence—rocks, beasts, and even the sentient races. While they love Nun and carry their burden, they resent Kab’s interference and remain ambivalent toward sentience, seeing it as neither a blessing nor a curse.  
+   - **Current Status:** The Prisoner, bound yet balanced, providing substance to all things.  
+
+- **Ginnungagap (Nun): Mind Void**  
+   - **Form:** A shifting, amorphous being often appearing as avian, cephalopod, or insectoid forms.  
+   - **Role:** Nun dreams the universe, shaping and unmaking through indifference. Nun’s power grows as they slumber, indifferent to sentience but harboring a deep love for Kab and disdain for Mat’s rigidity.  
+   - **Current Status:** The Sleeper, dreaming worlds into existence and erasure.  
+
+### **The Primordial Relationships**
+Kab, Mat, and Nun’s relationships define the tension that permeates the universe. Kab’s love for Mat is unrequited, as Mat loves Nun, who in turn loves Kab. This cycle of admiration and resentment creates the universe’s dynamism:
+
+- **Kab loves Mat, who resents Kab’s interference.**  
+- **Mat loves Nun, who dreams Mat’s existence.**  
+- **Nun loves Kab, whose form structures Nun’s dreams.**
+
+This triangle fuels the arguments between mortals, as zealots of each primordial dragon debate where true power lies. Is Kab’s governance the reality, or is it merely an illusion dreamed by Nun? Should Nun awaken, will Mat’s imprisonment end—and with it, the universe?
+
+---
+
+### **The True Dragons and Their Children**
+The **12 True Dragons of Stereotera** are the direct offspring of Kab, Mat, and Nun. Each embodies a blend of their parents’ traits, manifesting across the planet as godlike forces of nature. They govern not just the skies but also the balance of Stereotera’s elements, ecosystems, and sentient destiny. These dragons birthed the many drakes, wyverns, and dragonkin that roam the world.
+
+---
+
+### **The Four Continents and the Island Chains**
+
+#### **1. Cybrixia: The Technocratic Dominion**  
+- Cybrixia reveres **Kab** as the giver of structure, their technology often interpreted as a way to channel Kab’s waning power.  
+- The Synovate Hive-Mind sees itself as an extension of Kab’s governance, weaving sentience into a collective order. However, Cybrixia’s relentless extraction of Mat’s resources deepens the imbalance, fostering disdain from Mat’s followers.  
+- The Producers and Consumers, locked in their cycle of creation and consumption, unknowingly mirror the relationship between Kab and Mat.
+
+#### **2. Talanthera: Land of Kings and Mages**  
+- Talanthera is deeply divided between factions worshiping **Mat’s stability** and those who seek the arcane freedom of **Nun’s dream-like power**.  
+- Warrior Kings often claim descent from Mat, seeing their conquest as the embodiment of physical strength and order. Meanwhile, Archmages strive to tap into Nun’s chaotic energies, treating magic as a reflection of Nun’s unshaped potential.  
+- This tension creates a land perpetually at war, as the two philosophies clash over dominion and ideology.
+
+#### **3. Zephara: The Holy Triad**  
+- Zephara serves as the ideological heart of the Primordial Triad, its religious zeal rooted in the Forces and Forms of Vitalix, Vidhix, and Manix.  
+  - **Vitalix** reflects Kab’s spirit energy, fostering life and balance.  
+  - **Vidhix** embodies Nun’s void, the unmaking and abstraction of reality.  
+  - **Manix** channels Mat’s tangible energy, raw and untapped.  
+- The holy wars between these forces mirror the cosmic tension of the primordial dragons, as each faction seeks to awaken or protect Nun while grappling with the consequences of such an act.
+
+#### **4. Kalora: The Verdant Confederacy**  
+- Kalora, with its anarchistic diversity, embodies the chaos of **Nun’s dreams** while drawing stability from **Mat’s physical bounty.**  
+- Its genetic and cultural diversity reflects Kab’s influence, as the scattered communities carry remnants of all three primordial powers. However, Kalora’s penchant for small-scale conflicts hints at the fragmentation that occurs when primordial balance falters.
+
+#### **5. The Corsair Archipelago**  
+- The Corsair Trade Corporation reflects Kab’s waning power, as the CTC seeks to impose order and structure across Stereotera’s oceans and trade routes. However, the island chains also teem with Mat’s raw physicality in the form of hidden treasures and uncharted lands.  
+- Pirates and merchants alike unknowingly echo Nun’s dreaming chaos, their constant flux embodying the unshaped potential of the primordial dragon.
+
+---
+
+### **Geography as a Reflection of the Primordials**
+
+1. **Mountains and Valleys:**  
+   - The realm of Mat, whose solidity and ambivalence define the harshness and beauty of the land.  
+
+2. **Oceans and Storms:**  
+   - The fluid chaos of Nun, shaping and unmaking with every tide.  
+
+3. **Forests and Plains:**  
+   - The balance of Kab, animating Mat’s form and giving life to Nun’s dreams.  
+
+4. **The Plasma Sphere and Elemental Soup:**  
+   - A barrier of raw energy and volatile change, representing Nun’s growing power and the friction between their siblings.
+
+---
+
+### **The Great Debate: When the Shift Will Come**
+
+*Scene: A circular amphitheater in Zephara, its steps crowded with theologians, scholars, and zealots of various factions. Three prominent speakers take the stage under a massive mural depicting the Primordial Dragons entwined in cosmic struggle.*
+
+---
+
+**Speaker 1: Siralin, a Kabite Scholar**  
+*A tall, ascetic figure in flowing white robes, Siralin gestures calmly to the crowd, their voice steady and measured.*  
+
+> “Brothers and sisters, consider the evidence of the present moment. The structure of the universe remains intact. The sun rises, the tides ebb and flow, and life flourishes under Kab’s benevolent guidance. The Sleeper dreams, yes, but that dream is held within Kab’s frame. Even Mat, though burdened, persists in her imprisonment without breaking free. What reason is there to believe that the Great Turning is upon us? It is vanity to think ourselves so pivotal in the vast cycles of eternity. Kab’s hold is strong, and so it shall remain for countless generations.”
+
+---
+
+**Speaker 2: Ravix, a Matian Prophet**  
+*Ravix, a rugged figure with piercing eyes and a staff adorned with jagged obsidian, steps forward, their voice rough but passionate.*  
+
+> “And yet, Siralin, can you not feel it? The air crackles with change. The seas grow restless, and the earth trembles beneath our feet. These are not the marks of stability but of a balance tipping toward collapse. Kab’s grasp falters as Nun stirs in their slumber. The Sleeper dreams more vividly now, their power swelling as Mat’s rage grows.  
+
+> We have a duty, not to cling to Kab’s illusion of permanence, but to prepare ourselves for the truth: the Turning is inevitable. Why not hasten its arrival and free Mat from her chains? Why not help Nun awaken and usher in a new order where the burden of existence no longer binds us? We are fools to squander this moment with complacency.”
+
+---
+
+**Speaker 3: Yuren, a Nunite Mystic**  
+*Yuren, seated cross-legged on the stone floor, wears tattered gray robes. Their voice is quiet but carries the weight of conviction, each word deliberate.*  
+
+> “You both miss the point entirely. Time is the true deceiver, a Folix aux Tres—a trick of the Void. You argue over a Turning, as if it is a moment that lies ahead or behind. But there is no ‘when,’ only ‘is.’ Kab shapes, Mat exists, Nun dreams, and the cycle spirals eternally. The Turning you speak of has already happened, is happening, and will happen again, all at once.  
+
+> Do you not see? Your urgency, your patience, your clinging to causality—it is distraction. Kab’s structure is a veil, Mat’s imprisonment a story, Nun’s dream a mirror reflecting infinite lies. If there is a truth, it is this: we are actors on a stage without a playwright. Stop searching for the plot. There is none.”  
+
+*Yuren tilts their head, a small smile crossing their face as the amphitheater erupts into argument.*  
+
+---
+
+*The crowd divides, some swayed by Siralin’s reassurance, others fired by Ravix’s call to action, and still others muttering about Yuren’s riddles. The debate, like the universe itself, spirals on.*
+
+---
+
+### **The Stakes of the Primordial Struggle**
+The interplay of Kab, Mat, and Nun shapes all existence, yet their power is fragile and cyclical. To awaken Nun would unravel the universe, leaving only the Sleeper to reshape reality according to their whim. Mat would be freed from their burden, and Kab’s efforts would cease to matter.
+
+The question of whether to preserve or undo this fragile balance permeates every aspect of Stereotera, creating a world steeped in tension, faith, and uncertainty. The Primordial Dragons remain as they always have—woven into the fabric of reality, shaping its fate with their eternal struggle.
+
 ---
 
 ## **The Four Continents**
