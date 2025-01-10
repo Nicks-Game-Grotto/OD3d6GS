@@ -64,7 +64,7 @@ The **12 True Dragons of Stereotera** are the direct offspring of Kab, Mat, and 
 - Its genetic and cultural diversity reflects Kab’s influence, as the scattered communities carry remnants of all three primordial powers. However, Kalora’s penchant for small-scale conflicts hints at the fragmentation that occurs when primordial balance falters.
 
 #### **5. The Corsair Archipelago**  
-- The Corsair Trade Corporation reflects Kab’s waning power, as the CTC seeks to impose order and structure across Stereotera’s oceans and trade routes. However, the island chains also teem with Mat’s raw physicality in the form of hidden treasures and uncharted lands.  
+- The Corsair Trade Corporation reflects **Kab’s waning power**, as the CTC seeks to impose order and structure across Stereotera’s oceans and trade routes. However, the island chains also teem with Mat’s raw physicality in the form of hidden treasures and uncharted lands.  
 - Pirates and merchants alike unknowingly echo Nun’s dreaming chaos, their constant flux embodying the unshaped potential of the primordial dragon.
 
 ---

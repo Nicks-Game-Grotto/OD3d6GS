@@ -294,57 +294,78 @@
 - **Cultural Heritage:** Cloudcarve Dwarves live on elevated plateaus surrounded by marshlands, crafting stilted cities and floating platforms to avoid flooding. Their culture values ingenuity and adaptability, with a focus on communal projects that ensure survival. Their society is egalitarian, with leaders elected based on their engineering prowess or ability to unite their people.  
 - **Breaking the Mold:** A group called the "Driftspire Reclaimers" has left their marshy homes to restore ancient waterways and ruins. They believe their ancestors were the original architects of the world’s irrigation systems and seek to reclaim this lost legacy while developing new hydrological innovations.
 
-# In-Work Heritages
+# Kobold Heritages
 
+## Kabite Kobold (Pureborn of Kab)  
+- **Appearance:** Kabite Kobold are lithe and agile, standing between 2'6" and 3'2". Their scales shimmer in shades of gold, white, or light green, and their sharp canine-like features echo Kab’s draconic-canine form. Their large, expressive eyes, usually green or amber, radiate intelligence and curiosity.  
+- **Lifespan:** 800–900 years.  
+- **Adulthood:** Reached at 90–100 years.  
+- **Traits:** Kabite Kobold are deeply tied to the essence of creation and structure. They excel in crafting and organizing, with an instinctive understanding of how things fit together, whether it be architecture, machinery, or social hierarchies. Their natural charisma allows them to inspire others and unify communities, but their devotion to order can sometimes lead to inflexibility. Their connection to Kab gives them an innate curiosity and a desire to build and preserve, viewing their work as a reflection of their progenitor's will.  
+- **Cultural Heritage:** Kabite Kobold form tightly knit, industrious communities, often serving as master builders, scribes, and stewards for other races. They view themselves as guardians of order, dedicating their lives to preserving the memory of Kab through their creations.  
+- **Breaking the Mold:** "Wyrmling Liberators" are Kabite Kobold who reject rigid hierarchy, seeking to reshape their structured society into one of more equal collaboration, believing even a perfect structure must adapt to endure.
 
-**Dragons and Half Dragon** \- While less common as player characters, some RPGs allow players to take on dragon forms or play dragon-like races with inherent magical abilities.
+## Matian Kobold (Pureborn of Mat)  
+- **Appearance:** Matian Kobold are stockier than their Kabite kin, standing between 3'0" and 3'6". Their scales are dark and earthy, in tones of deep brown, rust red, or slate gray. Their reptilian features are rugged, with broad, flat snouts and sturdy claws built for digging and climbing. Their eyes, often shades of red or yellow, gleam with practicality.  
+- **Lifespan:** 850–950 years.  
+- **Adulthood:** Reached at 95–105 years.  
+- **Traits:** Matian Kobold are grounded in the physical world, with a deep connection to the materials and substances that form existence. They excel in mining, smithing, and crafting, often finding beauty in the utility of their work. Their resilience is unmatched, enabling them to endure harsh conditions and thrive where others would falter. Matian Kobold have a pragmatic approach to life, valuing endurance and resourcefulness over flair or elegance. They often see hardship as a necessary part of creation, reflecting Mat’s ambivalence toward the struggles of life.  
+- **Cultural Heritage:** Matian Kobold live in deep underground colonies, carving homes from stone and building networks of tunnels. Their culture values resilience and craftsmanship, viewing hardship as a necessary step in creation. They revere Mat as the ultimate source of all material, even if they suspect their progenitor is indifferent to their existence.  
+- **Breaking the Mold:** "Surface Seekers" are Matian Kobold who leave the depths to study the surface world. They often face skepticism from their peers, but their innovations in combining surface resources with underground techniques have earned them reluctant respect.
 
-**Tieflings** \- These are people with infernal heritage, often featuring horns, tails, and a natural affinity for magic. Any race may make infernal pacts that might result in their children having a Tiefling genetic and/or cultural Heritage. Horns, Vibrantly Colored Skin, Pheromancy,  and Prehensile Tails are the most common ways Tieflings present their heritage.
+## Nunite Kobold (Pureborn of Nun)  
+- **Appearance:** Nunite Kobold are the smallest of their kind, standing between 2'4" and 3'0". Their scales are dark and iridescent, shifting between black, purple, and deep blue, giving them an almost otherworldly appearance. Their faces are sharper and more angular, with long, delicate fingers. Their solid-colored eyes, in shades of violet, silver, or pitch black, give them an unreadable expression.  
+- **Lifespan:** 750–850 years.  
+- **Adulthood:** Reached at 85–95 years.  
+- **Traits:** Nunite Kobold are deeply connected to the unshaped and the unseen, their presence often subtle and fleeting. They possess an innate talent for blending into chaotic environments, often moving unnoticed or evading pursuit with uncanny precision. Their minds are attuned to patterns and probabilities, allowing them to solve puzzles and anticipate outcomes that others overlook. Many Nunite Kobold develop a mystical air, delving into philosophical questions about the nature of existence, reflecting their progenitor’s dreaming nature. They are often contemplative and introspective, though this can sometimes isolate them from others.  
+- **Cultural Heritage:** Nunite Kobold dwell in remote or obscured areas, building intricate labyrinthine settlements that mirror Nun’s chaotic dreams. They value subtlety and contemplation, often serving as mystics or oracles. Their devotion to Nun is driven more by reverence than love, as they see their progenitor as a force beyond understanding.  
+- **Breaking the Mold:** "Voidbreakers" are Nunite Kobold who reject the isolationist tendencies of their heritage, embracing chaotic urban environments where they thrive as tricksters, spies, or entertainers, blending into the noise of the crowd.
 
-**Ferals** \- Also known as the lycanthropes, these are humanoids with a bestial nature. Subraces might include different animalistic traits such as wolf, cat, or bear.
+## Scaledmongers (Mixed Heritage)  
+- **Appearance:** Scaledmongers are larger and more robust than Purebornes, standing between 3'4" and 4'0". Their scales are dull and mottled, blending mismatched hues from their ancestors—bronze flecked with rust, or violet streaked with green. Their features lack the refined symmetry of Purebornes, making them appear rougher or “unfinished.”  
+- **Lifespan:** 600–700 years.  
+- **Adulthood:** Reached at 75–85 years.  
+- **Traits:** Scaledmongers are a patchwork of traits from their pureblood ancestors, making them highly adaptable but lacking the focused strengths of the Purebornes. They are quick to improvise, excelling in situations requiring creativity and resourcefulness. Their survival instincts are sharp, and their ability to navigate complex social and physical environments often makes them indispensable as intermediaries. However, their lack of a single primordial connection sometimes alienates them from the more rigid Pureborne communities.  
+- **Cultural Heritage:** Scaledmongers are often seen as outcasts or inferior by Pureborn Kobold. They typically form fringe communities where practicality and resourcefulness outweigh tradition or hierarchy. Despite the disdain they face, Scaledmongers often act as bridges between the Pureborn groups, using their mixed heritage to navigate complex social landscapes.  
+- **Breaking the Mold:** "Bloodbound Corsairs" are Scaledmongers who embrace their outcast status, forming tight-knit pirate crews or mercenary bands. Their adaptability and tenacity make them formidable leaders, thriving where pureblood Kobold fear to tread.  
 
-**Changelings** \- Shape-shifters with the ability to alter their appearance at will, allowing for various forms and subraces with different specialties in disguise and transformation.
+---
 
-**Jinn** \- Humanoids with elemental heritage, each with distinct features and abilities related to their elemental origin (Air, Earth, Fire, Water).
+### **Natural Born Heritages**
 
- **Furries** \- General term for anthropomorphic animals, which can include various types of animal traits and characteristics.
+The heritages above encompass all of the natural born races of Stereotera. Each has deep roots tied to the Primordial Dragons or the intricate workings of the world’s natural and cultural evolution. Whether shaped by environment, tradition, or unique societal challenges, these heritages provide players with a rich tapestry of options for creating characters who feel authentically tied to the world.
 
-**Catfolk** \- Anthro characters with feline traits, often agile and stealthy, with subtypes such as lions, tigers, and domestic cats.  
-**Wolfkin** \- Anthro beings with wolf characteristics, known for their pack instincts and often enhanced senses.  
-**Foxfolk** \- Anthro characters resembling foxes, typically characterized by their cunning, agility, and sometimes magical abilities.  
-**Rabbitfolk** \- Anthro beings with rabbit traits, usually known for their speed, agility, and keen senses.  
-**Bearfolk** \- Large and strong anthro characters with bear-like features, often known for their physical power and resilience.  
-**Raccoonfolk** \- Anthro beings resembling raccoons, often known for their dexterity and affinity for scavenging or thievery.  
-**Hawkfolk** \- Anthro characters with avian traits like hawks, including keen vision and flight capabilities.  
-**Lizardfolk** \- Reptilian anthro beings, often with scales and a connection to nature or magic.  
-**Serpentfolk** \- Anthro characters with snake-like features, including potentially venomous traits or serpentine agility.  
-**Squirrelfolk** \- Small and nimble anthro characters with traits of squirrels, known for their agility and climbing ability.  
-**Hyenafolk** \- Anthro beings with hyena traits, often characterized by their laughter and scavenging behaviors.  
-**Elephankin** \- Large anthro characters with elephant traits, known for their immense strength and memory.  
-**Deerfolk** \- Anthro beings resembling deer, with traits like antlers and a connection to nature or the forest.  
-**Penguinfolk** \- Anthro characters with penguin-like features, including a waddling gait and affinity for cold environments.  
-**Gryphons** \- Mythical creatures with the body of a lion and the wings and head of an eagle, often depicted with various anthro traits.  
-**Otterfolk** \- Anthro beings with otter traits, known for their playful nature and affinity for water.  
-**Skunkfolk** \- Anthro characters resembling skunks, often with defensive spray abilities and a reputation for being unapproachable.  
-**Cheetahfolk** \- Anthro beings with cheetah traits, known for their incredible speed and agility.  
-**Bunnyfolk** \- Similar to rabbitfolk, but sometimes with a more magical or whimsical twist.  
-**Platypusfolk** \- Anthro characters with platypus features, including unique traits like venomous spurs or the ability to lay eggs.  
-**Batfolk** \- Anthro beings resembling bats, known for their ability to fly and echolocation.  
-**Kangaroofolk** \- Anthro characters with kangaroo traits, including powerful legs for jumping and a pouch for carrying items.  
-**Minkfolk** \- Anthro beings with mink traits, often known for their sleek fur and dexterity.  
-**Beaverfolk** \- Anthro characters resembling beavers, known for their construction skills and aquatic adaptability.  
-**Porcupinefolk** \- Anthro beings with porcupine traits, including quills for defense and a knack for foraging.  
-**Foxen** \- Similar to foxfolk but with additional magical or mystical traits.  
-**Weaselfolk** \- Anthro characters with weasel traits, known for their stealth and quick reflexes.  
-**Chinchillafolk** \- Anthro beings with chinchilla features, known for their soft fur and agility.  
-**Raptorfolk** \- Anthro characters resembling dinosaurs or large birds of prey, known for their powerful claws and predatory nature.  
-**Turtlefolk** \- Anthro beings with turtle traits, including a sturdy shell and slow but steady nature.  
-**Armadillofolk** \- Anthro characters resembling armadillos, known for their protective armor and ability to curl up.  
-**Molefolk** \- Anthro beings with mole traits, known for their digging abilities and sensitivity to vibrations.  
-**Lynxfolk** \- Anthro characters with lynx traits, including keen senses and retractable claws.  
-**Coyotefolk** \- Anthro beings with coyote traits, known for their adaptability and cunning nature.  
-**Batfolk** \- Anthro characters with bat-like features, including the ability to fly and echolocation.  
-**Wolverinefolk** \- Anthro beings with wolverine traits, known for their ferocity and tenacity.  
-**Hedgehogfolk** \- Anthro characters with hedgehog traits, including defensive quills and a small, agile stature.  
-**Frogfolk** \- Anthro beings with frog-like features, including amphibious traits and powerful jumping abilities.  
-**Crabfolk** \- Anthro characters with crab traits, including hard shells and pincers for defense.
+---
+
+### **Coming Next Week: Magical Lineages for Customization**
+
+Magical Lineages allow players to build upon the natural heritages with extraordinary traits, reflecting ancestral or personal connections to powerful magical forces. These lineages expand the possibilities for character creation, offering ways to blend natural origins with unique, supernatural abilities.
+
+#### **Dragonborn (Half-Dragon, Dragonkin)**  
+A remnant of the Lost Age, Dragonborn characters descend from ancestors who directly interacted with a True Dragon. This interaction altered their lineage forever. Born from an egg instead of a womb, Dragonborn are as much a testament to the might of the 12 True Dragons as they are a living link to the divine power that once roamed freely.
+
+- **Customization Options:** Adds draconic traits such as elemental breath weapons, scaled skin, and the ability to channel the primal essence of a True Dragon ancestor.
+
+#### **Diamonic (Tiefling and Celestial Types)**  
+Diamonic characters are similarly marked by divine or infernal ancestry, connected to the Lost Gods who no longer walk the world. Unlike Dragonborn, their birth is natural, but their traits—be it radiant halos or abyssal horns—set them apart as living reminders of divine intervention.
+
+- **Customization Options:** Includes celestial and infernal traits, such as radiant auras, shadowy teleportation, or resistance to elemental forces tied to the divine.
+
+#### **Ferals (Shape-Changers)**  
+Ferals are products of magical or biological experimentation in ages past, their forms reflecting the primal essence of beasts. These traits—whether claws, fur, or the ability to change shape—are regarded as abominations by the faithful, and new Ferals are universally outlawed. 
+
+- **Customization Options:** Allows for bestial traits like heightened senses, animalistic transformations, and abilities tied to specific beasts, offering players a broad range of options to explore.
+
+#### **Elementals (Genasi/Jinn)**  
+A relatively new phenomenon, Elementals are children born with traits tied to the classical elements—fire, water, air, and earth. Their existence remains a mystery, with many considering them miracles or signs of change. 
+
+- **Customization Options:** Provides elemental affinities such as control over fire, manipulation of earth, or the ability to breathe underwater, perfect for characters wanting a connection to the raw forces of nature.
+
+#### **Necromantics (Cheating Death)**  
+Those who choose Necromantic lineages are individuals who have transcended death itself. Through rituals, technology, or other means, they have reclaimed life—or at least a semblance of it. This is the only legal path for characters to gain magical traits in Stereotera, but public opinion is shifting against them.
+
+- **Customization Options:** Enables characters to explore undead traits, such as regenerative abilities, ethereal resistance, or the ability to wield life-draining powers.
+
+---
+
+### **Stay Tuned**
+Next week, we’ll dive into these Magical Lineages, giving you the tools to create truly unique characters who bridge the gap between the natural and the extraordinary. Whether shaped by dragons, gods, or the mysteries of life and death, your characters will stand out as powerful, compelling figures in the world of Stereotera.
