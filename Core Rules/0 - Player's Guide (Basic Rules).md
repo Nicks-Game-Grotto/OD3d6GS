@@ -978,7 +978,7 @@ Choose an appropriate range for the ability using the document **2 - Combat & Mo
   - Close: Short-range abilities like grapples.
   - Medium/Short: Spells or ranged attacks.
   - Aura: Radial effects centered on the character.  
-  Refer to: [Range Scale for Combat & Movement](Core Rules/2 - Combat & Movement Ranges.md)
+  Refer to: [Core Rules/2 - Combat & Movement Ranges.md](https://github.com/Nicks-Game-Grotto/OD3d6GS/blob/main/Core%20Rules/2%20-%20Combat%20%26%20Movement%20Ranges.md)
 
 #### **6. Specify the Shape of Magic (if applicable)**
 For magical abilities, specify the **shape**:
