@@ -100,7 +100,17 @@
       - [Augmenting Abilities](#augmenting-abilities)
     - [Creating Archetype Abilities](#creating-archetype-abilities)
       - [Example: Joe’s Free Abilities](#example-joes-free-abilities)
-    - [Advanced Ability Examples](#advanced-ability-examples)
+    - [Ability Creation Instructions](#ability-creation-instructions)
+      - [**1. Define the Effort Type**](#1-define-the-effort-type)
+    - [**2. Select the Associated Skill and Attribute**](#2-select-the-associated-skill-and-attribute)
+    - [**3. Determine ToHit and Save**](#3-determine-tohit-and-save)
+    - [**4. Set the Damage or Effect**](#4-set-the-damage-or-effect)
+    - [**5. Define the Range**](#5-define-the-range)
+    - [**6. Specify the Shape of Magic (if applicable)**](#6-specify-the-shape-of-magic-if-applicable)
+    - [**7. Write the Description**](#7-write-the-description)
+    - [**8. Incorporate Augments (if applicable)**](#8-incorporate-augments-if-applicable)
+    - [**9. Validate and Playtest**](#9-validate-and-playtest)
+    - [Ability Examples](#ability-examples)
       - [Ready Stance](#ready-stance)
       - [Block](#block)
       - [Riposte](#riposte)
@@ -913,7 +923,7 @@ You augment Abilities at the **Apprentice (1)** and **Adept (2)** Skill Mastery 
 
 ### Creating Archetype Abilities
 
-During Character Creation, you gain **two free Abilities** that cost no Effort. These are usually basic attack actions (e.g., melee and ranged attacks) but can be customized.
+During Character Creation, you gain **two free Abilities** that cost no Effort. These are usually basic attack actions (e.g., melee and ranged attacks) but can be customized. They can be taken from any of the character's available skills regardless of Archetype Association.
 
 #### Example: Joe’s Free Abilities
 
@@ -924,10 +934,97 @@ During Character Creation, you gain **two free Abilities** that cost no Effort. 
      
 2. **Shield Parry**  
    **Trigger**: \-5 On Miss  
-   **Effect**: No Effort, Setup Riposte  
+   **Effect**: No Reaction, Setup Riposte
    **Description**: When a player attacks Joe and misses by more than 5, it is considered an automatic shield parry. Joe can Spend Effort to Riposte.
 
-### Advanced Ability Examples
+### Ability Creation Instructions
+
+Abilities are the defining actions characters take during gameplay, customized based on their Skills, Attributes, and Effort. Follow these steps to create balanced and engaging Abilities:
+
+#### **1. Define the Effort Type**
+Choose an **Effort Type** based on the nature and cost of the ability:
+- **Free Effort:** Simple actions that require no resource expenditure.
+- **Maintained Effort:** Sustained abilities that require resolve, focus, or stamina to remain active. Maintained effort can be recovered, swapped, moved, or burned, but only one at a time.
+- **Spent Effort:** One-time actions that consume effort for immediate effects. You can Spend Effort and Maintain Effort at the same time.
+- **Burned Effort:** Powerful actions with lasting costs, you burn the effort that you are maintaining.
+
+### **2. Select the Associated Skill and Attribute**
+Each ability must correspond to a **Skill** and its **Associated Attribute**:
+- **Skill Mastery Level:** Influences the effectiveness and complexity of the ability.  
+  - Novice (0): Gain an ability.  
+  - Apprentice (1): Augment an ability.  
+  - Adept (2): Augment further.  
+  - Skilled (3): Gain a new ability.
+- **Attribute Score:** Contributes directly to **ToHit**, **Save**, and other calculations.
+- Use document **1 - Skills** for more about Skills and Mastery Level.
+
+### **3. Determine ToHit and Save**
+- **ToHit Calculation:**  
+  \[
+  \text{ToHit} = \text{Skill Mastery Level} + \text{Attribute Score}
+  \]
+- **Save DC Calculation:**  
+  \[
+  \text{Save DC} = 8 + \text{Skill Mastery Level} + \text{Attribute Score}
+  \]
+
+---
+
+### **4. Set the Damage or Effect**
+- Use document **4 - Damage Dice Scale** to determine the damage or effect size based on Skill Mastery and Effort Type.
+
+---
+
+### **5. Define the Range**
+Choose an appropriate range for the ability using the document **2 - Combat & Movement Ranges**:
+- Examples:
+  - Very Close: Melee or personal abilities.
+  - Close: Short-range abilities like grapples.
+  - Medium/Short: Spells or ranged attacks.
+  - Aura: Radial effects centered on the character.  
+  Refer to: [Range Scale for Combat & Movement](Core Rules/2 - Combat & Movement Ranges.md)
+
+---
+
+### **6. Specify the Shape of Magic (if applicable)**
+For magical abilities, specify the **shape**:
+- Examples:
+  - **Blast:** Single-target, concentrated effect.
+  - **Bolt:** Projectile effect.
+  - **Aura:** Area-of-effect around the caster.
+
+---
+
+### **7. Write the Description**
+Create a concise but flavorful description that includes:
+- **Effort Type.**
+- **ToHit or Save.**
+- **Effect and Range.**
+- **Conditions or Themes:** Integrate conditions (*Distracted*, *Frightened*) and thematic details for immersion.
+
+**Example:**  
+> **Entropic Touch** (Free Effort, +6 ToHit, 3d3+3, Very Close)  
+> A concentrated Blast of Vitalix energy surges through Hollalee’s touch, sapping the life from a single target.
+
+---
+
+### **8. Incorporate Augments (if applicable)**
+Augments enhance existing abilities and are added at **Apprentice (1)** or **Adept (2)** Mastery Levels:
+- **Range Extension:** Modify an ability’s range (e.g., Close → Short).
+- **Enhanced Effects:** Increase damage, Save DC, or area size.
+- **New Conditions:** Add complementary effects (e.g., *Distracted* + *Frightened*).
+
+---
+
+### **9. Validate and Playtest**
+Ensure balance by evaluating:
+- **Effort Cost vs. Impact:** Free Effort abilities should be simple, while Burned Effort abilities should have significant effects.
+- **Consistency:** Verify ToHit, Save, and Damage align with rules.
+- **Test in Context:** Playtest abilities in scenarios to confirm balance and synergy.
+
+---
+
+### Ability Examples
 
 Joe's Archetype Skill is **Sword & Board**, combining the **Skirmisher/Soldier** and **Shield Arts** Skill Groups. Let’s explore how he uses these skills to create and augment abilities:
 
