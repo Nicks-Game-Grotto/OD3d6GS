@@ -969,7 +969,7 @@ Each ability must correspond to a **Skill** and its **Associated Attribute**:
   \]
 
 #### **4. Set the Damage or Effect**
-- Use document **4 - Damage Dice Scale** to determine the damage or effect size based on Skill Mastery and Effort Type.
+- Use document [Core Rules/4 - Damage Dice Scale.md](https://github.com/Nicks-Game-Grotto/OD3d6GS/blob/main/Core%20Rules/4%20-%20Damage%20Dice%20Scale.md) to determine the damage or effect size based on [Skill Mastery](https://github.com/Nicks-Game-Grotto/OD3d6GS/blob/main/Core%20Rules/1%20-%20Skills.md) or [Weapon Size](https://github.com/Nicks-Game-Grotto/OD3d6GS/blob/main/Core%20Rules/5%20-%20Weapon%20Scale%20by%20Size.md).
 
 #### **5. Define the Range**
 Choose an appropriate range for the ability using the document **2 - Combat & Movement Ranges**:

@@ -141,13 +141,57 @@ Ability creation (e.g., calculating damage or effects).
 
 ---
 
+<!--
+Refer to the document link below for Ability Creation Instructions
+https://github.com/Nicks-Game-Grotto/OD3d6GS/blob/main/Core%20Rules/0%20-%20Player's%20Guide%20(Basic%20Rules).md#ability-creation-instructions
+-->
+
 ## Abilities
 
 | **Name**      | **Effort**       | **ToHit/Save**   | **Effect** | **Range** | **Description**                                               |
 |---------------|------------------|------------------|------------|-----------|----------------------------------------------------------------------------------------|
 | **[Ability Name]** | [Effort Type] | [Value] | [Effect] | [Range] | [Describe the ability’s effect, including *Conditions*, shapes, and thematic details.]            |
 
-<!-- Items & Notes Pages (continuous) -->
+<!-- Items & Notes Pages (continuous) 
+
+Instructions for Choosing Equipment
+When selecting your character’s equipment, consider how their background and skills influence their starting possessions. Equipment should reflect their lifestyle, financial standing, and role in the party while balancing what they can carry, have ready, or store.
+
+1. Ready, Carried, and Stored Items
+Your character’s equipment is divided into three categories:
+Ready Items: Essential tools or weapons your character uses frequently and keeps immediately accessible. Example: a weapon, armor, or a key utility item.
+Carried Items: Items that are useful but not immediately needed. These are typically stored in a bag or pouch. Example: rations, rope, or a writing kit.
+Stored Items: Possessions kept in a safe location, such as a rented room, ship locker, or family home. These may include heirlooms, additional money, or bulk supplies.
+
+2. Background and Financial Standing
+Background determines the type and quality of items your character starts with:
+Wealthy or Noble Backgrounds: High-quality equipment but fewer necessities. They may have expensive clothing or heirlooms but store their wealth rather than carry it.
+Working-Class or Specialist Backgrounds: Practical and durable gear suited to their trade. For example, a corsair might have well-made sailing gloves, rope, and a reliable weapon.
+Humble or Struggling Backgrounds: Basic but functional gear, often with sentimental value or clever improvisation to make up for a lack of resources.
+
+3. Skills
+Equip items that support your character’s abilities and skills:
+Combat Skills: Choose weapons or armor that match your style and proficiency. For example, a character skilled with whips might carry a high-quality whip and lightweight armor.
+Utility Skills: Tools and items tied to your character’s specialties. For example:
+Acrobatics: Lightweight gear like climbing tools or grappling hooks.
+Crafting or Knowledge Skills: Items like alchemical kits, books, or artisan tools.
+Supportive Roles: Include utility items like healing potions, first aid kits, or support gear.
+
+4. Financial Constraints and Needs
+Ready Items: Reflect the essentials your character cannot do without.
+Carried Items: Consider the character’s profession and role in the party to determine practical additions.
+Stored Possessions: Reflect their financial standing and the potential to acquire better equipment or supplies later.
+
+5. Collaborate with Your GM
+Discuss with your GM to ensure your equipment aligns with the campaign setting. They can provide:
+
+Insights into what items might be available or restricted.
+Suggestions for starting gear based on the campaign environment.
+Adjustments for unique character concepts or scenarios.
+
+Final Note
+Balance your character’s practicality with storytelling. A character’s equipment is not just a list of items—it reflects who they are, where they come from, and how they’re preparing for their journey. Think about quality, quantity, and accessibility while keeping gameplay needs in mind.
+-->
 
 ## Inventory
 ### Ready Items
