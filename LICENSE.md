@@ -33,7 +33,7 @@ By using, copying, modifying, or distributing any part of OD3d6GS or Stereotera 
 
 1. **No Misrepresentation**: You may not claim authorship of OD3d6GS or Stereotera. Proper attribution is always required.
 2. **No Use of Proprietary Content**: You may not use, adapt, or redistribute *Death Mesa* or any other proprietary works created by Nicholas R. Grotto unless expressly permitted.
-3. **No Unauthorized Commercial Use**: Commercial use of OD3d6GS and Stereotera content is not allowed unless prior written permission is obtained, subject to the expiration clause in Section 2.1.
+3. **No Unauthorized Commercial Use**: Commercial use of OD3d6GS and Stereotera content is not allowed unless prior written permission is obtained.
 4. **Preservation of License**: This license must accompany all distributions and derivative works. Any modification or removal of this license is prohibited.
 
 ---
@@ -53,7 +53,7 @@ The OD3d6GS and Stereotera content is provided "as is" without any warranty, exp
 
 ## Section 6: Amendments
 
-Nicholas R. Grotto reserves the right to issue updated versions of this license. The version under which content was originally distributed will continue to apply to that content.
+Nicholas R. Grotto reserves the right to issue updated versions of this license.
 
 ---
 
