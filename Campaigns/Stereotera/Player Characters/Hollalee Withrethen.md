@@ -1,15 +1,24 @@
 <!-- Cover Page 1 -->
 # Hollalee Withrethen
-***Outcast Scion** Innate Vitalix Abilities*
-**Portrait:** ![Punk Theme Hollalee](/src/img/char_tok-Hollalee-Punk.png)![Nautical Theme Hollalee](/src/img/char_tok-Hollalee-Nautical.png)
 
-## Background:  
+**Outcast Scion** *Mixed Elf | She/Her | Innate Vitalix Abilities*
+**Portrait:** ![alt text](/src/img/char-Hollalee_Withrethen.webp) ![alt text](/src/img/char_tok-Hollalee_Withrethen.png)
+
+## Background
+
 Hollalee Withrethen carries the weight of her family’s prestigious name, using it to influence deals and open doors despite being cut off financially. Her strained relationship with her family leaves her on the edge of high society, with some respecting her boldness while others heed the family’s warnings to avoid her. She maintains a reputation as a daring and charismatic figure, though her manipulative tendencies often create tension.
-### Contacts:
+
+### Crew Hook
+
+Hollalee brings both opportunity and chaos to the crew. Her family name opens doors, and her ambition pushes the group into jobs others wouldn’t dare take. While she believes herself destined for greatness, her crew mates see her as the charismatic “Scion” who can both elevate their fortunes and drag them into trouble. Hollalee’s long-standing friendship with Jaya and her knack for persuasion have kept the crew together through thick and thin.
+
+### Contacts
+
 **Ozzel Kintle** *Friendly Gossip* - Ozzel is a Marshfolk who runs a modest food cart near the docks, serving hearty stews and fried fish to sailors and dockworkers. 
 **Inessa Velaro** *Exploitative Self-Serving* - Inessa is a *Corsair Guildmaster* who operates a thriving tradehouse in Port Reckless, specializing in rare goods, magical curiosities, and high-value information.
 
-## Heritage:
+## Heritage
+
 ***Mixed Heritage** (Deep Elf 30%, Human 30%, Moon Elf 40%)*
 Hollalee’s bloodline weaves a rich tapestry of Deep Elf, Human, and Moon Elf ancestry, giving her striking features and an innate connection to Vitalix energy. Three generations ago, her great-great-aunt, the infamous pirate queen Sorynne “Stormsong” Withrethen, ruled the seas before the formation of the Corsair Trade Corporation. Hollalee’s family believes she may be Sorynne’s reincarnated soul, a notion Hollalee embraces wholeheartedly. At the age of 65—barely an adult by elven standards—she left home to forge her own path, determined to reclaim her ancestor’s legacy and carve her name into history.
 
@@ -32,6 +41,7 @@ Name:  **Hollalee Withrethen**
 **Archetype:** ***Outcast Scion** Innate Vitalix Abilities*
 
 ## Score Card
+
 ### Effort Pool
 
 | Stamina | Focus | Resolve |
@@ -39,28 +49,31 @@ Name:  **Hollalee Withrethen**
 | **2** | -1 | **3** |
 
 ### Saves & Bonuses
+
 | Archetype Save    | Archetype Bonus | Defense Score |
 | :-------: | :-----: | :-------: |
 | 14 | 6 | 16 |
 
 ### Damage Threshold
+
 | Minor | Moderate | Severe |
 |:------:|:------:|:------:|
 |   3   |   7   |   13   |
 
 ### Domains and Attributes
 
-| **Spirit** _(A)_ | **Body** | **Mind** |
+| **Spirit** *(A)* | **Body** | **Mind** |
 |:------:|:------:|:------:|
 |   **3**   |   **2**   |   **-1**   |
 
-| **Grace (GRA)** | **Willpower (WIL)** | **Agility (AGI)** | **Beauty (BEA)** | **Perception (PER)** | **Intuition (INT)** |
+| **Grace (GRA)** *(A)* | **Willpower (WIL)** | **Agility (AGI)** | **Beauty (BEA)** | **Perception (PER)** | **Intuition (INT)** |
 |:------:|:------:|:------:|:------:|:------:|:------:|
-|   **3** _(A)_   |   **2**   |   **1**   |   **2**   |   **-1**   |   **-1**   |
+|   **3**    |   **2**   |   **1**   |   **2**   |   **-1**   |   **-1**   |
 
 ---
 
 ## Skills
+
 | **Skill**       | **Association** | **Mastery** | **Attribute** | **Description**                                                                 |
 |------------------|-----------------|-------------|---------------|---------------------------------------------------------------------------------|
 | **Transmutation** | Archetype      | 3           | GRA +3    | Hollalee can alter the properties of physical objects, reshaping or enhancing them with Vitalix energy. |
@@ -96,7 +109,9 @@ Name:  **Hollalee Withrethen**
 <!-- Page 4 -->
 
 ## Inventory
+
 ### Ready Items
+
 | **Item**                 | **Description**                                                                 |
 |--------------------------|---------------------------------------------------------------------------------|
 | **Excellent Whip**       | A finely crafted whip with reinforced leather and a weighted handle for balance. |
@@ -106,6 +121,7 @@ Name:  **Hollalee Withrethen**
 | **Coin Purse**           | Contains 15 silver pieces and 10 copper pieces for immediate expenses.          |
 
 ### Carried Items
+
 | **Item**                 | **Description**                                                                 |
 |--------------------------|---------------------------------------------------------------------------------|
 | **Small Satchel**        | A durable leather bag with compartments for tools and supplies.                 |
@@ -117,6 +133,7 @@ Name:  **Hollalee Withrethen**
 | **Rope (50 ft)**         | A strong, lightweight rope useful for climbing or securing cargo.               |
 
 ### Stored Possessions/Location
+
 | **Item**                 | **Description**                                                                 |
 |--------------------------|---------------------------------------------------------------------------------|
 | **Apartment in Port Reckless** | A modest apartment with basic furnishings, located near the docks.             |
@@ -129,7 +146,9 @@ Name:  **Hollalee Withrethen**
 ---
 
 ## Notes and Records
+
 ### Journal Entries:
+
 - (*Newest Date: ...*)
   - Entry details...
 
@@ -137,4 +156,5 @@ Name:  **Hollalee Withrethen**
   - Entry details...
 
 ### Spellbooks and Recipes:
+
 - Hollalee does not cook.

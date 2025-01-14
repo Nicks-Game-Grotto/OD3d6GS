@@ -1,21 +1,30 @@
 <!-- Cover Page 1
 Players may start with a character name and archetype if they already have a concept in mind. Alternatively, they can complete other sections of the character sheet and decide on the name and archetype afterward. This approach allows the character’s abilities and background to inform these choices. -->
 # [Character Name]
+
 ***[Archetype]** [Brief Archetype Description]*
 **Portrait:** ![Portrait 1](#) ![Token](#)
 
-## Background:  
+## Background
+
 [Provide a brief history of the character, their motivations, and their standing in the world. Include notable achievements or struggles including financial and social status.]
 
-### Contacts:
+### Crew Hook
+
+[Describe the character's connection to the party and game world.]
+
+### Contacts
+
 **[Contact Name]** *[Relationship Type]* - [Describe the contact, their role, and how the character knows them.]
 **[Contact Name]** *[Relationship Type]* - [Provide a second contact with a different dynamic or role.]
 
-## Heritage:
+## Heritage
+
 **[Heritage Name]** *([Enter Mixed Genetic or Magical Heritage if Applicable])*  
 [Describe the character's heritage, cultural influences, and any innate abilities or traits tied to their ancestry. Mention any historical connections. Include the character's age and physical description]
 
 ## Growth
+
 | Milestone | Description |
 |-----------|-------------|
 | 1         | [Write a description for this growth milestone.] |
@@ -31,22 +40,26 @@ Players may start with a character name and archetype if they already have a con
 <!-- Character Pages 2-3 -->
 
 # **[Character Name]**
+
 **[Archetype Name]**
 *[Tagline-Heritage-Gender]*
 
 ## Score Card
 <!-- Effort Pool, Archetype Scores, and Base Defense are calculated from your attributes. Armor and Abilities may also modify Defense and Damage Threshold. Save this section until you've calculated all other relevant scores. -->
 ### Effort Pool
+
 | Stamina | Focus | Resolve |
 | :-------: | :-----: | :-------: |
 | [Score] | [Score] | [Score] |
 
 ### Saves & Bonuses
+
 | Archetype Save    | Archetype Bonus | Defense Score |
 | :-------: | :-----: | :-------: |
 | **[Save-Value]** | **[Bonus-Value]** | **[Defense-Value]** |
 
 ### Damage Threshold
+
 | Minor | Moderate | Severe |
 |:------:|:------:|:------:|
 |   [Value]   |   [Value]   |   [Value]   |
@@ -86,13 +99,14 @@ Players can sort the columns for these tables to suit their liking.
 You have 12 points to distribute among your six chosen attributes. Each point raises an attribute’s score by +1. Attributes start at -1. No attribute can be raised higher than +3 at this stage. This limitation ensures system integrity. If the sum of the attribute bonuses equals six you got it right. -6 + 12 = 6
 -->
 ### Domains and Attributes
-| [Archetype-Domain] _(A)_ | [Domain] | [Domain] |
+
+| [Archetype-Domain] *(A)* | [Domain] | [Domain] |
 |:------:|:------:|:------:|
 |   **[Score]**   |   **[Score]**   |   **[Score]**   |
 
-| **[Archetype-Attribute]** **([ATT])** | **[Attribute]** **([ATT])** | **[Attribute]** **([ATT])** | **[Attribute]** **([ATT])** | **[Attribute]** **([ATT])** | **[Attribute]** **([ATT])** |
+| [Archetype-Attribute] ([ATT]) *(A)* | [Attribute] ([ATT]) | [Attribute] ([ATT]) | [Attribute] ([ATT]) | [Attribute] ([ATT]) | [Attribute] ([ATT]) |
 |:------:|:------:|:------:|:------:|:------:|:------:|
-|   **[Archetype-Score]** _(A)_   |   **[Score]**   |   **[Score]**   |   **[Score]**   |   **[Score]**   |   **[Score]**   |
+|   **[Archetype-Score]**    |   **[Score]**   |   **[Score]**   |   **[Score]**   |   **[Score]**   |   **[Score]**   |
 
 ---
 
@@ -129,6 +143,7 @@ Ability creation (e.g., calculating damage or effects).
 
 -->
 ## Skills
+
 | Skill             | Association   | Mastery     | Attribute | Description                                                                      |
 |:------------------|:--------------|:-----------:|:---------:|:---------------------------------------------------------------------------------|
 | **[Skill Name]**  | Archetype     | Level Score | ATT Score | [Describe the skill, what it represents, and how it’s used in gameplay.]         |
@@ -194,17 +209,21 @@ Balance your character’s practicality with storytelling. A character’s equip
 -->
 
 ## Inventory
+
 ### Ready Items
+
 | Item                     | Description                                                                     |
 |--------------------------|---------------------------------------------------------------------------------|
 | **[Item Name]**          | [Describe the item and its use or value.]                                       |
 
 ### Carried Items
+
 | Item                     | Description                                                                     |
 |--------------------------|---------------------------------------------------------------------------------|
 | **[Item Name]**          | [Describe portable items useful during exploration or combat.]                  |
 
 ### Stored Possessions/Location
+
 | Item                     | Description                                                                     |
 |--------------------------|---------------------------------------------------------------------------------|
 | **[Item Name]**          | [Describe items stored for later use or kept in a specific location.]           |
@@ -212,7 +231,9 @@ Balance your character’s practicality with storytelling. A character’s equip
 ---
 
 ## Notes and Records
+
 ### Journal Entries:
+
 - (*[Date]*)
   - [Record a journal entry or noteworthy event.]
 
@@ -220,4 +241,5 @@ Balance your character’s practicality with storytelling. A character’s equip
   - [Continue logging important events.]
 
 ### Spellbooks and Recipes:
+
 - [Record spells, abilities, or custom crafting recipes here.]
