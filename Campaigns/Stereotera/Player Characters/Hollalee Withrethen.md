@@ -14,13 +14,15 @@ Hollalee brings both opportunity and chaos to the crew. Her family name opens do
 
 ### Contacts
 
-**Ozzel Kintle** *Friendly Gossip* - Ozzel is a Marshfolk who runs a modest food cart near the docks, serving hearty stews and fried fish to sailors and dockworkers. 
+**Ozzel Kintle** *Friendly Gossip* - Ozzel is a Marshfolk who runs a modest food cart near the docks, serving hearty stews and fried fish to sailors and dockworkers.
+
 **Inessa Velaro** *Exploitative Self-Serving* - Inessa is a *Corsair Guildmaster* who operates a thriving tradehouse in Port Reckless, specializing in rare goods, magical curiosities, and high-value information.
 
 ## Heritage
 
 ***Mixed Heritage** (Deep Elf 30%, Human 30%, Moon Elf 40%)*
-Hollalee’s bloodline weaves a rich tapestry of Deep Elf, Human, and Moon Elf ancestry, giving her striking features and an innate connection to Vitalix energy. Three generations ago, her great-great-aunt, the infamous pirate queen Sorynne “Stormsong” Withrethen, ruled the seas before the formation of the Corsair Trade Corporation. Hollalee’s family believes she may be Sorynne’s reincarnated soul, a notion Hollalee embraces wholeheartedly. At the age of 65—barely an adult by elven standards—she left home to forge her own path, determined to reclaim her ancestor’s legacy and carve her name into history.
+
+Hollalee’s bloodline weaves a rich tapestry of Deep Elf, Human, and Moon Elf ancestry, giving her striking features and an innate connection to Vitalix energy. Three generations ago, her great-great-aunt, the infamous pirate queen Sorynne “Stormsong” Withrethen, ruled the seas before the formation of the Corsair Trade Corporation. Hollalee’s family believes she may be Sorynne’s reincarnated soul, a notion Hollalee embraces wholeheartedly. At the age of 65—barely an adult by elvin standards—she left home to forge her own path, determined to reclaim her ancestor’s legacy and carve her name into history.
 
 ## Growth
 
@@ -37,8 +39,9 @@ Hollalee’s bloodline weaves a rich tapestry of Deep Elf, Human, and Moon Elf a
 
 ## Bio
 
-Name:  **Hollalee Withrethen**
-**Archetype:** ***Outcast Scion** Innate Vitalix Abilities*
+# **Hollalee Withrethen**
+
+**Outcast Scion** *Mixed Elf | She/Her | Innate Vitalix Abilities*
 
 ## Score Card
 
