@@ -2,7 +2,7 @@
 Players may start with a character name and archetype if they already have a concept in mind. Alternatively, they can complete other sections of the character sheet and decide on the name and archetype afterward. This approach allows the character’s abilities and background to inform these choices. -->
 # Joe Shepard
 
-***[Archetype]** [Brief Archetype Description]*
+***Myrmidon** Innate Martial Abilities*
 **Portrait:** ![Portrait 1](#) ![Token](#)
 
 ## Background
@@ -39,10 +39,10 @@ Joe first worked with Hunter Rosenbree while protecting trade routes in the Isle
 
 <!-- Character Pages 2-3 -->
 
-# **[Character Name]**
+# Joe Shepard
 
-**[Archetype Name]**
-*[Tagline-Heritage-Gender]*
+**Frontline Fighter**
+*Southern Human - He/Him*
 
 ## Score Card
 <!-- Effort Pool, Archetype Scores, and Base Defense are calculated from your attributes. Armor and Abilities may also modify Defense and Damage Threshold. Save this section until you've calculated all other relevant scores. -->
@@ -50,19 +50,19 @@ Joe first worked with Hunter Rosenbree while protecting trade routes in the Isle
 
 | Stamina | Focus | Resolve |
 | :-------: | :-----: | :-------: |
-| [Score] | [Score] | [Score] |
+| 3 | 1 | -1 |
 
 ### Saves & Bonuses
 
-| Archetype Save    | Archetype Bonus | Defense Score |
+| Archetype Save | Archetype Bonus | Defense Score |
 | :-------: | :-----: | :-------: |
-| **[Save-Value]** | **[Bonus-Value]** | **[Defense-Value]** |
+| **14** | **6** | **16** |
 
 ### Damage Threshold
 
 | Minor | Moderate | Severe |
 |:------:|:------:|:------:|
-|   [Value]   |   [Value]   |   [Value]   |
+|   4  |  10   |  16   |
 
 ---
 
@@ -100,13 +100,13 @@ You have 12 points to distribute among your six chosen attributes. Each point ra
 -->
 ### Domains and Attributes
 
-| [Archetype-Domain] *(A)* | [Domain] | [Domain] |
+| Body *(A)* | Mind | Spirit |
 |:------:|:------:|:------:|
-|   **[Score]**   |   **[Score]**   |   **[Score]**   |
+|   **3**   |   **1**   |   **-1**   |
 
-| [Archetype-Attribute] ([ATT]) *(A)* | [Attribute] ([ATT]) | [Attribute] ([ATT]) | [Attribute] ([ATT]) | [Attribute] ([ATT]) | [Attribute] ([ATT]) |
+| Strength (STR) *(A)* | Constitution (CON) | Perseption (PER) | Discipline (DIS) | Empathy (EMP) | Willpower (WIL) |
 |:------:|:------:|:------:|:------:|:------:|:------:|
-|   **[Archetype-Score]**    |   **[Score]**   |   **[Score]**   |   **[Score]**   |   **[Score]**   |   **[Score]**   |
+|   **3**    |   **3**   |   **1**   |   **1**   |   **-1**   |   **-1**   |
 
 ---
 
@@ -146,13 +146,12 @@ Ability creation (e.g., calculating damage or effects).
 
 | Skill             | Association   | Mastery     | Attribute | Description                                                                      |
 |:------------------|:--------------|:-----------:|:---------:|:---------------------------------------------------------------------------------|
-| **[Skill Name]**  | Archetype     | Level Score | ATT Score | [Describe the skill, what it represents, and how it’s used in gameplay.]         |
-| **[Skill Name]**  | Archetype     | Level Score | ATT Score | [Describe the skill, what it represents, and how it’s used in gameplay.]         |
-| **[Skill Name]**  | Heritage      | Level Score | ATT Score | [Describe the skill, what it represents, and how it’s used in gameplay.]         |
-| **[Skill Name]**  | Heritage      | Level Score | ATT Score | [Describe the skill, what it represents, and how it’s used in gameplay.]         |
-| **[Skill Name]**  | Supplemental  | Level Score | ATT Score | [Describe the skill, what it represents, and how it’s used in gameplay.]         |
-| **[Skill Name]**  | Specific      | Level Score | ATT Score | [Describe the skill, what it represents, and how it’s used in gameplay.]         |
-| **[Skill Name]**  | Specific      | Level Score | ATT Score | [Describe the skill, what it represents, and how it’s used in gameplay.]         |
+| **Skirmisher Weapons**  | Archetype     | 3 | STR 3 | Joe is Skilled with Swords, Daggers, and Poleam of all types and he can uses Medium Armor and Shields  |
+| **Shield Arts**  | Archetype     | - | - | Joe is Skilled at using Shields of all types for Offensive as well as Defensive Abilities |
+| **Tracking**  | Heritage | 1 | PER 1 | Joe is an Apprentice Tracker. He gains +2 when tracking creatures. |
+| **Light Sleeper**  | Heritage | 0 | PER 1 | Joe is a natural Light Sleeper. He gets +1 to PER Saves even when he is sleeping. |
+| **Athletics**  | Supplemental  | 2 | STR 3 | Joe is an Adept Athlete.  |
+| **Slow Bleeder**  | Specific | 3 | CON 3 | Joe's blood coagulates better than most people.  |
 
 ---
 
@@ -165,6 +164,12 @@ https://github.com/Nicks-Game-Grotto/OD3d6GS/blob/main/Core%20Rules/0%20-%20Play
 
 | **Name**      | **Effort**       | **ToHit/Save**   | **Effect** | **Range** | **Description**                                               |
 |---------------|------------------|------------------|------------|-----------|----------------------------------------------------------------------------------------|
+| **Weapon Strike** | Free | +6 ToHit | Scale+3 DMG | Weapon Range | Joe can make attacks with any weapon in the Skirmisher/Soldier Skill Group using his AB without spending Effort. |
+| **Shield Parry** | Free | - | Save Action and Effort| Close | When a creature attacks Joe from Close Range, he can use his shield to Parry the attack. |
+| **Ready Stance** | Maintain Stamina | - | Save Action | - | While maintaining Stamina ing Ready Stance, Joe can Spend Effort to perform specific abilities without spending Action |
+| **Shield Block** | Spend Effort | - | +3 Defense | - | Joe can use his Shield to block incomming melee and missile attacks. When Joe is Maintaing Stamina in Ready Stance, he does not need to spend action to perform this ability. |
+| **Riposte** | Spend Effort | +6 ToHit | Reduced Scale + 3 | Weapon Range | When Joe Parrys an attack he can react with an attack. If Joe is Maintaing Stamina he does not spend an  action to perform this ability. |
+| **[Ability Name]** | [Effort Type] | [Value] | [Effect] | [Range] | [Describe the ability’s effect, including *Conditions*, shapes, and thematic details.]            |
 | **[Ability Name]** | [Effort Type] | [Value] | [Effect] | [Range] | [Describe the ability’s effect, including *Conditions*, shapes, and thematic details.]            |
 
 <!-- Items & Notes Pages (continuous) 
@@ -243,3 +248,5 @@ Balance your character’s practicality with storytelling. A character’s equip
 ### Spellbooks and Recipes:
 
 - [Record spells, abilities, or custom crafting recipes here.]
+
+| **[Ability Name]** | [Effort Type] | [Value] | [Effect] | [Range] | [Describe the ability’s effect, including *Conditions*, shapes, and thematic details.]            |

@@ -73,38 +73,6 @@ Jaya’s Mountain Bugbear heritage reflects her life in a close-knit, resourcefu
 
 ---
 
-<!--
-Characters have Domain Bonuses for Body, Mind, and Spirit. This bonus equals half the sum of the two chosen attributes in that Domain, rounded up. This Domain bonus is used for checks and saves that fall under the Domain but aren’t specific to a single attribute and don't combine with skills.
-Players choose character attributes. New players should choose from the list below.
-
-Body
-Description: Represents physical aspects, such as strength, agility, and endurance, impacting combat, health, and physical challenges.
-Strength (STR): Physical power.
-Agility (AGI): Speed and nimbleness. Bodily coordination.
-Dexterity (DEX): Precision, especially where hand-eye coordination is concerned.
-Beauty (BEA): Influence over the perceiver or likeability based on physical appearance.
-Constitution (CON): Endurance and health.
-
-Mind
-Description: Encompasses cognitive abilities like reasoning, awareness, and mental clarity, influencing problem-solving and decision-making.
-Intelligence (MEN): Reasoning/Memory.
-Mindfulness (MIN): Personal Awareness/Mental Clarity.
-Perception (PER): External Sensory Acuity/Interpretation.
-Intuition (INT): Gut Feelings/Quick Judgments.
-Discipline (DIS): Impulse Control/Conditioning.
-
-Spirit
-Description: Covers the connection between Mind and Body, including emotional intelligence, willpower, and charisma, affecting social interactions and personal resolve.
-Charisma (CHA): Influence and likeability based on personality.
-Willpower (WIL): Inner strength.
-Luck (LCK): Gambling, Fated Rolls.
-Empathy (EMP): Emotional intelligence.
-Grace (GRA): Composure and elegance.
-
-Players can sort the columns for these tables to suit their liking.
-
-You have 12 points to distribute among your six chosen attributes. Each point raises an attribute’s score by +1. Attributes start at -1. No attribute can be raised higher than +3 at this stage. This limitation ensures system integrity. If the sum of the attribute bonuses equals six you got it right. -6 + 12 = 6
--->
 ### Domains and Attributes
 
 | Spirit *(A)* | Mind | Body |
@@ -117,38 +85,6 @@ You have 12 points to distribute among your six chosen attributes. Each point ra
 
 ---
 
-<!--
-Skill Allocation Basics:
-All characters begin with 9 skill points to distribute.
-Each skill must have a Mastery Level between 1 (Apprentice) and 3 (Skilled), except for Heritage Skills, which can be at 0 (Novice) if desired.
-Skill Groups and Types:
-
-Archetype Skills:
-Choose two Skill Groups that define the character's Archetype.
-These two groups share the same Mastery Level.
-
-Heritage Skills:
-Select two individual Heritage Skills or one Skill Group from the magical sources (Vitalix, Vhidix, Manix).
-These skills are tied to the character's ancestry or innate traits and may start at 0 (Novice) if desired.
-
-Supplemental Skill Group:
-Choose one Supplemental Skill Group to enhance the character's versatility.
-
-Optional Specific Skills:
-Add additional Specific Skills that fit the character's concept, as desired, using the remaining points.
-
-Skill Associations:
-Each skill must be associated with one of the player's Attributes (e.g., Grace, Willpower).
-Archetype Skills: These are associated with the character's Archetype Attributes.
-Other skills can be associated with any attribute that aligns with the character’s concept.
-
-Using Skills:
-The Skill Mastery Level and the Attribute Score will determine:
-ToHit rolls.
-Save DCs.
-Ability creation (e.g., calculating damage or effects).
-
--->
 ## Skills
 
 | Skill             | Association   | Mastery     | Attribute | Description                                                                      |
@@ -163,16 +99,16 @@ Ability creation (e.g., calculating damage or effects).
 
 ---
 
-<!--
-Refer to the document link below for Ability Creation Instructions
-https://github.com/Nicks-Game-Grotto/OD3d6GS/blob/main/Core%20Rules/0%20-%20Player's%20Guide%20(Basic%20Rules).md#ability-creation-instructions
--->
-
 ## Abilities
 
-| **Name**      | **Effort**       | **ToHit/Save**   | **Effect** | **Range** | **Description**                                               |
-|---------------|------------------|------------------|------------|-----------|----------------------------------------------------------------------------------------|
-| **[Ability Name]** | [Effort Type] | [Value] | [Effect] | [Range] | [Describe the ability’s effect, including *Conditions*, shapes, and thematic details.]            |
+| **Name**        | **Effort**       | **ToHit/Save**   | **Effect**       | **Range**       | **Description**                                                                                  |
+|------------------|------------------|------------------|------------------|-----------------|----------------------------------------------------------------------------------------------|
+| **Staff Strike** | Free            | +6 ToHit         | 2d6+2            | Close           | Jaya delivers a powerful swing with her long staff. |
+| **Hey You**      | Free            | Spirit Save 14   | *Distracted*, *Vulnerable* | Close           | Jaya singles out a creature with a commanding shout, drawing their full attention. On a failed save, the target is *Distracted* and *Vulnerable* until they take an action to attempt another save. On a successful save, the target remains *Distracted* until their next action. |
+| **Heartfelt Harmony**     | Maintain Focus   | —            | —       | Aura Close      | Jaya manifests a soothing Aura that harmonizes the emotional energy of nearby allies, granting her and them Advantage to Maintain Effort. |
+| **Empathic Insight**      | Spend Effort             | Spirit Save 14   | *Sense Intent*   | Close           | Jaya can read subtle cues in a person’s behavior, revealing their true motives or intentions. On a failed save, Jaya also gleans a surface emotional state or recent memory tied to their current actions. |
+| **Sympathetic Surge**     | Burn Resolve     | Spirit Save 14   | Emotional Influence | Field           | Jaya channels her deep emotional energy to amplify or suppress the emotions of a group. On a failed save, creatures in the area are overwhelmed with *Courage* or *Fear*, depending on her intent. Success reduces the effect to *Distracted*. |
+
 
 <!-- Items & Notes Pages (continuous) 
 

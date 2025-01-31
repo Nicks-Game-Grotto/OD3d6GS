@@ -1,27 +1,34 @@
 <!-- Cover Page 1
 Players may start with a character name and archetype if they already have a concept in mind. Alternatively, they can complete other sections of the character sheet and decide on the name and archetype afterward. This approach allows the character’s abilities and background to inform these choices. -->
-# Caebel “Cae” Tinnybrass
+# Caebel “Say” Tinnybrass
 
-***[Archetype]** [Brief Archetype Description]*
+***Tiny Shinobi** Prepared Physical Abilities*
 **Portrait:** ![Portrait 1](#) ![Token](#)
 
 ## Background
 
-[Provide a brief history of the character, their motivations, and their standing in the world. Include notable achievements or struggles including financial and social status.]
+Caebel "Sae" Tinnybrass grew up on the outskirts of a bustling trade hub, where cunning and quick thinking were the keys to survival. A natural charmer and skilled thief, Sae honed their talents pulling small-time heists and elaborate cons. Their partnership with Sift, a Crystal Soul Automaton, elevated their schemes, blending Sift's methodical precision with Sae's creative improvisation. By the time they arrived in Port Reckless, their reputation for bold (and sometimes reckless) ingenuity preceded them. For Sae, the crew is an opportunity to expand their reach and make a name as a legendary figure in the Corsair Trade Corporation.
 
 ### Crew Hook
 
-Cae fell into the crew after their talent for infiltration saved an otherwise botched job. Their charm and resourcefulness quickly earned them a place among the group, especially as Hollalee seemed drawn to their bold style. Cae treats the crew as both family and audience, relying on their quick thinking and sharper tongue to keep everyone on their toes. Wherever Cae goes, their enigmatic partner Sift follows.
+Sae fell into the crew after their talent for infiltration saved an otherwise botched job. Their charm and resourcefulness quickly earned them a place among the group, especially as Hollalee seemed drawn to their bold style. Sae treats the crew as both family and audience, relying on their quick thinking and sharper tongue to keep everyone on their toes. Wherever Sae goes, their enigmatic partner Sift follows.
 
 ### Contacts
 
-**[Contact Name]** *[Relationship Type]* - [Describe the contact, their role, and how the character knows them.]
-**[Contact Name]** *[Relationship Type]* - [Provide a second contact with a different dynamic or role.]
+**Port Reckless Contact**  
+**Name:** *Fennic "Flick" Draelin*  
+**Type:** *Reckless Smuggler*  
+Fennic is a Cybrixian smuggler who operates out of the Artisan Islands, ferrying illicit tech and rare goods from Cybrixia to the southern territories. Sae first crossed paths with Flick during a heist that required smuggling stolen schematics off the mainland. The two bonded over a shared taste for risk and a disdain for authority. Flick is unpredictable but loyal to Sae, occasionally offering access to Cybrixian tech or an escape route when things go sideways—for a cut of the profits, of course.
+
+**Cybrixian Contact**  
+**Name:** *Elyra Synnovane*  
+**Type:** *Ambitious Hacker*  
+Elyra is a rising figure within Cybrixia’s underground resistance against the Hive-Mind, specializing in bypassing Synovate systems. Sae’s natural talent for stealth and adaptability caught Elyra’s eye during a Cybrixian job, and the two forged a partnership. While Elyra stays rooted in the neon-lit shadows of Cybrixia, she occasionally reaches out to Sae for help with sensitive operations, offering technical assistance or insider information in return. Their relationship is built on mutual respect, though Elyra’s intensity sometimes unnerves Sae. 
 
 ## Heritage
 
-**[Heritage Name]** *([Enter Mixed Genetic or Magical Heritage if Applicable])*  
-[Describe the character's heritage, cultural influences, and any innate abilities or traits tied to their ancestry. Mention any historical connections. Include the character's age and physical description]
+Caebel "Sae" Tinnybrass hails from Cybrixia, where technology and society are seamlessly intertwined under the control of the Hive-Mind. As a Tech Gnome, Sae possesses an innate affinity for patterns and systems, honed in the neon-lit chaos of the Synovate’s domain. This skill manifests in *Pattern Recognition*, allowing Sae to identify subtle, repeating elements in movements, systems, and data—whether predicting guard patrols, deciphering encrypted codes, or finding flaws in mechanical constructs.  
+Sae’s Cybrixian origin also grants them a *Telepathic Link* with other technologically enhanced beings, like their partner Sift. This connection is subtle but invaluable, enabling quick, silent communication and a heightened sense of synchronization during high-stakes situations. While Sae has rejected the Hive-Mind’s oppressive control, their heritage has left them with an undeniable connection to technology and its potential, making them a versatile and cunning operator in the ever-evolving world of *Stereotera*.
 
 ## Growth
 
