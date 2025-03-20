@@ -1,3 +1,74 @@
+# Table of Contents
+- [Table of Contents](#table-of-contents)
+- [Skill Mastery Scale](#skill-mastery-scale)
+- [Weapon Skills](#weapon-skills)
+  - [Skirmisher/Soldier](#skirmishersoldier)
+    - [Weapons](#weapons)
+    - [Armor and Shields](#armor-and-shields)
+    - [Tactical Awareness](#tactical-awareness)
+  - [Dueling](#dueling)
+    - [Weapons](#weapons-1)
+    - [Armor and Shields](#armor-and-shields-1)
+    - [Tactical Awareness](#tactical-awareness-1)
+  - [Archery](#archery)
+    - [Weapons](#weapons-2)
+    - [Armor and Shields](#armor-and-shields-2)
+    - [Tactical Awareness](#tactical-awareness-2)
+- [Physical Skills](#physical-skills)
+  - [Acrobatics](#acrobatics)
+    - [Skills](#skills)
+  - [Athletics](#athletics)
+    - [Skills](#skills-1)
+  - [Performance](#performance)
+    - [Skills](#skills-2)
+  - [Sleight of Hand](#sleight-of-hand)
+    - [Skills](#skills-3)
+  - [Infiltration/Egress](#infiltrationegress)
+    - [Skills](#skills-4)
+- [Mental Skills](#mental-skills)
+  - [Investigation/Observation](#investigationobservation)
+    - [Skills](#skills-5)
+    - [Instruments](#instruments)
+  - [Knowledge/Memory](#knowledgememory)
+    - [Skills](#skills-6)
+  - [Logic/Deduction](#logicdeduction)
+    - [Skills](#skills-7)
+  - [Strategy/Tactics](#strategytactics)
+    - [Skills](#skills-8)
+  - [Linguistics/Communication](#linguisticscommunication)
+    - [Skills](#skills-9)
+- [Spiritual Skills](#spiritual-skills)
+  - [Clarity](#clarity)
+    - [Skills](#skills-10)
+  - [Creativity](#creativity)
+    - [Skills](#skills-11)
+  - [Connection](#connection)
+    - [Skills](#skills-12)
+  - [Consciousness](#consciousness)
+    - [Skills](#skills-13)
+  - [Adaptation](#adaptation)
+    - [Skills](#skills-14)
+- [Magic Schools](#magic-schools)
+  - [Abjuration](#abjuration)
+    - [Skills](#skills-15)
+  - [Summoning](#summoning)
+    - [Skills](#skills-16)
+  - [Transmutation](#transmutation)
+    - [Skills](#skills-17)
+  - [Mesmerism](#mesmerism)
+    - [Skills](#skills-18)
+  - [Enchantment](#enchantment)
+    - [Skills](#skills-19)
+- [Forces and Forms](#forces-and-forms)
+  - [Vitalix](#vitalix)
+    - [Vitalix Forms](#vitalix-forms)
+  - [Vidhix](#vidhix)
+    - [Vidhix Forms](#vidhix-forms)
+  - [Manix](#manix)
+    - [Manix Forms](#manix-forms)
+  - [Choosing and Using Forms](#choosing-and-using-forms)
+
+
 # Skill Mastery Scale
 
 | Skill Mastery                                                                                                                                                                        | Description                                                                                                                                                                                     |           Growth Point Cost           |
@@ -10,6 +81,8 @@
 | **4 (Expert)** Characters continue their journey of self discovery or studies with a Master.                                                                                         | The character demonstrates a high level of skill, excelling in difficult situations. They can execute advanced techniques and adapt to challenges.                                              |        4<br>Augment Abilities         |
 | **5 (Master)** Characters can no longer learn from the teachings of others but have not attained an epiphany or ascension that takes them beyond the understanding of other Masters. | The character is a master of the skill, executing tasks with precision and innovation. They can teach others and handle nearly any situation with grace.                                        | 5<br>Augment Abilities<br>Get Ability |
 | **6 (Grandmaster)** Takes place after a monumental Character event. Attainment of this level can have game altering effects.                                                         | The character is at the pinnacle of their craft, performing legendary feats and pushing the boundaries of what is possible. Their skill is unmatched, and they often create new techniques.     |       6 <br>Improvise Abilities       |
+
+[Back to Top](#table-of-contents)
 
 # Weapon Skills
 
@@ -77,6 +150,9 @@ Proficient in medium armor, archers prioritize a blend of mobility and durabilit
 
 ### Tactical Awareness
 Archers excel at surveying the battlefield, using keen observational skills to find ideal vantage points and control the distance between themselves and their opponents. In adventuring, they employ precision and patience, often scouting ahead to spot potential dangers before they escalate. When setting traps or preparing ambushes, their strategic positioning can make the difference in swiftly neutralizing threats. In warfare, archers thrive when supporting allies from afar, delivering a barrage of arrows to disrupt enemy formations or cover the advance or retreat of their forces.
+
+[Back to Top](#table-of-contents)
+
 # Physical Skills
 
 ## Acrobatics
@@ -171,6 +247,9 @@ This category involves the skills needed to move undetected, gain entry to restr
 - **Reading**: Interpret subtle cues from body language, facial expressions, or lip movements to gather information and gauge situations.
 - **Shadowing**: Following a target without being seen or detected, often used for gathering information.
 ---
+
+[Back to Top](#table-of-contents)
+
 ---
 # Mental Skills
 
@@ -261,6 +340,9 @@ This category includes both the technical skill of understanding languages and t
 - **Storytelling**: Weave compelling narratives to engage listeners and evoke emotional responses, from entertainment to moral lessons.
 - **Interrogation**: Elicit information from others using strategic questioning, observation, and psychological tactics.
 ---
+
+[Back to Top](#table-of-contents)
+
 ---
 # Spiritual Skills
 
@@ -308,9 +390,11 @@ The ability to sense, understand, and harmonize with other people, creatures, or
 ---
 
 ## Consciousness
+
 This skill category involves a profound awareness of the mind, spirit, and realms beyond physical reality. Characters with expertise in Consciousness can explore the psyche, astral project, traverse dreamscapes, create vivid illusions, or influence the minds and bodies of others.
 
 ### Skills
+
 - **Astral Projection**: Separate your consciousness from your physical form to explore other planes or distant locations, gathering knowledge or interacting with the spirit world.
 - **Dreamwalking**: Enter or manipulate the dreams of others, weaving visions, discovering secrets, or leaving subconscious suggestions.
 - **Illusory Craft**: Manifest complex illusions that deceive the senses, creating images, sounds, or sensations that can fool even the most discerning minds.
@@ -325,6 +409,7 @@ This skill category involves a profound awareness of the mind, spirit, and realm
 ---
 
 ## Adaptation
+
 Adaptation skills emphasize flexibility and resilience, enabling characters to adjust to changing environments and resist transformative effects.
 
 ### Skills
@@ -340,14 +425,20 @@ Adaptation skills emphasize flexibility and resilience, enabling characters to a
 - **Combat Reflection**: After observing an attack, quickly adjust your movements to counter or deflect it.
 - **Fluid Response**: Shift seamlessly between offensive and defensive tactics, altering your stance and approach to match the flow of battle.
 - **Echo Strike**: Learn an enemy's attack rhythm and use it to predict and mirror their strikes.
+
 ---
+
+[Back to Top](#table-of-contents)
+
 ---
 # Magic Schools
 
 ## Abjuration
+
 This school of magic is dedicated to shielding and protective enchantments. Abjuration spells create barriers, wards, and auras to defend against physical or magical harm. Practitioners specialize in deflecting attacks, nullifying curses, and crafting shields of pure energy. Abjurers are experts at preventing intrusion and safeguarding spaces, using their magic to maintain safety and offer critical protection in battle.
 
 ### Skills
+
 - **Barrier**: Manifest magical barriers that persistently block physical or magical attacks, creating robust fortifications for allies or designated strategic locations. The barrier remains in place until dispelled or broken.
 - **Warding**: Engrave protective seals on surfaces or objects that activate upon specific triggers. These seals can repel intruders, nullify harmful curses, or deny access to restricted areas, providing continuous security.
 - **Protective**: Create an ongoing aura that grants resistance to chosen damage types for you and nearby allies. This bolstering effect reduces damage taken and reinforces defenses over time.
@@ -358,9 +449,11 @@ This school of magic is dedicated to shielding and protective enchantments. Abju
 ---
 
 ## Summoning
+
 Summoning magic enables the caster to call forth creatures, objects, or spaces from beyond the physical realm, binding them to this plane or manifesting them for temporary use. These skills grant summoners control over entities and constructs, creating dynamic solutions and powerful allies.
 
 ### Skills
+
 - **Conjuring**: Call forth entities or spirits to aid or serve, from ethereal familiars to powerful summoned creatures.
 - **Manifesting**: Bring into existence weapons, tools, or constructs from raw magical energy to fulfill a specific purpose.
 - **Binding**: Secure summoned entities or energies, ensuring they remain under control or tethered to their designated space.
@@ -371,9 +464,11 @@ Summoning magic enables the caster to call forth creatures, objects, or spaces f
 ---
 
 ## Transmutation
+
 Transmutation magic transforms the physical attributes and properties of creatures or objects. Practitioners can reshape matter, change the biological features of living beings, and enhance or diminish natural traits.
 
 ### Skills
+
 - **Material Conversion**: Transform one type of matter into another, such as changing stone into sand or lead into gold.
 - **Shapechange**: Alter the physical form of yourself or a willing creature, adapting features like limbs, size, or other biological aspects.
 - **Density Manipulation**: Adjust the density of objects or creatures to make them lighter, heavier, more fragile, or more durable.
@@ -388,9 +483,11 @@ Transmutation magic transforms the physical attributes and properties of creatur
 ---
 
 ## Mesmerism
+
 Mesmerism is the magical art of influencing and manipulating the consciousness, emotions, and perceptions of others. Practitioners subtly alter a target's inner world, crafting illusions, shifting emotional states, or distorting their sense of reality.
 
 ### Skills
+
 - **Suggestion**: Implant subtle ideas or commands into a target's mind, making them feel as if these thoughts are their own.
 - **Perception Distortion**: Alter how a target senses reality, creating sensory illusions that can obscure, misdirect, or mesmerize.
 - **Emotional Influence**: Manipulate the emotional state of a creature, instilling fear, calm, joy, or even deep sadness.
@@ -405,9 +502,11 @@ Mesmerism is the magical art of influencing and manipulating the consciousness, 
 ---
 
 ## Enchantment
+
 Enchantment is the magical art of imbuing inanimate objects with extraordinary properties. By creating seals, performing rituals, and channeling forces, enchanters imbue objects with extraordinary properties.
 
 ### Skills
+
 - **Seal Creation**: Craft and inscribe Seals on objects, imbuing them with specific magical effects or properties.
 - **Elemental Imbuement**: Infuse weapons, armor, or items with elemental energy, granting temporary fire, ice, lightning, or other elemental enhancements.
 - **Augment Weaponry**: Magically enhance weapons to improve their sharpness, durability, or special properties, like bypassing armor.
@@ -419,7 +518,11 @@ Enchantment is the magical art of imbuing inanimate objects with extraordinary p
 - **Harmonize Energy**: Attune enchanted items to their user, improving compatibility and maximizing the item's magical potential.
 - **Persistent Effect**: Embed long-lasting magic into an object, ensuring its effects endure over time, whether in battle or utility scenarios.
 ---
+
+[Back to Top](#table-of-contents)
+
 ---
+
 # Forces and Forms
 
 Magic in this system is divided into three fundamental forces: **Vitalix** (Life Body), **Vidhix** (Void Mind), and **Manix** (Energy Spirit). Each force manifests through five unique forms, collectively described by the suffix “mancy,” representing the magical manipulation of various elements or energies. These forms encompass a wide range of abilities, from the control of living and physical matter to the harnessing of void or spiritual energy, offering diverse paths for spellcasters to explore and master.
@@ -434,7 +537,8 @@ Characters may select a Form as an **Archetype**, **Supplemental**, or **Heritag
 
 Vitalix (*vye-TAL-iss*) represents the magic of **Life Forces**, encompassing the energy and essence of living beings and natural elements. This force emphasizes the connection between life and the environment, drawing power from the natural world to heal, transform, or command living forces.
 
-### Forms
+### Vitalix Forms
+
 - **Hydromancy**: Mastery over water in all its forms—fluid, ice, or vapor. Hydromancers can shape water into walls, projectiles, or serene lakes, reflecting unseen truths in its depths.
 - **Aeromancy**: Control of air and wind. Aeromancers manipulate breezes, summon storms, and use atmospheric changes to deliver whispers or foresight.
 - **Necromancy**: Command over life and death. Necromancers raise the dead, sever ties between body and soul, or draw power from vitality and decay.
@@ -447,7 +551,8 @@ Vitalix (*vye-TAL-iss*) represents the magic of **Life Forces**, encompassing th
 
 Vidhix (*VEE-dhiss*) represents the **Void**, encompassing abstract forces that defy natural laws. This force enables practitioners to manipulate existence's fundamental aspects, alter perception, and wield the unseen.
 
-### Forms
+### Vidhix Forms
+
 - **Geomancy**: Manipulation of earth, rock, and minerals. Geomancers reshape landscapes, summon earthquakes, or divine wisdom from the shifting of stones.
 - **Oneiromancy**: Influence over dreams and subconscious realities. Oneiromancers navigate the dream realm to uncover secrets or manipulate emotions.
 - **Theriomancy**: Communion with animals and non-vegetative living consciousness, allowing for communication, control, and insight.
@@ -460,7 +565,8 @@ Vidhix (*VEE-dhiss*) represents the **Void**, encompassing abstract forces that 
 
 Manix (*MAN-iss*) represents the magic of **Energetic Forces**, encompassing the dynamic manipulation of tangible and intangible energy. Practitioners control light, fire, shadows, technology, and plant life.
 
-### Forms
+### Manix Forms
+
 - **Luxomancy**: Manipulation of light. Luxomancers create blinding displays, cleanse impurities, or dazzle with radiant illusions.
 - **Pyromancy**: Command over fire and heat. Pyromancers summon flames, forge infernos, or read flickering flames for prophetic insights.
 - **Umbramancy**: Control of shadows and darkness. Umbromancers weave shadows into barriers, illusions, or sentient forces.
@@ -479,3 +585,5 @@ By aligning with a Form, players can:
 - Tie their character's background or heritage to the world’s mystical energies.
 
 Through Vitalix, Vidhix, and Manix, players can explore diverse paths, tailoring their character’s magical identity to their playstyle and narrative goals.
+
+[Back to Top](#table-of-contents)
