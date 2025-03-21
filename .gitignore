@@ -10,6 +10,9 @@ git-commands.md
 *.temp
 Logs/
 
+# Working Folders
+Character-Sheets
+
 # OS-generated files
 .DS_Store
 Thumbs.db
